@@ -87,6 +87,7 @@ a {
     width: 30vw;
     min-width: 400px;
     height: max-content;
+    max-height: 60vh;
     padding: 2rem;
     margin: auto;
     top: 0;
@@ -98,6 +99,7 @@ a {
     background: #eee;
     border-radius: 4px;
     box-shadow: 4px 4px 10px gray;
+    overflow: auto;
 }
 #header #about-content > p {
     margin-bottom: 1rem;
