@@ -1,0 +1,142 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    cursor: default;
+}
+html,
+body {
+    width: 100%;
+    position: relative;
+    background: var(--body-color);
+}
+a {
+    cursor: pointer;
+}
+#header {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background: var(--header-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header #header-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 40px;
+    color: var(--color-yellow);
+    font-weight: 900;
+}
+#header #title span.large {
+    text-decoration: underline;
+}
+#header #title span.small {
+    font-size: 1rem;
+}
+#header #header-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20px;
+}
+#header #search-box input {
+    width: 200px;
+    height: 30px;
+    vertical-align: middle;
+    border: 0;
+    outline: none;
+    border-radius: 1px 0 0 1px;
+    padding-left: 6px;
+}
+#header #search-box input::placeholder {
+    font-style: italic;
+}
+#header #search-box button {
+    width: 40px;
+    height: 30px;
+    vertical-align: middle;
+    border: 0;
+    outline: none;
+    border-radius: 0 1px 1px 0;
+    cursor: pointer;
+    background: var(--color-yellow);
+}
+#header #search-box button:active {
+    background: var(--color-blue);
+}
+#materials {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, var(--material-width));
+    grid-template-rows: var(--material-height);
+    gap: 2rem;
+    padding: 2rem;
+    justify-content: center;
+}
+#materials .material-container {
+    position: relative;
+}
+#materials .material {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--material-color);
+    top: 0;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px gray;
+    border: solid 5px #E06526;
+    height: var(--material-height);
+}
+#materials .material-container:hover .material {
+    filter: saturate(50%);
+}
+#materials .material-container:hover .material-modal {
+    opacity: 1;
+}
+#materials .material-image,
+#materials img {
+    width: var(--material-image-width);;
+    height: calc(var(--material-height) - 10px);
+    border-radius: 10px 0 0 10px;
+}
+#materials img {
+    object-fit: cover;
+}
+#materials .material-info {
+    width: calc(var(--material-width) - var(--material-image-width));
+    height: var(--material-height);
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0 0 1rem;
+    gap: 1rem;
+}
+#materials .material-info > .name,
+#materials .material-info > .author,
+#materials .material-info > .year {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#materials .info {
+    text-decoration: underline;
+    font-weight: 900;
+}
+#materials .material-modal {
+    position: absolute;
+    margin: auto 5px;
+    right: 0;
+    left: 0;
+    font-size: 1.5rem;
+    font-weight: 900;
+    height: max-content;
+    padding: 1rem;
+    opacity: 0;
+    bottom: 10px;
+    text-align: center;
+    background: #F5CD3B;
+    color: #fff;
+}

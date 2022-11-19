@@ -1,0 +1,34 @@
+<div id='materials'>
+    {% for item in site.data.material %}
+        <div class='material-container'>
+            <div class='material'>
+                <div class='material-image'>
+                    <img src="/assets/images/{{ item.index }}" />
+                </div>
+                <div class='material-info'>
+                    <div class='name'>
+                        <span>📕书名：</span>
+                        <span class='info' title="{{ item.name }}">{{ item.name }}</span>
+                    </div>
+                    <div class='author'>
+                        <span>👩‍🎓作者：</span>
+                        <span class='info' title="{{ item.author }}">{{ item.author }}</span>
+                    </div>
+                    <div class='year'>
+                        <span>📅出版年份：</span>
+                        <span class='info' title="{{ item.year }}">{{ item.year }}</span>
+                    </div>
+                    <div class='urls'>
+                        <span>🔑下载地址:</span>
+                        {% for url in item.urls %}
+                            <a href="{{ url.link }}">{{ url.vendor }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <div class='material-modal'>
+                {{ item.name }}
+            </div>
+        </div>
+    {% endfor %}
+</div>

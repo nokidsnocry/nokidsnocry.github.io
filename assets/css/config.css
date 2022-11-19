@@ -1,0 +1,11 @@
+:root {
+    --color-blue: #6AB6DB;
+    --color-orange: #E06526;
+    --color-yellow: #F5CD3B;
+    --body-color: var(--color-blue);
+    --header-color: var(--color-orange);
+    --material-color: #8CD9F3;
+    --material-width: 330px;
+    --material-height: 225px;
+    --material-image-width: calc(var(--material-height) / 1.4)
+}
