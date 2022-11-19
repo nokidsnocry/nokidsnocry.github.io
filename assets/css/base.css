@@ -11,12 +11,18 @@ body {
     width: 100%;
     position: relative;
     background: var(--body-color);
+    font-family: 'KaiTi';
 }
 a {
     cursor: pointer;
 }
+.english {
+    font-family: 'Times New Roman';
+}
 #header {
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 100;
     width: 100%;
     height: 60px;
     background: var(--header-color);
@@ -56,7 +62,8 @@ a {
 #header #search-box input::placeholder {
     font-style: italic;
 }
-#header #search-box button {
+#header #search-box button,
+#header #about-button {
     width: 40px;
     height: 30px;
     vertical-align: middle;
@@ -68,6 +75,38 @@ a {
 }
 #header #search-box button:active {
     background: var(--color-blue);
+}
+#header #about-button {
+    width: 60px;
+    border-radius: 1px;
+    margin-left: 1rem;
+    background: var(--color-blue);
+}
+#header #about-content {
+    position: fixed;
+    width: 30vw;
+    height: max-content;
+    padding: 2rem;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: none;
+    z-index: 100;
+    background: #eee;
+    border-radius: 4px;
+    box-shadow: 4px 4px 10px gray;
+}
+#header #about-content > p {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+#header #about-content > p > a {
+    text-decoration: underline;
+}
+#header #about-content #email {
+    color: var(--color-blue);
 }
 #materials {
     display: grid;
@@ -111,7 +150,7 @@ a {
     height: var(--material-height);
     display: flex;
     flex-direction: column;
-    padding: 1rem 0 0 1rem;
+    padding: 1rem;
     gap: 1rem;
 }
 #materials .material-info > .name,
@@ -130,13 +169,35 @@ a {
     margin: auto 5px;
     right: 0;
     left: 0;
-    font-size: 1.5rem;
     font-weight: 900;
     height: max-content;
-    padding: 1rem;
+    padding: 0.5rem;
     opacity: 0;
     bottom: 10px;
     text-align: center;
     background: #F5CD3B;
     color: #fff;
+}
+#materials .material-modal .urls {
+    color: var(--color-orange);
+}
+#materials #no-result {
+    width: max-content;
+    height: max-content;
+    position: fixed;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-size: 2rem;
+    color: var(--color-orange);
+    font-weight: 900;
+    font-style: italic;
+    display: none;
+}
+@media screen and (max-width: 850px) {
+    #header #title {
+        display: none;
+    }
 }

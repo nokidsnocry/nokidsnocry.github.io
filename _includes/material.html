@@ -3,7 +3,7 @@
         <div class='material-container'>
             <div class='material'>
                 <div class='material-image'>
-                    <img src="/assets/images/{{ item.index }}" />
+                    <img src="/assets/images/material_cover/{{ item.index }}" />
                 </div>
                 <div class='material-info'>
                     <div class='name'>
@@ -15,20 +15,22 @@
                         <span class='info' title="{{ item.author }}">{{ item.author }}</span>
                     </div>
                     <div class='year'>
-                        <span>📅出版年份：</span>
+                        <span>📅日期：</span>
                         <span class='info' title="{{ item.year }}">{{ item.year }}</span>
-                    </div>
-                    <div class='urls'>
-                        <span>🔑下载地址:</span>
-                        {% for url in item.urls %}
-                            <a href="{{ url.link }}">{{ url.vendor }}</a>
-                        {% endfor %}
                     </div>
                 </div>
             </div>
             <div class='material-modal'>
-                {{ item.name }}
+                <div>《{{ item.name }}》</div>
+                <hr />
+                <div class='urls'>
+                    <span>🔑下载:</span>
+                    {% for url in item.urls %}
+                        <a href="{{ url.link }}">{{ url.vendor }}</a>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     {% endfor %}
+    <div id='no-result'>大海里什么鱼也没捞到🤷‍♀️，请缩短关键词再次搜索🔎......</div>
 </div>
