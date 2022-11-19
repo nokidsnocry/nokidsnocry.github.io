@@ -80,6 +80,9 @@ a {
     width: 60px;
     border-radius: 1px;
     margin-left: 1rem;
+    background: var(--color-green);
+}
+#header #about-button:active {
     background: var(--color-blue);
 }
 #header #about-content {
@@ -211,6 +214,6 @@ a {
         min-width: 80vw;
     }
     #header #logo {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 }
