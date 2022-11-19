@@ -85,6 +85,7 @@ a {
 #header #about-content {
     position: fixed;
     width: 30vw;
+    min-width: 400px;
     height: max-content;
     padding: 2rem;
     margin: auto;
@@ -199,5 +200,15 @@ a {
 @media screen and (max-width: 850px) {
     #header #title {
         display: none;
+    }
+    #header #header-right {
+        padding-right: 0;
+    }
+    #header #about-content {
+        width: 80vw;
+        min-width: 80vw;
+    }
+    #header #logo {
+        font-size: 1.2rem;
     }
 }
