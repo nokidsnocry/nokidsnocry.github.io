@@ -58,6 +58,7 @@ a {
     outline: none;
     border-radius: 1px 0 0 1px;
     padding-left: 6px;
+    cursor: text;
 }
 #header #search-box input::placeholder {
     font-style: italic;
