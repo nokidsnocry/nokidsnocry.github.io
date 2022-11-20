@@ -201,6 +201,7 @@ a {
     font-weight: 900;
     font-style: italic;
     display: none;
+    padding: 1rem;
 }
 @media screen and (max-width: 850px) {
     #header #title {
@@ -222,11 +223,12 @@ a {
     #header #about-content {
         font-size: 1rem;
     }
-    #no-result {
+    #materials #no-result {
         width: 80vw;
         max-width: 80vw;
         max-height: 60vh;
         overflow: auto;
+        font-size: 1rem;
     }
 }
 
