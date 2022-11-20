@@ -216,6 +216,9 @@ a {
     #header #logo {
         font-size: 1.5rem;
     }
+    #header #about-button {
+        margin-left: 4px;
+    }
     #header #about-content {
         font-size: 1rem;
     }
