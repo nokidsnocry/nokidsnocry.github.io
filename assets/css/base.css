@@ -103,10 +103,10 @@ a {
     border-radius: 4px;
     box-shadow: 4px 4px 10px gray;
     overflow: auto;
+    font-size: 1.2rem;
 }
 #header #about-content > p {
     margin-bottom: 1rem;
-    font-size: 1.2rem;
 }
 #header #about-content > p > a {
     text-decoration: underline;
@@ -216,6 +216,9 @@ a {
     #header #logo {
         font-size: 1.5rem;
     }
+    #header #about-content {
+        font-size: 1rem;
+    }
     #no-result {
         width: 80vw;
         max-width: 80vw;
@@ -223,3 +226,4 @@ a {
         overflow: auto;
     }
 }
+
