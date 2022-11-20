@@ -207,7 +207,7 @@ a {
         display: none;
     }
     #header #header-right {
-        padding-right: 0;
+        padding-right: 4px;
     }
     #header #about-content {
         width: 80vw;
@@ -215,5 +215,11 @@ a {
     }
     #header #logo {
         font-size: 1.5rem;
+    }
+    #no-result {
+        width: 80vw;
+        max-width: 80vw;
+        max-height: 60vh;
+        overflow: auto;
     }
 }
