@@ -99,8 +99,7 @@ function adjustSearchBoxLength() {
         let eleSearchButton = document.querySelector('#search-button');
         let eleAboutButton = document.querySelector('#about-button');
         let eleInput = document.querySelector('#search-box input');
-        let width = `${eleHeader.clientWidth - eleHeaderLeft.clientWidth - eleSelectType.clientWidth - eleSearchButton.clientWidth - eleAboutButton.clientWidth - 6}px`;
-        alert(eleHeader.clientWidth, eleHeaderLeft.clientWidth, eleSelectType.clientWidth, eleSearchButton.clientWidth, eleAboutButton.clientWidth, width);
+        let width = `${eleHeader.clientWidth - eleHeaderLeft.clientWidth - eleSelectType.clientWidth - eleSearchButton.clientWidth - eleAboutButton.clientWidth - 20}px`;
         eleInput.style.width = width;
     }
 }
