@@ -100,6 +100,7 @@ function adjustSearchBoxLength() {
         let eleAboutButton = document.querySelector('#about-button');
         let eleInput = document.querySelector('#search-box input');
         let width = `${eleHeader.clientWidth - eleHeaderLeft.clientWidth - eleSelectType.clientWidth - eleSearchButton.clientWidth - eleAboutButton.clientWidth - 6}px`;
+        alert(eleHeader.clientWidth, eleHeaderLeft.clientWidth, eleSelectType.clientWidth, eleSearchButton.clientWidth, eleAboutButton.clientWidth, width);
         eleInput.style.width = width;
     }
 }
