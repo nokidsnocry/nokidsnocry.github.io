@@ -1,182 +1,56 @@
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
-- name: "行为矫正技术（第二版）"
-  author: "昝飞"
-  year: "2012"
-  index: 10000001
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf"
-- name: "应用行为分析（第二版）"
-  author: "John O.Cooper..."
-  year: "2012"
-  index: 10000002
-  urls:
-    - vendor: "storj"
-      link: "https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf"
+metadata:
+  type: ['book', 'scale', 'document', 'law', 'video', 'website']
+  type-chinese: ['书籍', '量表', '文档', '法规', '视频', '网站']
+  type-description:
+    - '包含了关于某一主题的系统性知识'
+    - '用于鉴定、评估以及诊断的工具'
+    - '包含了关于某一主题的碎片化或纲领性的知识，其中包括ppt格式'
+    - '国家层面的政策性法律法规以及相关标准'
+    - '相关的在线视频'
+    - '各领域的权威网站和相关工具网站'
+  keywords: ['index', 'name', 'author', 'year', 'type', 'urls', 'description']
+
+
+  
+content:
+  - index: 10000001
+    type: 'book'
+    name: '行为矫正技术（第二版）'
+    author: '昝飞'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf'
+  - index: 10000002 
+    type: 'book'
+    name: '应用行为分析（第二版）'
+    author: 'John O.Cooper...'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+  - index: 30000001
+    type: 'document'
+    name: '自闭症儿童前语言沟通技能干预'
+    author: '连福鑫'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwn5sejamekyqbg4uavaewhyxyuq/specail-education-material%2Fdocument%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E5%89%8D%E8%AF%AD%E8%A8%80%E6%B2%9F%E9%80%9A%E6%8A%80%E8%83%BD%E5%B9%B2%E9%A2%84.ppt'
+  - index: 30000002
+    type: 'document'
+    name: '自闭症儿童自我认知及干预尝试'
+    author: '连福鑫'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxch5fm4zi53rcx4wksrocs2hh6q/specail-education-material%2Fdocument%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5%E5%8F%8A%E5%B9%B2%E9%A2%84%E5%B0%9D%E8%AF%95.pptx'
+  - index: 30000003
+    type: 'document'
+    name: '特殊儿童康复训练集'
+    author: '南京特殊教育职业技术学院康复系'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxhj7qvowhu5pecglrpgmimr4jfa/specail-education-material%2Fdocument%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E5%BA%B7%E5%A4%8D%E8%AE%AD%E7%BB%83%E9%9B%86.7z'
+  - index: 60000001
+    type: 'website'
+    name: 'macs-手功能分级系统'
+    url: 'https://www.macs.nu/the-purpose.php'

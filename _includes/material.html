@@ -1,33 +1,64 @@
 <div id='materials'>
-    {% for item in site.data.material %}
+    {% for item in site.data.material.content %}
+        {% liquid
+        case item.type
+        when 'book'
+            assign type-chinese = '书籍'
+        when 'scale'
+            assign type-chinese = '量表'
+        when 'document'
+            assign type-chinese = '文档'
+        when 'law'
+            assign type-chinese = '法规'
+        when 'video'
+            assign type-chinese = '视频'
+        when 'website'
+            assign type-chinese = '网站'
+        endcase %}
         <div class='material-container'>
-            <div class='material'>
+            <div class='material {{ item.type }}'>
                 <div class='material-image'>
                     <img src="/assets/images/material_cover/{{ item.index }}" />
                 </div>
                 <div class='material-info'>
+                    <div class='type' style='display:none'>{{ item.type }}</div>
                     <div class='name'>
-                        <span>📕书名：</span>
+                        <span>📕名称：</span>
                         <span class='info' title="{{ item.name }}">{{ item.name }}</span>
                     </div>
                     <div class='author'>
                         <span>👩‍🎓作者：</span>
-                        <span class='info' title="{{ item.author }}">{{ item.author }}</span>
+                        <span class='info' title="{{ item.author }}">{{ item.author | default: '🏃🏃‍♀️' }}</span>
                     </div>
+                    {% if item.type == 'book' %}
                     <div class='year'>
                         <span>📅日期：</span>
                         <span class='info' title="{{ item.year }}">{{ item.year }}</span>
                     </div>
+                    {% endif %}
+                    <div class='type'>
+                        <span>💼类型：</span>
+                        <span class='info' title="{{ type-chinese }}">{{ type-chinese }}</span>
+                    </div>
                 </div>
             </div>
+            <div class='material-name'>《{{ item.name }}》</div>
             <div class='material-modal'>
-                <div>《{{ item.name }}》</div>
-                <hr />
                 <div class='urls'>
-                    <span>🔑下载:</span>
-                    {% for url in item.urls %}
-                        <a href="{{ url.link }}">{{ url.vendor }}</a>
-                    {% endfor %}
+                    {% if item.type == 'video' %}
+                        <span>🔑在线观看:</span>
+                        {% for url in item.urls %}
+                            <a href="{{ url.link }}">{{ url.vendor }}</a>
+                        {% endfor %}
+                    {% elsif item.type == 'website' %}
+                        <span>🔑进入网站:</span>
+                        <a href="{{ item.url }}" target="_blank">🏳️‍🌈</a>
+                    {% else %}
+                        <span>🔑下载:</span>
+                        {% for url in item.urls %}
+                            <a href="{{ url.link }}">{{ url.vendor }}</a>
+                        {% endfor %}
+                    {% endif %}
                 </div>
             </div>
         </div>

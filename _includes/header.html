@@ -7,7 +7,14 @@
     </div>
     <div id='header-right'>
         <div id='search-box'>
-            <input type='text' placeholder='搜索书名、作者' /><button id='search-button'>🔍</button>
+            <input type='text' placeholder='搜索书名、作者、关键词...' />
+            <select id='select-type'>
+                <option value="all">全部</option>
+                {% for item in site.data.material.metadata.type-chinese %}
+                    <option value="{{ site.data.material.metadata.type[forloop.index0] }}" title="{{ site.data.material.metadata.type-description[forloop.index0] }}">{{ item }}</option>
+                {% endfor %}
+            </select>
+            <button id='search-button'>🔍</button>
         </div>
         <button id='about-button'>关于👀</button>
         <div id='about-content'>

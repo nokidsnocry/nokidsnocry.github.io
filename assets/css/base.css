@@ -19,6 +19,27 @@ a {
 .english {
     font-family: 'Times New Roman';
 }
+.hide {
+    display: none;
+}
+.book {
+    border-color: #FC999F !important;
+}
+.scale {
+    border-color: #E36488 !important;
+}
+.document {
+    border-color: #4BBB8B !important;
+}
+.law {
+    border-color: #84B9EF !important;
+}
+.video {
+    border-color: #22559C !important;
+}
+.website {
+    border-color: #8E7CC7 !important;
+}
 #header {
     position: sticky;
     top: 0;
@@ -50,6 +71,12 @@ a {
     align-items: center;
     padding-right: 20px;
 }
+#header #search-box {
+    font-size: 0;
+}
+#header #search-box > * {
+    font-size: 1rem;
+}
 #header #search-box input {
     width: 200px;
     height: 30px;
@@ -62,6 +89,16 @@ a {
 }
 #header #search-box input::placeholder {
     font-style: italic;
+}
+#header #search-box select {
+    width: 60px;
+    height: 30px;
+    vertical-align: middle;
+    border: 0;
+    border-left: 1px solid var(--color-yellow);
+    outline: none;
+    font-family: 'KaiTi';
+    font-weight: 900;
 }
 #header #search-box button,
 #header #about-button {
@@ -138,7 +175,7 @@ a {
     height: var(--material-height);
 }
 #materials .material-container:hover .material {
-    filter: saturate(50%);
+    filter: brightness(40%);
 }
 #materials .material-container:hover .material-modal {
     opacity: 1;
@@ -171,7 +208,7 @@ a {
     text-decoration: underline;
     font-weight: 900;
 }
-#materials .material-modal {
+#materials .material-name {
     position: absolute;
     margin: auto 5px;
     right: 0;
@@ -179,14 +216,32 @@ a {
     font-weight: 900;
     height: max-content;
     padding: 0.5rem;
-    opacity: 0;
     bottom: 5px;
     text-align: center;
     background: #F5CD3B;
     color: #fff;
 }
+#materials .material-modal {
+    position: absolute;
+    margin: auto 5px;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    height: max-content;
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #materials .material-modal .urls {
     color: var(--color-orange);
+    width: max-content;
+    height: max-content;
+    padding: 1rem;
+    background: var(--color-yellow);
+    border-radius: 2px;
+    font-weight: 900;
 }
 #materials #no-result {
     width: max-content;
