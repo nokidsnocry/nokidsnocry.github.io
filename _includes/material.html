@@ -1,20 +1,19 @@
 <div id='materials'>
     {% for item in site.data.material.content %}
-        {% liquid
-        case item.type
-        when 'book'
-            assign type-chinese = '书籍'
-        when 'scale'
-            assign type-chinese = '量表'
-        when 'document'
-            assign type-chinese = '文档'
-        when 'law'
-            assign type-chinese = '法规'
-        when 'video'
-            assign type-chinese = '视频'
-        when 'website'
-            assign type-chinese = '网站'
-        endcase %}
+        {% case item.type %}
+        {% when 'book' %}
+            {% assign type-chinese = '书籍' %}
+        {% when 'scale' %}
+            {% assign type-chinese = '量表' %}
+        {% when 'document' %}
+            {% assign type-chinese = '文档' %}
+        {% when 'law' %}
+            {% assign type-chinese = '法规' %}
+        {% when 'video' %}
+            {% assign type-chinese = '视频' %}
+        {% when 'website' %}
+            {% assign type-chinese = '网站' %}
+        {% endcase %}
         <div class='material-container'>
             <div class='material {{ item.type }}'>
                 <div class='material-image'>
