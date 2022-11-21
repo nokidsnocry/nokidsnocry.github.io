@@ -286,5 +286,11 @@ a {
         overflow: auto;
         font-size: 1rem;
     }
+    #header #search-box select {
+        font-weight: 500;
+    }
+    #header #search-box input::placeholder {
+        font-size: 0.6rem;
+    }
 }
 
