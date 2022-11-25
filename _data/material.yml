@@ -20,7 +20,7 @@ content:
     year: '2015'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jv2jlz2hazaaqwlt4x7gvngas5wa/specail-education-material%2Fbook%2F%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%E8%AF%8A%E6%96%AD%E4%B8%8E%E7%BB%9F%E8%AE%A1%E6%89%8B%E5%86%8C(DSM-V).pdf'
+        link: 'https://link.storjshare.io/jv2jlz2hazaaqwlt4x7gvngas5wa/specail-education-material%2Fbook%2F%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%E8%AF%8A%E6%96%AD%E4%B8%8E%E7%BB%9F%E8%AE%A1%E6%89%8B%E5%86%8C(DSM-V).pdf'
   - index: 10000002
     type: 'book'
     name: '精神障碍诊断与统计手册(DSM-IV)'
@@ -28,7 +28,7 @@ content:
     year: '2000'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jus5sckaowovepqno4pcmvvdelkq/specail-education-material%2Fbook%2F%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%E8%AF%8A%E6%96%AD%E4%B8%8E%E7%BB%9F%E8%AE%A1%E6%89%8B%E5%86%8C(DSM-IV).pdf'
+        link: 'https://link.storjshare.io/jus5sckaowovepqno4pcmvvdelkq/specail-education-material%2Fbook%2F%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%E8%AF%8A%E6%96%AD%E4%B8%8E%E7%BB%9F%E8%AE%A1%E6%89%8B%E5%86%8C(DSM-IV).pdf'
   - index: 10000003
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-V)'
@@ -36,7 +36,7 @@ content:
     year: '2013'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jxag3tsbzeobtev6ajv6d34rvl6q/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-V).pdf'
+        link: 'https://link.storjshare.io/jxag3tsbzeobtev6ajv6d34rvl6q/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-V).pdf'
   - index: 10000004
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-IV-TR)'
@@ -44,7 +44,7 @@ content:
     year: '2000'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/juh7pfihau65lz2r4my7h57tmrfq/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-IV-TR).pdf'
+        link: 'https://link.storjshare.io/juh7pfihau65lz2r4my7h57tmrfq/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-IV-TR).pdf'
   - index: 10000005
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-IV)'
@@ -52,7 +52,7 @@ content:
     year: '1994'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jx5srobrwdk5swox2coaeqw3da5a/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-IV).pdf'
+        link: 'https://link.storjshare.io/jx5srobrwdk5swox2coaeqw3da5a/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-IV).pdf'
   - index: 10000006
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-III-R)'
@@ -60,7 +60,7 @@ content:
     year: '1987'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jwhk4p7darv4knjpo5t65bps7pkq/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-III-R).pdf'
+        link: 'https://link.storjshare.io/jwhk4p7darv4knjpo5t65bps7pkq/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-III-R).pdf'
   - index: 10000007
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-III)'
@@ -68,7 +68,7 @@ content:
     year: '1980'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jugisbvy5bnmfvdflwvfv7e3rzda/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-III).pdf'
+        link: 'https://link.storjshare.io/jugisbvy5bnmfvdflwvfv7e3rzda/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-III).pdf'
   - index: 10000008
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-II)'
@@ -76,7 +76,7 @@ content:
     year: '1968'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jx3wzzeh3lpmehjeopxpnmngd5ya/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-II).pdf'
+        link: 'https://link.storjshare.io/jx3wzzeh3lpmehjeopxpnmngd5ya/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-II).pdf'
   - index: 10000009
     type: 'book'
     name: 'Diagnostic-and-Statistical-Manual-of-Mental-Disorders(DSM-I)'
@@ -84,7 +84,7 @@ content:
     year: '1952'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jx35bzky4d666ze34njw6ycmpmfq/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-I).pdf'
+        link: 'https://link.storjshare.io/jx35bzky4d666ze34njw6ycmpmfq/specail-education-material%2Fbook%2FDiagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders(DSM-I).pdf'
   - index: 10000010
     type: 'book'
     name: 'ICD-10-volume1'
@@ -92,7 +92,7 @@ content:
     year: '2010'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jvn2rxuarsjd7q72gtyaprxpf7sq/specail-education-material%2Fbook%2FThe%20International%20Statistical%20Classification%20of%20Diseases%20and%20Health%20Related%20Problems%20ICD-10%2C%20Volume%201%20Tabular%20List%20(Second%20Edition%2C%20Tenth%20Revision)%20by%20World%20Health%20Organization.pdf'
+        link: 'https://link.storjshare.io/jvn2rxuarsjd7q72gtyaprxpf7sq/specail-education-material%2Fbook%2FThe%20International%20Statistical%20Classification%20of%20Diseases%20and%20Health%20Related%20Problems%20ICD-10%2C%20Volume%201%20Tabular%20List%20(Second%20Edition%2C%20Tenth%20Revision)%20by%20World%20Health%20Organization.pdf'
   - index: 10000011
     type: 'book'
     name: 'ICD-10-volume2'
@@ -100,7 +100,7 @@ content:
     year: '2010'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jw2zqybhaer6jlvj2mp7socpas7a/specail-education-material%2Fbook%2FInternational%20Statistical%20Classification%20of%20Diseases%20and%20Health%20Related%20Problems%20(The)%20ICD-10%2C%20Volume%202%20Instruction%20Manual%20(Second%20Edition%2C%20Tenth%20Revision)%20by%20World%20Health%20Organization.pdf'
+        link: 'https://link.storjshare.io/jw2zqybhaer6jlvj2mp7socpas7a/specail-education-material%2Fbook%2FInternational%20Statistical%20Classification%20of%20Diseases%20and%20Health%20Related%20Problems%20(The)%20ICD-10%2C%20Volume%202%20Instruction%20Manual%20(Second%20Edition%2C%20Tenth%20Revision)%20by%20World%20Health%20Organization.pdf'
   - index: 10000012
     type: 'book'
     name: 'ICD-10-volume3'
@@ -108,7 +108,7 @@ content:
     year: '2010'
     urls:
       - vendor: 'storj'
-      - link: 'https://link.storjshare.io/jwq4pmsu3itpp55vu7f5ept6y4ba/specail-education-material%2Fbook%2FThe%20International%20Statistical%20Classification%20of%20Diseases%20and%20Health%20Related%20Problems%20ICD-10%2C%20Volume%203%20by%20World%20Health%20Organization.pdf'
+        link: 'https://link.storjshare.io/jwq4pmsu3itpp55vu7f5ept6y4ba/specail-education-material%2Fbook%2FThe%20International%20Statistical%20Classification%20of%20Diseases%20and%20Health%20Related%20Problems%20ICD-10%2C%20Volume%203%20by%20World%20Health%20Organization.pdf'
   - index: 10000013
     type: 'book'
     name: '行为矫正技术（第二版）'
@@ -125,6 +125,836 @@ content:
     urls:
       - vendor: 'storj'
         link: 'https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+  - index: 10000015
+    type: 'book'
+    name: '追寻自闭症的真相'
+    author: '劳拉•施赖布曼（贺荟中等译）'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxnexwueseqn5mnvy2y2n5c6clfa/specail-education-material%2Fbook%2F%E8%BF%BD%E5%AF%BB%E8%87%AA%E9%97%AD%E7%97%87%E7%9A%84%E7%9C%9F%E7%9B%B8.pdf'
+  - index: 10000016
+    type: 'book'
+    name: '特殊教育辞典(第三版)'
+    author: '朴永馨等'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwgug7rhodnojqlfsxojkjmmdhqq/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E8%BE%9E%E5%85%B8%20(%E7%AC%AC%E4%B8%89%E7%89%88).pdf'
+  - index: 10000017
+    type: 'book'
+    name: '简明特殊教育百科全书'
+    author: 'Cecil R.Reynolds等（赵向东等译）'
+    year: '2011'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvr3hytxfyaqnlknvxveekcvpm2a/specail-education-material%2Fbook%2F%E7%AE%80%E6%98%8E%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6.pdf'
+  - index: 10000018
+    type: 'book'
+    name: '孤独症谱系障碍-家长及专业人员指南'
+    author: '洛娜•温（孙敦科译）'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwnvjdwpp6njpdhlkv2oiglbdrrq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D-%E5%AE%B6%E9%95%BF%E5%8F%8A%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%91%98%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000019
+    type: 'book'
+    name: '阿斯伯格综合征完全指南'
+    author: '托尼•阿特伍德（燕原译）'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw6fbwmxfkzllijuofibsqys4rrq/specail-education-material%2Fbook%2F%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%BB%BC%E5%90%88%E5%BE%81%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000020
+    type: 'book'
+    name: '儿童注意缺陷多动障碍-家长指南(第二版)'
+    author: 'Michalel I.Reiff（杨建译）'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/junmqybczinhfbo3siromk3odfqa/specail-education-material%2Fbook%2F%E5%84%BF%E7%AB%A5%E6%B3%A8%E6%84%8F%E7%BC%BA%E9%99%B7%E5%A4%9A%E5%8A%A8%E9%9A%9C%E7%A2%8D-%E5%AE%B6%E9%95%BF%E6%8C%87%E5%8D%97(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+  - index: 10000021
+    type: 'book'
+    name: '超常儿童心理学'
+    author: '查子秀'
+    year: '2006'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju7jwfe3wn62eknsgbi24xwhzqpq/specail-education-material%2Fbook%2F%E8%B6%85%E5%B8%B8%E5%84%BF%E7%AB%A5%E5%BF%83%E7%90%86%E5%AD%A6.pdf'
+  - index: 10000022
+    type: 'book'
+    name: 'ABA改变孤独症'
+    author: '杜佳楣'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxux4mhgvjs2lh3vhvh5kg26rjla/specail-education-material%2Fbook%2FABA%E6%94%B9%E5%8F%98%E5%AD%A4%E7%8B%AC%E7%97%87.pdf'
+  - index: 10000023
+    type: 'book'
+    name: '1001个自闭症儿童养育秘诀'
+    author: '爱伦•诺波姆（五彩鹿译）'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jv6tjgljc7ns3t4tftlxnmsrrhmq/specail-education-material%2Fbook%2F1001%E4%B8%AA%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E5%85%BB%E8%82%B2%E7%A7%98%E8%AF%80.pdf'
+  - index: 10000024
+    type: 'book'
+    name: 'PEABODY运动发育量表(上册)(第二版)'
+    author: 'M.Rhonda Folio（李明等译）'
+    year: '2005'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvhmqfunj722kqt3bpkgl7d4stca/specail-education-material%2Fbook%2FPEABODY%E8%BF%90%E5%8A%A8%E5%8F%91%E8%82%B2%E9%87%8F%E8%A1%A8(%E4%B8%8A%E5%86%8C)(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+  - index: 10000025
+    type: 'book'
+    name: 'PEABODY运动发育量表(下册)(第二版)'
+    author: 'M.Rhonda Folio（李明等译）'
+    year: '2005'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvo2pss22w7gjoxnmktz3gs7o7aa/specail-education-material%2Fbook%2FPEABODY%E8%BF%90%E5%8A%A8%E5%8F%91%E8%82%B2%E9%87%8F%E8%A1%A8(%E4%B8%8B%E5%86%8C)(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+  - index: 10000026
+    type: 'book'
+    name: '地板时光-如何帮助孤独症和相关障碍儿童沟通和思考'
+    author: '斯坦利•格林斯潘（马凌冬译）'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/judrmojdd3z7mhxoqsa4j2eiqs7q/specail-education-material%2Fbook%2F%E5%9C%B0%E6%9D%BF%E6%97%B6%E5%85%89-%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E5%AD%A4%E7%8B%AC%E7%97%87%E5%92%8C%E7%9B%B8%E5%85%B3%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5%E6%B2%9F%E9%80%9A%E5%92%8C%E6%80%9D%E8%80%83.pdf'
+  - index: 10000027
+    type: 'book'
+    name: '0～6岁儿童发展的里程碑'
+    author: '中国教育部'
+    year: '2005'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxb7cypjglsmdihd4yijlnieysxa/specail-education-material%2Fbook%2F0%EF%BD%9E6%E5%B2%81%E5%84%BF%E7%AB%A5%E5%8F%91%E5%B1%95%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91.pdf'
+  - index: 10000028
+    type: 'book'
+    name: '第二次全国残疾人抽样调查数据分析报告'
+    author: '第二次全国残疾人抽样调查办公室 北京大学人口研究所'
+    year: '2008'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jucl3avjgf2xmqufsvyjkujrchsa/specail-education-material%2Fbook%2F%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E5%9B%BD%E6%AE%8B%E7%96%BE%E4%BA%BA%E6%8A%BD%E6%A0%B7%E8%B0%83%E6%9F%A5%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf'
+  - index: 10000029
+    type: 'book'
+    name: '儿童自闭症及其他发展性障碍的行为干预'
+    author: '黄伟合'
+    year: '2003'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwq2e6mvsjjjvs3v3ws24y5fslyq/specail-education-material%2Fbook%2F%E5%84%BF%E7%AB%A5%E8%87%AA%E9%97%AD%E7%97%87%E5%8F%8A%E5%85%B6%E4%BB%96%E5%8F%91%E5%B1%95%E6%80%A7%E9%9A%9C%E7%A2%8D%E7%9A%84%E8%A1%8C%E4%B8%BA%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000030
+    type: 'book'
+    name: '发育障碍儿童诊断与训练指导'
+    author: '白崎研司等'
+    year: '2009'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwcsbs6loddyuztuk5phr2dqo54q/specail-education-material%2Fbook%2F%E5%8F%91%E8%82%B2%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5%E8%AF%8A%E6%96%AD%E4%B8%8E%E8%AE%AD%E7%BB%83%E6%8C%87%E5%AF%BC.pdf'
+  - index: 10000031
+    type: 'book'
+    name: '给自闭症儿童父母的101个建议'
+    author: 'Arnold Miller等'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jx2lix5j52l7vlnd7ei7bkedzvca/specail-education-material%2Fbook%2F%E7%BB%99%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E7%88%B6%E6%AF%8D%E7%9A%84101%E4%B8%AA%E5%BB%BA%E8%AE%AE.pdf'
+  - index: 10000032
+    type: 'book'
+    name: '孤独的“雨人”-自闭症探秘'
+    author: '徐光兴'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxihfahrjhv4c7mwjcozfurmgnqq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%9A%84%E2%80%9C%E9%9B%A8%E4%BA%BA%E2%80%9D-%E8%87%AA%E9%97%AD%E7%97%87%E6%8E%A2%E7%A7%98.pdf'
+  - index: 10000033
+    type: 'book'
+    name: '孤独的孩子'
+    author: '桃莉·海顿'
+    year: '2005'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxaqr6jj7zmf7gdntmbxmktoymaa/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%AD%A9%E5%AD%90.pdf'
+  - index: 10000034
+    type: 'book'
+    name: '孤独症大脑-对孤独症谱系的思考'
+    author: '天宝·格兰丁等'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juah2a2itk757epu4ol2vsyblukq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%A4%A7%E8%84%91-%E5%AF%B9%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83.pdf'
+  - index: 10000035
+    type: 'book'
+    name: '孤独症的快乐疗法'
+    author: '王占富'
+    year: '2009'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw6oqvzhj2kujtxg5opfszvqioea/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E7%9A%84%E5%BF%AB%E4%B9%90%E7%96%97%E6%B3%95.pdf'
+  - index: 10000036
+    type: 'book'
+    name: '孤独症儿童社会性教育指南'
+    author: '甄岳来'
+    year: '2008'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxycgm5mqcdcolt2lkpdft7axtnq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BC%9A%E6%80%A7%E6%95%99%E8%82%B2%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000037
+    type: 'book'
+    name: '孤独症儿童行为管理策略及行为治疗课程'
+    author: '里夫等'
+    year: '2008'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jueqy6irn3aqytbn633hr5hgqx7q/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5%E8%A1%8C%E4%B8%BA%E7%AE%A1%E7%90%86%E7%AD%96%E7%95%A5%E5%8F%8A%E8%A1%8C%E4%B8%BA%E6%B2%BB%E7%96%97%E8%AF%BE%E7%A8%8B.pdf'
+  - index: 10000038
+    type: 'book'
+    name: '孤独症儿童早期发现'
+    author: '贾美香等'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvk6ydkx3gah2seinqmem4npifoq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E5%8F%91%E7%8E%B0.pdf'
+  - index: 10000039
+    type: 'book'
+    name: '孤独症儿童早期干预操作手册'
+    author: '贾美香'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jusdzwqix4nsmi5tfx3puor6up4q/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E5%B9%B2%E9%A2%84%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.pdf'
+  - index: 10000040
+    type: 'book'
+    name: '孤独症孩子希望你知道的十件事'
+    author: '艾伦·诺特波姆（秋爸爸等译）'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw7mjde3ydqfteb6rxj2d6k5zasq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%AD%A9%E5%AD%90%E5%B8%8C%E6%9C%9B%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E5%8D%81%E4%BB%B6%E4%BA%8B.pdf'
+  - index: 10000041
+    type: 'book'
+    name: '孤独症和相关障碍人士如厕训练指南（第二版)'
+    author: '玛丽·亚惠勒（宋玲译）'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jug3fmf6ee5c5vbibxai3hx6mvsa/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%92%8C%E7%9B%B8%E5%85%B3%E9%9A%9C%E7%A2%8D%E4%BA%BA%E5%A3%AB%E5%A6%82%E5%8E%95%E8%AE%AD%E7%BB%83%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+  - index: 10000042
+    type: 'book'
+    name: '孤独症康复训练师资培训完整教程-情绪和行为管理训练实务'
+    author: '贾美香等'
+    year: '2018'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju2qh4abzqpw3mq6mvs3jqaqim2q/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E5%BA%B7%E5%A4%8D%E8%AE%AD%E7%BB%83%E5%B8%88%E8%B5%84%E5%9F%B9%E8%AE%AD%E5%AE%8C%E6%95%B4%E6%95%99%E7%A8%8B-%E6%83%85%E7%BB%AA%E5%92%8C%E8%A1%8C%E4%B8%BA%E7%AE%A1%E7%90%86%E8%AE%AD%E7%BB%83%E5%AE%9E%E5%8A%A1.pdf'
+  - index: 10000043
+    type: 'book'
+    name: '孤独症谱系障碍儿童睡眠问题实用指南'
+    author: '特里·卡茨（王广海等译）'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju3r6oufdl66vn7jol534vfzhztq/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5%E7%9D%A1%E7%9C%A0%E9%97%AE%E9%A2%98%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000044
+    type: 'book'
+    name: '孤独症谱系障碍康复案例解析'
+    author: '陈艳妮'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juykfqqrgx5dx4ukipwbqb5qovra/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D%E5%BA%B7%E5%A4%8D%E6%A1%88%E4%BE%8B%E8%A7%A3%E6%9E%90.pdf'
+  - index: 10000045
+    type: 'book'
+    name: '孤独症社会融合教育'
+    author: '甄岳来'
+    year: '2010'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvh4bpyssjacupn3eqqhugnr4boa/specail-education-material%2Fbook%2F%E5%AD%A4%E7%8B%AC%E7%97%87%E7%A4%BE%E4%BC%9A%E8%9E%8D%E5%90%88%E6%95%99%E8%82%B2.pdf'
+  - index: 10000046
+    type: 'book'
+    name: '教育研究中的单一被试设计'
+    author: '克雷格·肯尼迪'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvp4zem2g45x6gsotrnuj6sh3beq/specail-education-material%2Fbook%2F%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E5%8D%95%E4%B8%80%E8%A2%AB%E8%AF%95%E8%AE%BE%E8%AE%A1.pdf'
+  - index: 10000047
+    type: 'book'
+    name: '教育智慧从哪里来_点评100个教育案例'
+    author: '王晓春'
+    year: '2005'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvwxgjg3hgyzxxscglixnypg2yqq/specail-education-material%2Fbook%2F%E6%95%99%E8%82%B2%E6%99%BA%E6%85%A7%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5_%E7%82%B9%E8%AF%84100%E4%B8%AA%E6%95%99%E8%82%B2%E6%A1%88%E4%BE%8B.pdf'
+  - index: 10000048
+    type: 'book'
+    name: '看着我的眼睛--我和阿斯伯格综合征'
+    author: '约翰·艾尔德·罗宾逊'
+    year: '2010'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juyn4hvxxwajkcbxauzk6ymwktjq/specail-education-material%2Fbook%2F%E7%9C%8B%E7%9D%80%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B--%E6%88%91%E5%92%8C%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%BB%BC%E5%90%88%E5%BE%81.pdf'
+  - index: 10000049
+    type: 'book'
+    name: '课堂中的行为管理-沟通分析理论的应用'
+    author: 'Sandra Newell（周司丽等译）'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju76n4cb7qrxwshzgsrserrl6wja/specail-education-material%2Fbook%2F%E8%AF%BE%E5%A0%82%E4%B8%AD%E7%9A%84%E8%A1%8C%E4%B8%BA%E7%AE%A1%E7%90%86-%E6%B2%9F%E9%80%9A%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA%E7%9A%84%E5%BA%94%E7%94%A8.pdf'
+  - index: 10000050
+    type: 'book'
+    name: '奇妙的心灵：儿童认知研究的新发现'
+    author: '迈克尔·西戈'
+    year: '2009'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvvkqfojcqmnphovgixnvlz3wmwa/specail-education-material%2Fbook%2F%E5%A5%87%E5%A6%99%E7%9A%84%E5%BF%83%E7%81%B5%EF%BC%9A%E5%84%BF%E7%AB%A5%E8%AE%A4%E7%9F%A5%E7%A0%94%E7%A9%B6%E7%9A%84%E6%96%B0%E5%8F%91%E7%8E%B0.pdf'
+  - index: 10000051
+    type: 'book'
+    name: '如何有效教育自闭症谱系障碍学生'
+    author: 'E.阿曼达·布托等（贺荟中等译）'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwlakjlintar6uep4oxs3kyk7g5q/specail-education-material%2Fbook%2F%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E6%95%99%E8%82%B2%E8%87%AA%E9%97%AD%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D%E5%AD%A6%E7%94%9F.pdf'
+  - index: 10000052
+    type: 'book'
+    name: '社交故事新编：教会孤独症谱系障碍儿童日常社会技能的158个社交故事：十周年增订纪念版'
+    author: '卡罗尔·格雷（鲁志坚译）'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwtlexetauhn6hlhmdogefzduczq/specail-education-material%2Fbook%2F%E7%A4%BE%E4%BA%A4%E6%95%85%E4%BA%8B%E6%96%B0%E7%BC%96%EF%BC%9A%E6%95%99%E4%BC%9A%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5%E6%97%A5%E5%B8%B8%E7%A4%BE%E4%BC%9A%E6%8A%80%E8%83%BD%E7%9A%84158%E4%B8%AA%E7%A4%BE%E4%BA%A4%E6%95%85%E4%BA%8B%EF%BC%9A%E5%8D%81%E5%91%A8%E5%B9%B4%E5%A2%9E%E8%AE%A2%E7%BA%AA%E5%BF%B5%E7%89%88.pdf'
+  - index: 10000053
+    type: 'book'
+    name: '社交潜规则-以孤独症视角解析社交奥秘'
+    author: '天宝·格兰丁（刘昊等译）'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwgfzfayo2piakirehpwtpvrdkmq/specail-education-material%2Fbook%2F%E7%A4%BE%E4%BA%A4%E6%BD%9C%E8%A7%84%E5%88%99-%E4%BB%A5%E5%AD%A4%E7%8B%AC%E7%97%87%E8%A7%86%E8%A7%92%E8%A7%A3%E6%9E%90%E7%A4%BE%E4%BA%A4%E5%A5%A5%E7%A7%98.pdf'
+  - index: 10000054
+    type: 'book'
+    name: '世界教育大系-特殊教育'
+    author: '朴永馨'
+    year: '2000'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvjdcbqzartf2igdljergjpcb7na/specail-education-material%2Fbook%2F%E4%B8%96%E7%95%8C%E6%95%99%E8%82%B2%E5%A4%A7%E7%B3%BB-%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2.pdf'
+  - index: 10000055
+    type: 'book'
+    name: '苏州市特殊儿童康复训练方案集-个别训练'
+    author: '朱向峰'
+    year: '2020'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvt5rxpugdggc5xjtkufislyal7a/specail-education-material%2Fbook%2F%E8%8B%8F%E5%B7%9E%E5%B8%82%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E5%BA%B7%E5%A4%8D%E8%AE%AD%E7%BB%83%E6%96%B9%E6%A1%88%E9%9B%86-%E4%B8%AA%E5%88%AB%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000056
+    type: 'book'
+    name: '特殊儿童的问题行为干预:实例与解析'
+    author: '昝飞等'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwwi6kzb4miejykilmpcvytnybfq/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E7%9A%84%E9%97%AE%E9%A2%98%E8%A1%8C%E4%B8%BA%E5%B9%B2%E9%A2%84%20%20%E5%AE%9E%E4%BE%8B%E4%B8%8E%E8%A7%A3%E6%9E%90.pdf'
+  - index: 10000057
+    type: 'book'
+    name: '特殊儿童个别化教育：理论、计划、实施'
+    author: '张文京等'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw35mgg3awnuaif25wkz37xbyweq/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E4%B8%AA%E5%88%AB%E5%8C%96%E6%95%99%E8%82%B2%EF%BC%9A%E7%90%86%E8%AE%BA%E3%80%81%E8%AE%A1%E5%88%92%E3%80%81%E5%AE%9E%E6%96%BD.pdf'
+  - index: 10000058
+    type: 'book'
+    name: '特殊儿童心理评估（第二版）'
+    author: '韦小满等'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvker46nhh3nlzfdsd36xtnyvq3a/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E5%BF%83%E7%90%86%E8%AF%84%E4%BC%B0%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf'
+  - index: 10000059
+    type: 'book'
+    name: '特殊儿童心理学'
+    author: '方俊明等'
+    year: '2011'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwkap7opj7xrxsj4ebwgzqsqdb6q/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E5%BF%83%E7%90%86%E5%AD%A6.pdf'
+  - index: 10000060
+    type: 'book'
+    name: '特殊儿童早期干预理论与实践'
+    author: '张文京'
+    year: '2010'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwjldhzoegbwprz5b7kaeslur4za/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E5%B9%B2%E9%A2%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf'
+  - index: 10000061
+    type: 'book'
+    name: '特殊儿童早期鉴别、评估与干预'
+    author: '梁纪恒'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juibeuwjfj24wvjxsh3angc6ecmq/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E6%97%A9%E6%9C%9F%E9%89%B4%E5%88%AB%E3%80%81%E8%AF%84%E4%BC%B0%E4%B8%8E%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000062
+    type: 'book'
+    name: '特殊教育班级管理与建设'
+    author: '张文京'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvsrmftu7bytpgz2aqrmwruwh5da/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E7%8F%AD%E7%BA%A7%E7%AE%A1%E7%90%86%E4%B8%8E%E5%BB%BA%E8%AE%BE.pdf'
+  - index: 10000063
+    type: 'book'
+    name: '特殊教育的医学基础'
+    author: '杨长江'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwlpakvyjdclogfojs255t7x7veq/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E7%9A%84%E5%8C%BB%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf'
+  - index: 10000064
+    type: 'book'
+    name: '特殊教育概论'
+    author: '刘春玲等'
+    year: '2008'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw6l63rh2kq5cjbeisebrqe3vo7a/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E6%A6%82%E8%AE%BA.pdf'
+  - index: 10000065
+    type: 'book'
+    name: '特殊教育学校管理'
+    author: '左元国等'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju6kxc4xlpjlvxgz6m5ku22dnbwq/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E7%AE%A1%E7%90%86.pdf'
+  - index: 10000066
+    type: 'book'
+    name: '特殊教育学校教师基本功培训手册'
+    author: '北京市教育委员会等'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxq6gxmzh7zqyyoxiprflffgzk6q/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E6%95%99%E5%B8%88%E5%9F%BA%E6%9C%AC%E5%8A%9F%E5%9F%B9%E8%AE%AD%E6%89%8B%E5%86%8C.pdf'
+  - index: 10000067
+    type: 'book'
+    name: '特殊需要儿童智力和情绪发展指南'
+    author: '格林斯潘等（赵谨娜译）'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvex6gsvmfmuy2phfcpmuxrwosza/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E9%9C%80%E8%A6%81%E5%84%BF%E7%AB%A5%E6%99%BA%E5%8A%9B%E5%92%8C%E6%83%85%E7%BB%AA%E5%8F%91%E5%B1%95%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000068
+    type: 'book'
+    name: '微光中的孩子'
+    author: '桃莉·海顿'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jukcxkhprggw7kdkbl64rudbnxfa/specail-education-material%2Fbook%2F%E5%BE%AE%E5%85%89%E4%B8%AD%E7%9A%84%E5%AD%A9%E5%AD%90.pdf'
+  - index: 10000069
+    type: 'book'
+    name: '问题儿童教育实录'
+    author: '桃莉·海顿（陈淑惠等译）'
+    year: '2004'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jv7ep3e6glxk2imjjddl7di3rutq/specail-education-material%2Fbook%2F%E9%97%AE%E9%A2%98%E5%84%BF%E7%AB%A5%E6%95%99%E8%82%B2%E5%AE%9E%E5%BD%95.pdf'
+  - index: 10000070
+    type: 'book'
+    name: '现代特殊教育实用手册'
+    author: '芬坦·奥里甘'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxx3nibo2y4l5wzjg3anaqtnsg4q/specail-education-material%2Fbook%2F%E7%8E%B0%E4%BB%A3%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C.pdf'
+  - index: 10000071
+    type: 'book'
+    name: '学生挑战性行为的预防和矫正（第3版）'
+    author: '利奈特·K.钱德勒等'
+    year: '2016'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvsg633qmnp422hclsv5vzgjgwya/specail-education-material%2Fbook%2F%E5%AD%A6%E7%94%9F%E6%8C%91%E6%88%98%E6%80%A7%E8%A1%8C%E4%B8%BA%E7%9A%84%E9%A2%84%E9%98%B2%E5%92%8C%E7%9F%AB%E6%AD%A3%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf'
+  - index: 10000072
+    type: 'book'
+    name: '学习障碍儿童的心理与教育'
+    author: '刘翔平'
+    year: '2010'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvssslca25vx6naw6kdnmmsdzwea/specail-education-material%2Fbook%2F%E5%AD%A6%E4%B9%A0%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5%E7%9A%84%E5%BF%83%E7%90%86%E4%B8%8E%E6%95%99%E8%82%B2.pdf'
+  - index: 10000073
+    type: 'book'
+    name: '应用行为分析（ABA）完整教程：基础技能分部训练'
+    author: 'Julie Knapp等（贾美香等）'
+    year: '2017'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jx53vae2ysru5xvuuarzvlqwwm3a/specail-education-material%2Fbook%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%EF%BC%88ABA%EF%BC%89%E5%AE%8C%E6%95%B4%E6%95%99%E7%A8%8B%EF%BC%9A%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD%E5%88%86%E9%83%A8%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000074
+    type: 'book'
+    name: '应用行为分析与儿童行为管理'
+    author: '郭延庆'
+    year: '2012'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxnooqoraclyaswb5oz672sugbza/specail-education-material%2Fbook%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E4%B8%8E%E5%84%BF%E7%AB%A5%E8%A1%8C%E4%B8%BA%E7%AE%A1%E7%90%86.pdf'
+  - index: 10000075
+    type: 'book'
+    name: '婴幼儿早期干预'
+    author: '苏雪云'
+    year: '2016'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvukqzluxf2azafwnhmkm6oqntpq/specail-education-material%2Fbook%2F%E5%A9%B4%E5%B9%BC%E5%84%BF%E6%97%A9%E6%9C%9F%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000076
+    type: 'book'
+    name: '儿童感觉统合训练'
+    author: '李娟'
+    year: '2016'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxu3wnvmxclbejexjsgcibytcucq/specail-education-material%2Fbook%2F%E5%84%BF%E7%AB%A5%E6%84%9F%E8%A7%89%E7%BB%9F%E5%90%88%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000077
+    type: 'book'
+    name: '家庭中的感觉统合训练'
+    author: '王萍等'
+    year: '2011'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvbzghi3hnzzvztsst7svftr2wqa/specail-education-material%2Fbook%2F%E5%AE%B6%E5%BA%AD%E4%B8%AD%E7%9A%84%E6%84%9F%E8%A7%89%E7%BB%9F%E5%90%88%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000078
+    type: 'book'
+    name: '特殊儿童的感觉统合训练'
+    author: '王和平'
+    year: '2011'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juhobwlkum4zujulstwmegd7fvba/specail-education-material%2Fbook%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E7%9A%84%E6%84%9F%E8%A7%89%E7%BB%9F%E5%90%88%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000079
+    type: 'book'
+    name: '新编感觉统合培训教材'
+    author: '感觉统合工作室'
+    year: '🧨🧨🧨'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxwuxpdngupk5b42opwkjuf4vrga/specail-education-material%2Fbook%2F%E6%96%B0%E7%BC%96%E6%84%9F%E8%A7%89%E7%BB%9F%E5%90%88%E5%9F%B9%E8%AE%AD%E6%95%99%E6%9D%90.pdf'
+  - index: 10000080
+    type: 'book'
+    name: 'TheCerebralPalsyToolKit'
+    author: 'CP NOW'
+    year: '2015'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jurhaocav3yegdgh66l3w3wmrlua/specail-education-material%2Fbook%2FTheCerebralPalsyToolKit.pdf'
+  - index: 10000081
+    type: 'book'
+    name: 'TreatmentOfCerebralPalsyAndMotorDelay'
+    author: 'Sophie Levitt等'
+    year: '2019'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju2n2nxafehrndrrz33no266fu5a/specail-education-material%2Fbook%2FTreatmentOfCerebralPalsyAndMotorDelay.pdf'
+  - index: 10000082
+    type: 'book'
+    name: '实用小儿脑性瘫痪康复治疗技术'
+    author: '李晓捷'
+    year: '2009'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/julp65h6heq7mw5asullsmcaftyq/specail-education-material%2Fbook%2F%E5%AE%9E%E7%94%A8%E5%B0%8F%E5%84%BF%E8%84%91%E6%80%A7%E7%98%AB%E7%97%AA%E5%BA%B7%E5%A4%8D%E6%B2%BB%E7%96%97%E6%8A%80%E6%9C%AF.pdf'
+  - index: 10000083
+    type: 'book'
+    name: '小儿脑瘫康复800问'
+    author: '张淑芬'
+    year: '2010'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwh5yrdm5os3ozufmtfq54pdlnnq/specail-education-material%2Fbook%2F%E5%B0%8F%E5%84%BF%E8%84%91%E7%98%AB%E5%BA%B7%E5%A4%8D800%E9%97%AE.pdf'
+  - index: 10000084
+    type: 'book'
+    name: '新编小儿脑瘫家庭康复指南'
+    author: '王金娣'
+    year: '2018'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvg6kumqxxzhb7urxulktr3utgwa/specail-education-material%2Fbook%2F%E6%96%B0%E7%BC%96%E5%B0%8F%E5%84%BF%E8%84%91%E7%98%AB%E5%AE%B6%E5%BA%AD%E5%BA%B7%E5%A4%8D%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000085
+    type: 'book'
+    name: '做看听说-孤独症儿童社会性和沟通能力干预指南'
+    author: '凯思琳·安·奎尔'
+    year: '2015'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxvkcedwtqagvlogyp5pcihv7ouq/specail-education-material%2Fbook%2F%E5%81%9A%E7%9C%8B%E5%90%AC%E8%AF%B4-%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BC%9A%E6%80%A7%E5%92%8C%E6%B2%9F%E9%80%9A%E8%83%BD%E5%8A%9B%E5%B9%B2%E9%A2%84%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000086
+    type: 'book'
+    name: '走近自闭症儿童的学校课程'
+    author: '张洁华'
+    year: '2012'
+    urls: 
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxe2uj7ccaoos2vqxykjmvhrqiqq/specail-education-material%2Fbook%2F%E8%B5%B0%E8%BF%91%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E7%9A%84%E5%AD%A6%E6%A0%A1%E8%AF%BE%E7%A8%8B.pdf'
+  - index: 10000087
+    type: 'book'
+    name: '自闭症整合干预'
+    author: '杨广学等'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juxgkfapnvjx5z55kdn4zrpe3vua/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E6%95%B4%E5%90%88%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000088
+    type: 'book'
+    name: '自闭症幼儿的社会认知-理论、实验及干预的研究'
+    author: '周念丽'
+    year: '2006'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxufiozitbccndx37doncoq4rkza/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%B9%BC%E5%84%BF%E7%9A%84%E7%A4%BE%E4%BC%9A%E8%AE%A4%E7%9F%A5-%E7%90%86%E8%AE%BA%E3%80%81%E5%AE%9E%E9%AA%8C%E5%8F%8A%E5%B9%B2%E9%A2%84%E7%9A%84%E7%A0%94%E7%A9%B6.pdf'
+  - index: 10000089
+    type: 'book'
+    name: '自闭症问题行为干预'
+    author: '园山繁树等'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwnx3ft7nxsl6stndmfi3ao2cnsa/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E9%97%AE%E9%A2%98%E8%A1%8C%E4%B8%BA%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000090
+    type: 'book'
+    name: '自闭症谱系障碍-针对性干预方案设计和社交技能训练'
+    author: '凯瑟琳·凯尼格等（雷秀雅等）'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw4mxtdtoiptagyolwskkx47dlya/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D-%E9%92%88%E5%AF%B9%E6%80%A7%E5%B9%B2%E9%A2%84%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1%E5%92%8C%E7%A4%BE%E4%BA%A4%E6%8A%80%E8%83%BD%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000091
+    type: 'book'
+    name: '自闭症谱系障碍儿童社会技能的评估与干预'
+    author: '魏寿洪'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juex5rodbzjkzyyrzawmng7g3phq/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BC%9A%E6%8A%80%E8%83%BD%E7%9A%84%E8%AF%84%E4%BC%B0%E4%B8%8E%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000092
+    type: 'book'
+    name: '自闭症儿童训练指南'
+    author: '凯瑟克基金会'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw3prrawpzeruf6gnhbbdrkaia4a/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E8%AE%AD%E7%BB%83%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000093
+    type: 'book'
+    name: '自闭症儿童校园社交专注力训练手册'
+    author: '韩建忠'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju52eaxirbwla7xl3u2tktaa6fza/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E6%A0%A1%E5%9B%AD%E7%A4%BE%E4%BA%A4%E4%B8%93%E6%B3%A8%E5%8A%9B%E8%AE%AD%E7%BB%83%E6%89%8B%E5%86%8C.pdf'
+  - index: 10000094
+    type: 'book'
+    name: '自闭症儿童社交游戏训练-给父母及训练师的指南'
+    author: '英格索尔'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju3vjyrodahg4ukfjwedgz5gjdfq/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%8F%E8%AE%AD%E7%BB%83-%E7%BB%99%E7%88%B6%E6%AF%8D%E5%8F%8A%E8%AE%AD%E7%BB%83%E5%B8%88%E7%9A%84%E6%8C%87%E5%8D%97.pdf'
+  - index: 10000095
+    type: 'book'
+    name: '自闭症儿童社会规则训练'
+    author: '奥图尔'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxu5wl727yil7lritit5xhubtpva/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BC%9A%E8%A7%84%E5%88%99%E8%AE%AD%E7%BB%83.pdf'
+  - index: 10000096
+    type: 'book'
+    name: '自闭症儿童教育与指导'
+    author: '连翔'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwjdd4pfrexhfbim5mybdnhcqtrq/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E6%95%99%E8%82%B2%E4%B8%8E%E6%8C%87%E5%AF%BC.pdf'
+  - index: 10000097
+    type: 'book'
+    name: '自闭症儿童的社会性注意-面孔偏向注意与加工'
+    author: '陈顺森'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwbypfoe5nnpdy6r77cf66mtf6uq/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%A7%E6%B3%A8%E6%84%8F%20%E9%9D%A2%E5%AD%94%E5%81%8F%E5%90%91%E6%B3%A8%E6%84%8F%E4%B8%8E%E5%8A%A0%E5%B7%A5.pdf'
+  - index: 10000098
+    type: 'book'
+    name: '自闭儿的潜能开发'
+    author: '罗钧令'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwqbf6ylztrxombxxwld4dohtcuq/specail-education-material%2Fbook%2F%E8%87%AA%E9%97%AD%E5%84%BF%E7%9A%84%E6%BD%9C%E8%83%BD%E5%BC%80%E5%8F%91.pdf'
+  - index: 10000099
+    type: 'book'
+    name: '中小学生自闭症 识别、评估和治疗'
+    author: '布罗克'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxxtab74k4jmayn2hgkd4hppbxlq/specail-education-material%2Fbook%2F%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%87%AA%E9%97%AD%E7%97%87%20%E8%AF%86%E5%88%AB%E3%80%81%E8%AF%84%E4%BC%B0%E5%92%8C%E6%B2%BB%E7%96%97.pdf'
+  - index: 10000100
+    type: 'book'
+    name: '中国自闭症教育康复行业发展状况报告(2017年)'
+    author: '五彩鹿自闭症研究院'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxajorahhq73bo7i7czo6wrccgra/specail-education-material%2Fbook%2F%E4%B8%AD%E5%9B%BD%E8%87%AA%E9%97%AD%E7%97%87%E6%95%99%E8%82%B2%E5%BA%B7%E5%A4%8D%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E7%8A%B6%E5%86%B5%E6%8A%A5%E5%91%8A(2017%E5%B9%B4).pdf'
+  - index: 10000101
+    type: 'book'
+    name: '中国孤独症家庭需求蓝皮书'
+    author: '中国精神残疾人及亲友协会'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwhhkrap7m26yr6r24sdvlipbv4q/specail-education-material%2Fbook%2F%E4%B8%AD%E5%9B%BD%E5%AD%A4%E7%8B%AC%E7%97%87%E5%AE%B6%E5%BA%AD%E9%9C%80%E6%B1%82%E8%93%9D%E7%9A%AE%E4%B9%A6.pdf'
+  - index: 10000102
+    type: 'book'
+    name: '这世界唯一的你-自闭症人士独特行为背后的真相'
+    author: '巴瑞·普瑞桑等'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jun6p7qk2pgdiggmf4nie3hhvrbq/specail-education-material%2Fbook%2F%E8%BF%99%E4%B8%96%E7%95%8C%E5%94%AF%E4%B8%80%E7%9A%84%E4%BD%A0-%E8%87%AA%E9%97%AD%E7%97%87%E4%BA%BA%E5%A3%AB%E7%8B%AC%E7%89%B9%E8%A1%8C%E4%B8%BA%E8%83%8C%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8.pdf'
+  - index: 10000103
+    type: 'book'
+    name: '语言行为方法-如何教育孤独症和相关障碍儿童'
+    author: '玛丽•林奇•巴伯拉'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxhykf6rlsh23iwejrq6o3iylova/specail-education-material%2Fbook%2F%E8%AF%AD%E8%A8%80%E8%A1%8C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%A6%82%E4%BD%95%E6%95%99%E8%82%B2%E5%AD%A4%E7%8B%AC%E7%97%87%E5%92%8C%E7%9B%B8%E5%85%B3%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5.pdf'
+  - index: 10000104
+    type: 'book'
+    name: '与自闭症儿童一起做游戏'
+    author: 'Julia.Moor（昝飞译）'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxljb5eu6bxnkzcz6m5m3s53b3qa/specail-education-material%2Fbook%2F%E4%B8%8E%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E4%B8%80%E8%B5%B7%E5%81%9A%E6%B8%B8%E6%88%8F.pdf'
+  - index: 10000105
+    type: 'book'
+    name: '与你同行-自闭症儿童家长必读'
+    author: '邹小兵'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jui2p3vxt7iwzxpzl42ye7afxaaq/specail-education-material%2Fbook%2F%E4%B8%8E%E4%BD%A0%E5%90%8C%E8%A1%8C-%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E5%AE%B6%E9%95%BF%E5%BF%85%E8%AF%BB.pdf'
+  - index: 10000106
+    type: 'book'
+    name: '用图像思考：与孤独症共生'
+    author: '天宝·格兰丁'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvvaop5gm42pvjv3wpqkr6pdzifq/specail-education-material%2Fbook%2F%E7%94%A8%E5%9B%BE%E5%83%8F%E6%80%9D%E8%80%83%EF%BC%9A%E4%B8%8E%E5%AD%A4%E7%8B%AC%E7%97%87%E5%85%B1%E7%94%9F.pdf'
+  - index: 10000107
+    type: 'book'
+    name: '学前孤独症儿童-团体式早期介入丹佛模式'
+    author: '贾科莫·威万提'
+    year: '2018'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvwmq7q5ljfovtakchbuvyuhi3ea/specail-education-material%2Fbook%2F%E5%AD%A6%E5%89%8D%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5-%E5%9B%A2%E4%BD%93%E5%BC%8F%E6%97%A9%E6%9C%9F%E4%BB%8B%E5%85%A5%E4%B8%B9%E4%BD%9B%E6%A8%A1%E5%BC%8F.pdf'
+  - index: 10000108
+    type: 'book'
+    name: '学前孤独症儿童康复教育'
+    author: '陈军'
+    year: '2018'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju3kpti5fjvioj3sjc6ks6ljomkq/specail-education-material%2Fbook%2F%E5%AD%A6%E5%89%8D%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E7%AB%A5%E5%BA%B7%E5%A4%8D%E6%95%99%E8%82%B2.pdf'
+  - index: 10000109
+    type: 'book'
+    name: '虚构的孤独者-孤独症其人其事'
+    author: '道格拉斯·比克伦'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jx7abh4ubxqsy4fcbfkvqy76gctq/specail-education-material%2Fbook%2F%E8%99%9A%E6%9E%84%E7%9A%84%E5%AD%A4%E7%8B%AC%E8%80%85-%E5%AD%A4%E7%8B%AC%E7%97%87%E5%85%B6%E4%BA%BA%E5%85%B6%E4%BA%8B.pdf'
+  - index: 10000110
+    type: 'book'
+    name: '行为导图-改善孤独症谱系或相关障碍人士行为的视觉支持策略'
+    author: '艾米·布依（黎文生译）'
+    year: '2017'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvjyt7d556m75opflgy6jm2qzs2a/specail-education-material%2Fbook%2F%E8%A1%8C%E4%B8%BA%E5%AF%BC%E5%9B%BE-%E6%94%B9%E5%96%84%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E6%88%96%E7%9B%B8%E5%85%B3%E9%9A%9C%E7%A2%8D%E4%BA%BA%E5%A3%AB%E8%A1%8C%E4%B8%BA%E7%9A%84%E8%A7%86%E8%A7%89%E6%94%AF%E6%8C%81%E7%AD%96%E7%95%A5.pdf'
+  - index: 10000111
+    type: 'book'
+    name: '小糖的故事-图片交换沟通系统(PECS)在自闭症、沟通障碍人士中的运用'
+    author: '陈凯鸣'
+    year: '2011'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvvbrl3v5az6g22icgqmbogomxya/specail-education-material%2Fbook%2F%E5%B0%8F%E7%B3%96%E7%9A%84%E6%95%85%E4%BA%8B-%E5%9B%BE%E7%89%87%E4%BA%A4%E6%8D%A2%E6%B2%9F%E9%80%9A%E7%B3%BB%E7%BB%9F(PECS)%E5%9C%A8%E8%87%AA%E9%97%AD%E7%97%87%E3%80%81%E6%B2%9F%E9%80%9A%E9%9A%9C%E7%A2%8D%E4%BA%BA%E5%A3%AB%E4%B8%AD%E7%9A%84%E8%BF%90%E7%94%A8.pdf'
+  - index: 10000112
+    type: 'book'
+    name: '小明上学记-自闭症儿童成长、康复、教育指导'
+    author: '兰孝松等'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxbdxrtk7hkj7o3tn2xjji4qlkpa/specail-education-material%2Fbook%2F%E5%B0%8F%E6%98%8E%E4%B8%8A%E5%AD%A6%E8%AE%B0-%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E6%88%90%E9%95%BF%E3%80%81%E5%BA%B7%E5%A4%8D%E3%80%81%E6%95%99%E8%82%B2%E6%8C%87%E5%AF%BC.pdf'
+  - index: 10000113
+    type: 'book'
+    name: '我心看世界 天宝解析孤独症谱系障碍'
+    author: '天宝•格兰丁'
+    year: '2012'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxgpuwgqzipz2b2dafs54m35bqca/specail-education-material%2Fbook%2F%E6%88%91%E5%BF%83%E7%9C%8B%E4%B8%96%E7%95%8C%20%E5%A4%A9%E5%AE%9D%E8%A7%A3%E6%9E%90%E5%AD%A4%E7%8B%AC%E7%97%87%E8%B0%B1%E7%B3%BB%E9%9A%9C%E7%A2%8D.pdf'
+  - index: 10000114
+    type: 'book'
+    name: '我的星期三是蓝色的-一个孤独症天才的华丽蜕变'
+    author: '丹尼尔·塔米特'
+    year: '2016'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jv4rdfyxorjqs6nco4tqkogrywia/specail-education-material%2Fbook%2F%E6%88%91%E7%9A%84%E6%98%9F%E6%9C%9F%E4%B8%89%E6%98%AF%E8%93%9D%E8%89%B2%E7%9A%84-%E4%B8%80%E4%B8%AA%E5%AD%A4%E7%8B%AC%E7%97%87%E5%A4%A9%E6%89%8D%E7%9A%84%E5%8D%8E%E4%B8%BD%E8%9C%95%E5%8F%98.pdf'
+  - index: 10000115
+    type: 'book'
+    name: '蜗牛牵我去散步-自闭症专家妈妈的育儿经'
+    author: '陈婕'
+    year: '2015'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juphlhmbgriy43bqf33axeewqysq/specail-education-material%2Fbook%2F%E8%9C%97%E7%89%9B%E7%89%B5%E6%88%91%E5%8E%BB%E6%95%A3%E6%AD%A5-%E8%87%AA%E9%97%AD%E7%97%87%E4%B8%93%E5%AE%B6%E5%A6%88%E5%A6%88%E7%9A%84%E8%82%B2%E5%84%BF%E7%BB%8F.pdf'
+  - index: 10000116
+    type: 'book'
+    name: '天使的世界你不懂-英国妈妈这样帮助自闭症儿子长大'
+    author: '谢娜·巴顿'
+    year: '2014'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxjxfk47ytxbq7mftqghrqlxarbq/specail-education-material%2Fbook%2F%E5%A4%A9%E4%BD%BF%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%A0%E4%B8%8D%E6%87%82-%E8%8B%B1%E5%9B%BD%E5%A6%88%E5%A6%88%E8%BF%99%E6%A0%B7%E5%B8%AE%E5%8A%A9%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E5%AD%90%E9%95%BF%E5%A4%A7.pdf'
+
+
+
+  - index: 20000001
+    type: 'scale'
+    name: '心理卫生评定量表'
+    author: '汪向东等'
+    year: '1999'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juxjo3h2dcny6khy5umpp2aq4ojq/specail-education-material%2Fscale%2F%E5%BF%83%E7%90%86%E5%8D%AB%E7%94%9F%E8%AF%84%E5%AE%9A%E9%87%8F%E8%A1%A8.pdf'
+
+
+
   - index: 30000001
     type: 'document'
     name: '自闭症儿童前语言沟通技能干预'
@@ -146,6 +976,120 @@ content:
     urls:
       - vendor: 'storj'
         link: 'https://link.storjshare.io/jxhj7qvowhu5pecglrpgmimr4jfa/specail-education-material%2Fdocument%2F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E5%BA%B7%E5%A4%8D%E8%AE%AD%E7%BB%83%E9%9B%86.7z'
+
+
+
+  - index: 40000001
+    type: 'law'
+    name: '病残儿医学鉴定管理办法'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juk6hiztsculwjuuaxf4denx6eka/specail-education-material%2Flaw%2F%E7%97%85%E6%AE%8B%E5%84%BF%E5%8C%BB%E5%AD%A6%E9%89%B4%E5%AE%9A%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf'
+  - index: 40000002
+    type: 'law'
+    name: '残疾人残疾分类和分级'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvpxo3atfqnk6vyvq42juxyrip4a/specail-education-material%2Flaw%2F%E6%AE%8B%E7%96%BE%E4%BA%BA%E6%AE%8B%E7%96%BE%E5%88%86%E7%B1%BB%E5%92%8C%E5%88%86%E7%BA%A7.pdf'
+  - index: 40000003
+    type: 'law'
+    name: '残疾人教育条例'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/juvkapdmdilkim76lpwjivf4beyq/specail-education-material%2Flaw%2F%E6%AE%8B%E7%96%BE%E4%BA%BA%E6%95%99%E8%82%B2%E6%9D%A1%E4%BE%8B.pdf'
+  - index: 40000004
+    type: 'law'
+    name: '残疾人就业条例'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jupcjxkx3ly3dxfgs7tv3t27as7a/specail-education-material%2Flaw%2F%E6%AE%8B%E7%96%BE%E4%BA%BA%E5%B0%B1%E4%B8%9A%E6%9D%A1%E4%BE%8B.pdf'
+  - index: 40000005
+    type: 'law'
+    name: '聋校教学与医疗康复仪器设备配备标准'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/ju3g4dinyrpvslmv2qdikmc7g3xq/specail-education-material%2Flaw%2F%E8%81%8B%E6%A0%A1%E6%95%99%E5%AD%A6%E4%B8%8E%E5%8C%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E4%BB%AA%E5%99%A8%E8%AE%BE%E5%A4%87%E9%85%8D%E5%A4%87%E6%A0%87%E5%87%86.pdf'
+  - index: 40000006
+    type: 'law'
+    name: '聋校义务教育课程设置实验方案'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwifqnmcmgprhqubcjbkb2hm6e5q/specail-education-material%2Flaw%2F%E8%81%8B%E6%A0%A1%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%AF%BE%E7%A8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%A1%88.pdf'
+  - index: 40000007
+    type: 'law'
+    name: '盲校教学与医疗康复仪器设备配备标准'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jva5zn4672nsbmnj4aiaqix3poha/specail-education-material%2Flaw%2F%E7%9B%B2%E6%A0%A1%E6%95%99%E5%AD%A6%E4%B8%8E%E5%8C%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E4%BB%AA%E5%99%A8%E8%AE%BE%E5%A4%87%E9%85%8D%E5%A4%87%E6%A0%87%E5%87%86.pdf'
+  - index: 40000008
+    type: 'law'
+    name: '盲校义务教育课程设置实验方案 '
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jw36axusxfquuj6j5l2pdugfzeiq/specail-education-material%2Flaw%2F%E7%9B%B2%E6%A0%A1%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%AF%BE%E7%A8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%A1%88%20.pdf'
+  - index: 40000009
+    type: 'law'
+    name: '培智学校教学与医疗康复仪器设备'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxoeqyvjjyohofx4z6mcdyzy6oua/specail-education-material%2Flaw%2F%E5%9F%B9%E6%99%BA%E5%AD%A6%E6%A0%A1%E6%95%99%E5%AD%A6%E4%B8%8E%E5%8C%BB%E7%96%97%E5%BA%B7%E5%A4%8D%E4%BB%AA%E5%99%A8%E8%AE%BE%E5%A4%87.pdf'
+  - index: 40000010
+    type: 'law'
+    name: '培智学校义务教育课程设置实验方案'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwchlja3cj5iyoomcsxyvbyss6qq/specail-education-material%2Flaw%2F%E5%9F%B9%E6%99%BA%E5%AD%A6%E6%A0%A1%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%AF%BE%E7%A8%8B%E8%AE%BE%E7%BD%AE%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%A1%88.pdf'
+  - index: 40000011
+    type: 'law'
+    name: '特殊教育学校建设标准 '
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvsluqjkqfjefyluz6c6z42le2wa/specail-education-material%2Flaw%2F%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E5%BB%BA%E8%AE%BE%E6%A0%87%E5%87%86%20.pdf'
+  - index: 40000012
+    type: 'law'
+    name: '无障碍环境建设条例'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvwcjreh6olh4lulx46xcyktimdq/specail-education-material%2Flaw%2F%E6%97%A0%E9%9A%9C%E7%A2%8D%E7%8E%AF%E5%A2%83%E5%BB%BA%E8%AE%BE%E6%9D%A1%E4%BE%8B.pdf'
+  - index: 40000013
+    type: 'law'
+    name: '中华人民共和国残疾人保障法'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxgeya5zn5m5wyndjnns3ntrb47a/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%AE%8B%E7%96%BE%E4%BA%BA%E4%BF%9D%E9%9A%9C%E6%B3%95.pdf'
+  - index: 40000014
+    type: 'law'
+    name: '中华人民共和国高等教育法'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jun7ijp76w3j3lr3t7jlmw3tgj6q/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E6%B3%95.pdf'
+  - index: 40000015
+    type: 'law'
+    name: '中华人民共和国教育法'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jvph2fgcut355aujx2mywiijm6pa/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%95%99%E8%82%B2%E6%B3%95.pdf'
+  - index: 40000016
+    type: 'law'
+    name: '中华人民共和国母婴保健法'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxeigrmub7opy54lggtfievgl3kq/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%AF%8D%E5%A9%B4%E4%BF%9D%E5%81%A5%E6%B3%95.pdf'
+  - index: 40000017
+    type: 'law'
+    name: '中华人民共和国义务教育法(2018 修正)'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwfwxra4c6ofxkj6uhmvbhyv6rba/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%B3%95(2018%20%E4%BF%AE%E6%AD%A3).pdf'
+  - index: 40000018
+    type: 'law'
+    name: '中华人民共和国职业教育法'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwojy4okda3mc56qaox2viwwsr3a/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%81%8C%E4%B8%9A%E6%95%99%E8%82%B2%E6%B3%95.pdf'
+
+
+
   - index: 60000001
     type: 'website'
     name: 'macs-手功能分级系统'

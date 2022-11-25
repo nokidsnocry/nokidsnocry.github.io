@@ -17,7 +17,7 @@
         <div class='material-container'>
             <div class='material {{ item.type }}'>
                 <div class='material-image'>
-                    <img src="/assets/images/material_cover/{{ item.name }}.png" />
+                    <img src="/assets/images/material_cover/{{ item.name }}.png" loading='lazy' />
                 </div>
                 <div class='material-info'>
                     <div class='type' style='display:none'>{{ item.type }}</div>
@@ -47,7 +47,7 @@
                     {% if item.type == 'video' %}
                         <span>🔑在线观看:</span>
                         {% for url in item.urls %}
-                            <a href="{{ url.link }}">{{ url.vendor }}</a>
+                            <a href="{{ url.link }}" target='_blank'>{{ url.vendor }}</a>
                         {% endfor %}
                     {% elsif item.type == 'website' %}
                         <span>🔑进入网站:</span>
@@ -55,7 +55,7 @@
                     {% else %}
                         <span>🔑下载:</span>
                         {% for url in item.urls %}
-                            <a href="{{ url.link }}">{{ url.vendor }}</a>
+                            <a href="{{ url.link }}" target='_blank'>{{ url.vendor }}</a>
                         {% endfor %}
                     {% endif %}
                 </div>
