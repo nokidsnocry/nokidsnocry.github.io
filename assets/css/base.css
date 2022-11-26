@@ -176,6 +176,7 @@ a {
 }
 #materials .material-container:hover .material {
     filter: brightness(40%);
+    box-shadow: 10px 10px 2px gray;
 }
 #materials .material-container:hover .material-modal {
     opacity: 1;
@@ -259,7 +260,7 @@ a {
     display: none;
     padding: 1rem;
 }
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 900px) {
     #header #title {
         display: none;
     }
