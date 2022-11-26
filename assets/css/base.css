@@ -58,6 +58,7 @@ a {
     font-size: 40px;
     color: var(--color-yellow);
     font-weight: 900;
+    padding-left: 5px;
 }
 #header #title span.large {
     text-decoration: underline;
