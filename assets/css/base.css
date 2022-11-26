@@ -50,6 +50,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    overflow-x: hidden;
 }
 #header #header-left {
     display: flex;
@@ -58,7 +59,7 @@ a {
     font-size: 40px;
     color: var(--color-yellow);
     font-weight: 900;
-    padding-left: 5px;
+    padding-left: 2px;
 }
 #header #title span.large {
     text-decoration: underline;
@@ -161,6 +162,7 @@ a {
     gap: 2rem;
     padding: 2rem;
     justify-content: center;
+    overflow-x: hidden;
 }
 #materials .material-container {
     position: relative;
