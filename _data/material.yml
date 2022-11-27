@@ -9,8 +9,6 @@ metadata:
     - '相关的在线视频'
     - '各领域的权威网站和相关工具网站'
   keywords: ['index', 'name', 'author', 'year', 'type', 'urls', 'description']
-
-
   
 content:
   - index: 10000001
@@ -116,7 +114,7 @@ content:
     year: '2012'
     urls:
       - vendor: 'storj'
-        link: 'https://link.storjshare.io/s/jup6ksx2khfv3cju3turmgzb3ifa/specail-education-material/%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf'
+        link: 'https://link.storjshare.io/jvcwljdm367ij5wdkmzlwqddxdqa/specail-education-material%2Fbook%2F%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%E6%8A%80%E6%9C%AF%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf'
   - index: 10000014 
     type: 'book'
     name: '应用行为分析（第二版）'
@@ -124,7 +122,7 @@ content:
     year: '2012'
     urls:
       - vendor: 'storj'
-        link: 'https://link.storjshare.io/jxb4xb4cwnih5bngvsfz52etlj3a/specail-education-material%2Fbooks%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
+        link: 'https://link.storjshare.io/jwq4b3uu6cximick6ve22guwabkq/specail-education-material%2Fbook%2F%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf'
   - index: 10000015
     type: 'book'
     name: '追寻自闭症的真相'
@@ -455,7 +453,7 @@ content:
         link: 'https://link.storjshare.io/jvt5rxpugdggc5xjtkufislyal7a/specail-education-material%2Fbook%2F%E8%8B%8F%E5%B7%9E%E5%B8%82%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E5%BA%B7%E5%A4%8D%E8%AE%AD%E7%BB%83%E6%96%B9%E6%A1%88%E9%9B%86-%E4%B8%AA%E5%88%AB%E8%AE%AD%E7%BB%83.pdf'
   - index: 10000056
     type: 'book'
-    name: '特殊儿童的问题行为干预:实例与解析'
+    name: '特殊儿童的问题行为干预：实例与解析'
     author: '昝飞等'
     year: '2014'
     urls:

@@ -17,7 +17,11 @@
         <div class='material-container'>
             <div class='material {{ item.type }}'>
                 <div class='material-image'>
-                    <img src="/assets/images/material_cover/{{ item.name }}.png" loading='lazy' />
+                    {% for cover in site.data.material_cover %}
+                        {% if cover.cover_name == item.name %}
+                            <img src="{{cover.cover_src}}" loading='lazy' />
+                        {% endif %}
+                    {% endfor %}
                 </div>
                 <div class='material-info'>
                     <div class='type' style='display:none'>{{ item.type }}</div>

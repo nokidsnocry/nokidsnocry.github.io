@@ -240,11 +240,11 @@ a {
     align-items: center;
 }
 #materials .material-modal .urls {
-    color: var(--color-orange);
+    color: #fff;
     width: max-content;
     height: max-content;
     padding: 1rem;
-    background: var(--color-yellow);
+    background: var(--color-orange);
     border-radius: 2px;
     font-weight: 900;
 }
