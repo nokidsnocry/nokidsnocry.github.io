@@ -226,6 +226,7 @@ a {
     text-align: center;
     background: #F5CD3B;
     color: #fff;
+    word-break: break-all;
 }
 #materials .material-modal {
     position: absolute;
