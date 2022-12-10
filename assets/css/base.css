@@ -285,6 +285,7 @@ a {
     }
     #header #about-content {
         font-size: 1rem;
+        padding: 1rem;
     }
     #materials #no-result {
         width: 80vw;
