@@ -1437,6 +1437,12 @@ content:
       - vendor: 'storj'
         link: 'https://link.storjshare.io/jwojy4okda3mc56qaox2viwwsr3a/specail-education-material%2Flaw%2F%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%81%8C%E4%B8%9A%E6%95%99%E8%82%B2%E6%B3%95.pdf'
 
+  - index: 50000001
+    type: 'video'
+    name: '图片交换沟通系统（PECS）教学视频'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jv4hoqde7vidorqezrlntx3dthsa/specail-education-material%2Fvideo%2F%E5%9B%BE%E7%89%87%E4%BA%A4%E6%8D%A2%E6%B2%9F%E9%80%9A%E7%B3%BB%E7%BB%9F%EF%BC%88PECS%EF%BC%89%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91.7z'
 
 
   - index: 60000001
