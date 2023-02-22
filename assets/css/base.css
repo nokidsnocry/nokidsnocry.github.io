@@ -40,6 +40,19 @@ a {
 .website {
     border-color: #8E7CC7 !important;
 }
+.textbook {
+    border-color: #3B9CFF !important;
+}
+.new {
+    order: -1;
+}
+.new .material::before {
+    content: '🏳️‍🌈';
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    font-size: 1.5rem;
+}
 #header {
     position: sticky;
     top: 0;

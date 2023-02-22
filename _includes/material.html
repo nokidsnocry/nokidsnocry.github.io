@@ -13,8 +13,17 @@
             {% assign type-chinese = '视频' %}
         {% when 'website' %}
             {% assign type-chinese = '网站' %}
+        {% when 'textbook' %}
+            {% assign type-chinese = '教材' %}
         {% endcase %}
-        <div class='material-container'>
+
+        {% assign time_gap =  'now' | date: '%s' | minus: item.utime %}
+        {% if time_gap < 259200 %}
+            {% assign order = 'new' %}
+        {% else %}
+            {% assign order = 'old' %}
+        {% endif %}
+        <div class='material-container {{ order }}'>
             <div class='material {{ item.type }}'>
                 <div class='material-image'>
                     {% for cover in site.data.material_cover %}
