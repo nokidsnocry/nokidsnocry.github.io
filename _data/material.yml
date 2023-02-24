@@ -1020,6 +1020,30 @@ content:
     urls:
       - vendor: 'storj'
         link: 'https://link.storjshare.io/jvy2hwodm6l7j36zjauk3d7s3xzq/specail-education-material%2Fbook%2F%E9%87%8D%E5%BB%BA%E4%BE%9D%E6%81%8B%EF%BC%9A%E8%87%AA%E9%97%AD%E7%97%87%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%B2%BB%E7%96%97.pdf'
+  - index: 10000127
+    type: 'book'
+    name: '积极行为支持：基于功能评估的问题行为干预'
+    author: '昝飞'
+    year: '2013'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jwm7emy2j3noxmebkyu23d2vwkha/specail-education-material%2Fbook%2F%E7%A7%AF%E6%9E%81%E8%A1%8C%E4%B8%BA%E6%94%AF%E6%8C%81%EF%BC%9A%E5%9F%BA%E4%BA%8E%E5%8A%9F%E8%83%BD%E8%AF%84%E4%BC%B0%E7%9A%84%E9%97%AE%E9%A2%98%E8%A1%8C%E4%B8%BA%E5%B9%B2%E9%A2%84.pdf'
+  - index: 10000128
+    type: 'book'
+    name: '盲童教育概论'
+    author: '李牧子'
+    year: '1981'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jxav6y3ul2sqhq54qm4xx4k54pyq/specail-education-material%2Fbook%2F%E7%9B%B2%E7%AB%A5%E6%95%99%E8%82%B2%E6%A6%82%E8%AE%BA.pdf'
+  - index: 10000129
+    type: 'book'
+    name: '中国手语（上、下册）（修订版）'
+    author: '中国聋人协会'
+    year: '2003'
+    urls:
+      - vendor: 'storj'
+        link: 'https://link.storjshare.io/jx4zlnxr5h2lw45jaqj4auo7mqja/specail-education-material%2Fbook%2F%E4%B8%AD%E5%9B%BD%E6%89%8B%E8%AF%AD%EF%BC%88%E4%B8%8A%E3%80%81%E4%B8%8B%E5%86%8C%EF%BC%89%EF%BC%88%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf'
 
 
   - index: 20000001
