@@ -57,16 +57,11 @@
             <div class='material-name'>《{{ item.name }}》</div>
             <div class='material-modal'>
                 <div class='urls'>
-                    {% if item.type == 'video' %}
-                        <span>🔑获取:</span>
-                        {% for url in item.urls %}
-                            <a href="{{ url.link }}" target='_blank'>{{ url.vendor }}</a>
-                        {% endfor %}
-                    {% elsif item.type == 'website' %}
+                    {% if item.type == 'website' %}
                         <span>🔑进入网站:</span>
-                        <a href="{{ item.url }}" target="_blank">🏳️‍🌈</a>
+                        <a href="{{ item.url }}" target="_blank">👉</a>
                     {% else %}
-                        <span>🔑下载:</span>
+                        <span>🔑预览/下载:</span>
                         {% for url in item.urls %}
                             <a href="{{ url.link }}" target='_blank'>{{ url.vendor }}</a>
                         {% endfor %}
