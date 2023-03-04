@@ -104,6 +104,21 @@ function adjustSearchBoxLength() {
     }
 }
 
+
+function setNewBanner() {
+    let timeStamp = Math.floor(new Date().getTime() / 1000);
+    console.log(timeStamp);
+    let eleMaterialContainers = document.querySelectorAll('.material-container');
+    Array.from(eleMaterialContainers).forEach((ele) => {
+        let utime = ele.getAttribute('data-utime');
+        let timeGap = timeStamp - utime;
+        if (timeGap < 259200) {
+            ele.classList.add('new');
+        }
+    })
+}
+
 searchMaterial();
 displayAbout();
 adjustSearchBoxLength()
+setNewBanner();
