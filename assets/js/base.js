@@ -118,7 +118,14 @@ function setNewBanner() {
     })
 }
 
+
+function goHome() {
+    let eleHeader = document.querySelector('#header-left');
+    eleHeader.addEventListener('pointerdown', () => window.location.href='/');
+}
+
 searchMaterial();
 displayAbout();
 adjustSearchBoxLength()
 setNewBanner();
+goHome();
