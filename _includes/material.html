@@ -1,3 +1,4 @@
+<div id='container'>
 <div id='materials'>
     {% for item in site.data.material.content %}
         {% case item.type %}
@@ -20,11 +21,7 @@
         <div class='material-container' data-utime='{{ item.utime }}'>
             <div class='material {{ item.type }}'>
                 <div class='material-image'>
-                    {% for cover in site.data.material_cover %}
-                        {% if cover.cover_name == item.name %}
-                            <img src="{{cover.cover_src}}" loading='lazy' />
-                        {% endif %}
-                    {% endfor %}
+                    <img src="{{ item.covers[0].cover_url}}" loading='lazy' />
                 </div>
                 <div class='material-info'>
                     <div class='type' style='display:none'>{{ item.type }}</div>
@@ -39,7 +36,11 @@
                     {% if item.type == 'book' %}
                     <div class='year'>
                         <span>📅日期：</span>
-                        <span class='info' title="{{ item.year }}">{{ item.year }}</span>
+                        <span class='info' title="{{ item.year }}">{{ item.year | default: '🍦🍮' }}</span>
+                    </div>
+                    <div class='pages'>
+                        <span>📃页数：</span>
+                        <span class='info' title="{{ item.pages }}">{{ item.pages | default: '🍼🍹' }}</span>
                     </div>
                     {% endif %}
                     <div class='type'>
@@ -57,12 +58,13 @@
                     {% else %}
                         <span>🔑预览/下载:</span>
                         {% for url in item.urls %}
-                            <a href="{{ url.link }}" target='_blank'>{{ url.vendor }}</a>
+                            <a href="{{ url.book_url }}" target='_blank'>{{ url.book_vendor }}</a>
                         {% endfor %}
                     {% endif %}
                 </div>
             </div>
         </div>
     {% endfor %}
-    <div id='no-result'>大海里什么鱼也没捞到🤷‍♀️，请缩短关键词再次搜索🔎......</div>
+    <div id='no-result'>大海里什么鱼也没捞到🤷‍♀️，请缩短关键词再次搜索🔎......也可以邮箱求助哦🎈</div>
+</div>
 </div>

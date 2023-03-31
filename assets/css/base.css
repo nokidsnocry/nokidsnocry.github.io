@@ -12,6 +12,7 @@ body {
     position: relative;
     background: var(--body-color);
     font-family: 'KaiTi';
+    overflow-y: hidden
 }
 a {
     cursor: pointer;
@@ -175,6 +176,10 @@ a {
 }
 #header #about-content #email {
     color: var(--color-blue);
+}
+#container {
+    overflow-y: scroll;
+    height: calc(100vh - 60px);
 }
 #materials {
     display: grid;

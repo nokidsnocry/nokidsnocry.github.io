@@ -14,6 +14,7 @@ function searchMaterial() {
         displayMaterialContainer(keywords);
     })
     
+    /*
     eleSearchInput.addEventListener('compositionstart', () => {
         typeChinese = true;
     })
@@ -30,6 +31,7 @@ function searchMaterial() {
         displayMaterialContainer(keywords);
         typeChinese = false;
     })
+    */
 
     function displayNoResult() {
         eleNoResult.style.display = 'block';
@@ -107,7 +109,6 @@ function adjustSearchBoxLength() {
 
 function setNewBanner() {
     let timeStamp = Math.floor(new Date().getTime() / 1000);
-    console.log(timeStamp);
     let eleMaterialContainers = document.querySelectorAll('.material-container');
     Array.from(eleMaterialContainers).forEach((ele) => {
         let utime = ele.getAttribute('data-utime');
