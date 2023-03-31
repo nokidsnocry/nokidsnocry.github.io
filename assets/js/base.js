@@ -1,37 +1,39 @@
+const eleSelectType = document.querySelector('#select-type');
+const eleSearchInput = document.querySelector('#search-box input');
+const eleSearchButton = document.querySelector('#search-box button');
+const eleContainer = document.querySelector('#container');
+const eleMaterialContainers = document.querySelectorAll('.material-container');
+const eleNoResult = document.querySelector('#no-result');
+const eleLoading = document.querySelector('#loading');
+
+
 function searchMaterial() {
-    let eleSelectType = document.querySelector('#select-type');
-    let eleSearchInput = document.querySelector('#search-box input');
-    let eleSearchButton = document.querySelector('#search-box button');
-    let eleMaterialContainers = document.querySelectorAll('.material-container');
-    let eleNoResult = document.querySelector('#no-result');
     let materialContainersCount = eleMaterialContainers.length;
     let typeChinese = false;
     
-    eleSelectType.addEventListener('change', () => displayMaterialContainer());
+    eleSelectType.addEventListener('change', () => {
+        displayLoading();
+        setTimeout(displayMaterialContainer, 100);
+        setTimeout(hideLoading, 100);
+    })
 
     eleSearchButton.addEventListener('click', () => {
+        displayLoading();
         let keywords = eleSearchInput.value;
-        displayMaterialContainer(keywords);
-    })
-    
-    /*
-    eleSearchInput.addEventListener('compositionstart', () => {
-        typeChinese = true;
-    })
-    
-    eleSearchInput.addEventListener('input', () => {
-        if (!typeChinese) {
-            let keywords = eleSearchInput.value;
-            displayMaterialContainer(keywords);
-        }
+        setTimeout(() => displayMaterialContainer(keywords), 100);
+        setTimeout(hideLoading, 100);
     })
 
-    eleSearchInput.addEventListener('compositionend', () => {
-        let keywords = eleSearchInput.value;
-        displayMaterialContainer(keywords);
-        typeChinese = false;
-    })
-    */
+    function displayLoading() {
+        eleLoading.style.display = 'block';
+        eleContainer.style.filter = 'blur(10px)';
+    }
+
+    function hideLoading() {
+        eleLoading.style.display = 'none';
+        eleContainer.style.filter = 'blur(0px)';
+    }
+
 
     function displayNoResult() {
         eleNoResult.style.display = 'block';
@@ -80,13 +82,13 @@ function displayAbout() {
     let eleMaterials = document.querySelector('#materials');
     eleAboutButton.addEventListener('pointerdown', () => {
         eleAboutContent.style.display = 'block';
-        eleMaterials.style.filter = 'brightness(0.1)';
+        eleContainer.style.filter = 'blur(10px)';
         display = true;
     })
     eleMaterials.addEventListener('pointerdown', () => {
         if (display) {
             eleAboutContent.style.display = 'none';
-            eleMaterials.style.filter = 'brightness(1)';
+            eleContainer.style.filter = 'blur(0px)';
         }
     })
             
@@ -125,8 +127,24 @@ function goHome() {
     eleHeader.addEventListener('pointerdown', () => window.location.href='/');
 }
 
+
+function customScrollbar() {
+    var { 
+        OverlayScrollbars, 
+        ScrollbarsHidingPlugin, 
+        SizeObserverPlugin, 
+        ClickScrollPlugin  
+    } = OverlayScrollbarsGlobal;
+    OverlayScrollbars(document.querySelector('#container'), {
+        overflow: {
+            x: 'hidden',
+        },
+    });
+}
+
 searchMaterial();
 displayAbout();
 adjustSearchBoxLength()
 setNewBanner();
 goHome();
+customScrollbar();
