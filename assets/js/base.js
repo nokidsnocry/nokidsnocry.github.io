@@ -129,7 +129,7 @@ function goHome() {
 
 
 function customScrollbar() {
-    var { 
+    let { 
         OverlayScrollbars, 
         ScrollbarsHidingPlugin, 
         SizeObserverPlugin, 
@@ -142,9 +142,15 @@ function customScrollbar() {
     });
 }
 
+function setContainerHeight() {
+    let height = window.innerHeight;
+    eleContainer.height = (height - 60) + 'px';
+}
+
 searchMaterial();
 displayAbout();
 adjustSearchBoxLength()
 setNewBanner();
 goHome();
 customScrollbar();
+setContainerHeight();
