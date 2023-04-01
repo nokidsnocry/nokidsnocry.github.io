@@ -11,7 +11,7 @@
             <select id='select-type'>
                 <option value="all">全部</option>
                 {% for item in site.data.material.metadata.type-chinese %}
-                    <option value="{{ site.data.material.metadata.type[forloop.index0] }}" title="{{ site.data.material.metadata.type-description[forloop.index0] }}">{{ item }}</option>
+                    <option value="{{ site.data.material.metadata.type[forloop.index0] }}" title="{{ site.data.material.metadata.type-description[forloop.index0] }}">{{ item[0] }}({{ item[1]}})</option>
                 {% endfor %}
             </select>
             <button id='search-button'>🔍</button>
