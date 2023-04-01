@@ -142,14 +142,6 @@
   book_isbn: '9787802039902'
   book_sscode: '12555940'
   book_mccode: 24b0bdc77c241e43665e84406e60c3d3#1061be33455c834ff91310cc9bd6c37f#33849288#12555940.zip
-- book_name: 似是故人来--我的孤独症男友
-  book_author: 橘子宸著
-  book_press: 广州：广东人民出版社
-  book_date: '2018'
-  book_pages: '278'
-  book_isbn: '9787218123400'
-  book_sscode: '14437870'
-  book_mccode: 769d240900dc082648e44688d2b7742a#6a1bd4d31a0ba681f84cb7df23afdb4e#26863535#似是故人来  我的孤独症男友_14437870.uvz
 - book_name: 躲在迪士尼里的童年--关于爱勇气和孤独症的真实故事
   book_author: （美）罗恩·萨斯坎德著；肖毛译
   book_press: 厦门：鹭江出版社
@@ -294,14 +286,6 @@
   book_isbn: '9787122277213'
   book_sscode: '14071227'
   book_mccode: 3b6887fae8a21e8096a594280c4552c4#e1a489a955b51696345f74b005435874#57673171#14071227.zip
-- book_name: 千城·孤独症候群
-  book_author: 郭敖主编
-  book_press: 桂林：漓江出版社
-  book_date: '2013'
-  book_pages: '211'
-  book_isbn: '9787540765187'
-  book_sscode: '13334795'
-  book_mccode: 9b5f695b0c901b84e9d5195d74c0ef3f#82e3944d816a3e8bdefbba902d8cf823#44333821#千城孤独症候群_13334795.zip
 - book_name: 孤独症诊疗学
   book_author: 李雪荣，万国斌，陈劲梅，徐云主编
   book_press: 长沙：中南大学出版社
@@ -406,14 +390,6 @@
   book_isbn: ''
   book_sscode: '13537420'
   book_mccode: 18f040b73af13ac7f2fab392e87c67e8#b85b9ebd1951fa1df6536effeb41d0e4#66895166#13537420_孤独症干预的关键性技能训练法.zip
-- book_name: 股市危机--历史与逻辑
-  book_author: 吴晓求著
-  book_press: 北京：中国金融出版社
-  book_date: '2016'
-  book_pages: '421'
-  book_isbn: '9787504987723'
-  book_sscode: '14204967'
-  book_mccode: 04df5267101e4880f8ef5f265498778f#dc3ea50299dd09f719a7cb02e3bdec22#209054064#14204967.pdf
 - book_name: 中国孤独症家庭需求蓝皮书
   book_author: 中国精神残疾人及亲友协会编著；温洪总策划；郭德华执笔
   book_press: 北京：华夏出版社
@@ -1110,22 +1086,6 @@
   book_isbn: '9789861215785'
   book_sscode: '12976220'
   book_mccode: 4dedd5128ef338025fc70e854d0c9234#677a954293ac989d8e4625ff4c6e4cac#61039254#12976220.pdf
-- book_name: 一只黑猫的自闭症
-  book_author: 于是著；静兮绘
-  book_press: 北京：人民文学出版社
-  book_date: '2005'
-  book_pages: '193'
-  book_isbn: '7020051952'
-  book_sscode: '11772277'
-  book_mccode: 03338d920da2e748dad9a483e5dcb38e#40e0a6330e3251604d9602b78961a316#12696454#一只黑猫的自闭症_11772277.zip
-- book_name: 明朝五好家庭：3
-  book_author: 扫雪煮酒著
-  book_press: 沈阳：沈阳出版社
-  book_date: '2009'
-  book_pages: '243'
-  book_isbn: '9787544137690'
-  book_sscode: '12159822'
-  book_mccode: 00e3610769d0d61ac7beb0a49b9862dd#a7d0b89f4c15d47bb262027dca075d61#41063901#《明朝五好家庭：3》_12159822.zip
 - book_name: 了解自闭症--精神分析取向的发现、理解与治疗
   book_author: Anne Alvarez，Susan Reid著；许育光，叶琼婷，刘秀芬合译；林玉华主编
   book_press: 五南图书出版股份有限公司
@@ -1134,14 +1094,6 @@
   book_isbn: '9571133713'
   book_sscode: '13452018'
   book_mccode: 0399a65b36b8cdeceaf532a0df962fba#690d15760732d04ab31bc80c0f4c3085#145469232#13452018.zip
-- book_name: 让心不再累--活出真实的自己
-  book_author: 肖峰著（北京慧源心理与教育研究中心）
-  book_press: 南京：凤凰出版社
-  book_date: '2010'
-  book_pages: '248'
-  book_isbn: '9787807297413'
-  book_sscode: '12596291'
-  book_mccode: 02e0c97d73af601002cb55a3471a23dd#b5d988a3f2e00a550a2f9fe45330f00e#11949376#让心不再累  活出真实的自己_12596291.zip
 - book_name: 障碍教育--教养自闭症儿童--给家长的应用行为分析指南
   book_author: ShiraRichman著；赖丽珍译
   book_press: 心理出版社股份有限公司
@@ -1166,14 +1118,6 @@
   book_isbn: '9787506823128'
   book_sscode: '13172170'
   book_mccode: 20237d06a9d190de770c88ef78d2e968#da21883d50d3897911b62ec8aa6c32ef#60719074#13172170.zip
-- book_name: 我的自闭症男友
-  book_author: （美）克里斯汀·D·兰德尔著
-  book_press: 北京：新星出版社
-  book_date: '2011'
-  book_pages: '210'
-  book_isbn: '9787513302005'
-  book_sscode: '12824424'
-  book_mccode: 7ea472364b35dc6507488a38f186ccc3#4a647cc52a4d00eef15480d58bf6779d#9737565#我的自闭症男友_12824424.zip
 - book_name: 儿童自闭症康复手记
   book_author: 夏德均著
   book_press: 北京：光明日报出版社
@@ -1254,30 +1198,6 @@
   book_isbn: '9787568909730'
   book_sscode: '14613548'
   book_mccode: 9489235afe5612e254c047b713fa7a84#09c6ed107deadf24a17fc6a26ed43c9f#66926268#a_14613548.zip
-- book_name: 穿越塔克拉玛干
-  book_author: （英）奥雷尔·斯坦因著；巫新华等译
-  book_press: 桂林：广西师范大学出版社
-  book_date: '2000'
-  book_pages: '325'
-  book_isbn: '7563330801'
-  book_sscode: '10326659'
-  book_mccode: a94bfbce86e68f9a162a90e7181d0566#08208386fe53773203fe6c42dda33b9d#46659564#《穿越塔克拉玛干》_10326659.zip
-- book_name: 穿越台湾海峡的中美较量
-  book_author: 宋连生，巩小华编著
-  book_press: 昆明：云南人民出版社
-  book_date: '2001'
-  book_pages: '407'
-  book_isbn: '7222025863'
-  book_sscode: '10401020'
-  book_mccode: a0c187dbca15435e12fb757d122bdcfb#92aea5131b3f395fa52974ba4af206ea#29184191#穿越台湾海峡的中美较量_10401020.zip
-- book_name: 孤独的“呐喊”
-  book_author: 唐小林
-  book_press: 北京：作家出版社
-  book_date: '2017'
-  book_pages: '331'
-  book_isbn: '9787506395724'
-  book_sscode: '14317417'
-  book_mccode: 9b1e75714d80e1a0aa48100f20f340c2#784f7e3e07252f7c5bbc5aed429c3287#48986556#14317417.zip
 - book_name: 雷克斯--我的自闭症盲儿和我们的音乐
   book_author: 凯思琳·路易斯著
   book_press: 北京：人民文学出版社
@@ -1302,22 +1222,6 @@
   book_isbn: '9787507544343'
   book_sscode: '13983852'
   book_mccode: 1e4f89dc297c9254168ff26a708b6b32#61f6bf888dc9a6dace464924595aa516#34160957#围城中的天梯  走出自闭症_13983852.zip
-- book_name: 汽车燃油系、润滑系和冷却系
-  book_author: （美）克劳斯（Crouse，W.H.），（美）安格林（Anglin，D.L.）著；蔡阳生等译
-  book_press: 北京：机械工业出版社
-  book_date: '1988'
-  book_pages: '394'
-  book_isbn: '7111005988'
-  book_sscode: '10466207'
-  book_mccode: a31f77fa89fcbec52f60018be1416c66#aa5960addfe4b570b3ad4dd3072dff23#43131324#10466207.zip
-- book_name: 自卑与超越--个体心理研究
-  book_author: （奥）阿尔弗雷德·阿德勒（Alfred Adler）著
-  book_press: 北京：中国商业出版社
-  book_date: '2017'
-  book_pages: '329'
-  book_isbn: '9787504498038'
-  book_sscode: '14284750'
-  book_mccode: 8de328e9ae5b94e799f68e4513d1babb#72216c63d5af2eeb119dd39cb9453d23#30698789#自卑与超越  个体心理研究_14284750.zip
 - book_name: 自闭症谱系障碍儿童面部表情识别研究
   book_author: 郭文斌著
   book_press: 陕西师范大学出版总社
@@ -1422,14 +1326,6 @@
   book_isbn: '9787535457561'
   book_sscode: '13037988'
   book_mccode: bb28c2952c62669883785ed84c163a66#02cbcab6237a8a5779b199acce7980f0#8964351#山姆告诉我的事  一个心理治疗师从自闭症外孙身上看到的生命智慧_13037988.zip
-- book_name: 雷老婆--七个中国红军的小故事
-  book_author: 高朗亭等撰
-  book_press: 新华书店
-  book_date: '1945'
-  book_pages: '67'
-  book_isbn: ''
-  book_sscode: '10900020'
-  book_mccode: 2ee832052f66e1d23a2ed5fc8211f87c#032ac1fc6149183f6f829b896f3c4110#4135355#10900020.zip
 - book_name: 小明上学记--自闭症儿童成长--康复--教育指导
   book_author: 兰孝松，郭斐，胡琴波著
   book_press: 广州：暨南大学出版社
@@ -1750,14 +1646,6 @@
   book_isbn: '9787040408010'
   book_sscode: '14014292'
   book_mccode: 37ceb4038df2fa217113bc44c3c0c1d6#93882b7934c957790063d324012726c4#32378952#特殊教育学校（班）教育与教学指导_14014292.zip
-- book_name: 化学特殊教育
-  book_author: 陈海霞著
-  book_press: 厦门：厦门大学出版社
-  book_date: '2017'
-  book_pages: '182'
-  book_isbn: '9787561566343'
-  book_sscode: '14340597'
-  book_mccode: c81bf7e99524821752b8e6997b3f15b2#52389931e812b34b81959d08c1c3e548#20095007#14340597_化学特殊教育.zip
 - book_name: 儿童社会与特殊教育--第6册--百年学前教育文库--第6辑
   book_author: 李小雨，李闻戈，刘恬主编
   book_press: 北京：中央编译出版社
@@ -1886,14 +1774,6 @@
   book_isbn: '9787518409365'
   book_sscode: '14285941'
   book_mccode: 6d26c04ae82c59068ca2a984f9d69b58#4ad804937347a71646b38b6ce5f9254a#32959265#剑侠之道与特殊教育发展  第一届中国特殊教育华山论剑_14285941.zip
-- book_name: 精通Visual-Basic--第30章--数据库
-  book_author: 洪锦魁编著
-  book_press: 世界图书出版西安公司
-  book_date: '2000'
-  book_pages: '22'
-  book_isbn: 750624649X
-  book_sscode: '10439733'
-  book_mccode: 785c69b2eaefba20834139283ff6ac1b#7bec3155cb97e59ff310679228ea7a9d#10355749#10439733.zip
 - book_name: 特殊教育的研究与概况
   book_author: 北京未来新世纪教育科学研究所编
   book_press: 呼和浩特：远方出版社
@@ -2150,14 +2030,6 @@
   book_isbn: '9787508720272'
   book_sscode: '11963619'
   book_mccode: d106e037880a7d6b333990eaf057be0a#cb5cd198bd1f43d52549ccba38214eaf#20129873#11963619.pdf
-- book_name: 特警酷酷大冒险--揭秘“时光隧道”
-  book_author: 张立涛著
-  book_press: 北京：海洋出版社
-  book_date: '2007'
-  book_pages: '125'
-  book_isbn: '7502767215'
-  book_sscode: '11884541'
-  book_mccode: 741d1e1be555c0984668b66ad60fb2b1#4a6d0003b0e2cc3c0fe0c6621f1c532b#2899802#11884541.zip
 - book_name: 特殊儿童心理健康教育
   book_author: 何侃等著（南京特殊教育职业技术学院康复系）
   book_press: 镇江：江苏大学出版社
@@ -2206,14 +2078,6 @@
   book_isbn: '9787511247001'
   book_sscode: '13467179'
   book_mccode: 1a51ab79efd606c7a16323b8fad20e3a#4d286b0465c6b4b63b789097c861344b#39146788#13467179.zip
-- book_name: 图书馆为弱势群体服务论
-  book_author: 邵建萍编著（南京特殊教育职业技术学院）
-  book_press: 南京：南京大学出版社
-  book_date: '2009'
-  book_pages: '258'
-  book_isbn: '9787305068591'
-  book_sscode: '12889280'
-  book_mccode: 76ee186466f33fe2736b202e73c41d1a#cd3327a6c18fa54b1dcd138d5e869a49#21985992#图书馆为弱势群体服务论_12889280.zip
 - book_name: 特殊教育从业人员伦理学
   book_author: 陈秀敏主编；庄严总主编
   book_press: 哈尔滨：黑龙江大学出版社
@@ -2230,14 +2094,6 @@
   book_isbn: '9787305159985'
   book_sscode: '13905084'
   book_mccode: 48ec441904bfd06ea375ef5f2536ef2d#0ff3f9c349fa9cc4b21700cd142c5948#72729174#特殊教育政策：正义及其局限_13905084.pdf
-- book_name: 绘减压·心情马上好起来
-  book_author: 吉子著
-  book_press: 武汉：湖北美术出版社
-  book_date: '2014'
-  book_pages: '206'
-  book_isbn: '9787539471716'
-  book_sscode: '14057090'
-  book_mccode: ff77ec7feb0a596a1d4d4aca1b8c43f8#e9adf6b0590b089a01869ce5f61f8ed2#27665563#绘减压  心情马上好起来=PAINTING & REDUCE STRESS_14057090.zip
 - book_name: 余姚市特殊教育中心--20周年校庆纪念册--1989-2009
   book_author: 章国君主编
   book_press: ''
@@ -2294,22 +2150,6 @@
   book_isbn: ''
   book_sscode: '11515385'
   book_mccode: 1017b6b7402096056f4116f9b8644977#8e9210848cd5dba41d9dd59766bbdc33#14451415#11515385.zip
-- book_name: 2007年上海世界特殊奥运会志愿者培训教程
-  book_author: 上海市志愿者协会，华东师范大学学前教育与特殊教育学院撰著
-  book_press: 上海：华东师范大学出版社
-  book_date: '2006'
-  book_pages: '108'
-  book_isbn: '7561749600'
-  book_sscode: '11707583'
-  book_mccode: 9f773ecd8291e45e17648e87e22593cc#cadde42d49819f0545010bebd3311ef5#13868508#11707583.zip
-- book_name: 作文高阶梯--全国小学生作文妙笔精华
-  book_author: 张伯华主编
-  book_press: 北京：北京教育出版社
-  book_date: '1999'
-  book_pages: '610'
-  book_isbn: '7530317032'
-  book_sscode: '12951530'
-  book_mccode: b01867ab74894028aee6cc4ce59e2cd7#eff1286b047fd05075215546a440eb77#35802887#作文高阶梯  全国小学生作文妙笔精华_12951530.zip
 - book_name: 信息技术在特殊教育中的应用
   book_author: 黄建行
   book_press: ''
@@ -2318,14 +2158,6 @@
   book_isbn: ''
   book_sscode: '13753564'
   book_mccode: 98836455c7c9b1a5c36505f92c3d96b4#5c0b818b68910ee079cc06f12fd05f78#61033404#信息技术在特殊教育中的应用_13753564.zip
-- book_name: 英语专业八级写作应试技巧与训练
-  book_author: 李兴文，熊惠珍，季晓燕编著（南京特殊教育职业技术学院外语系）
-  book_press: 北京：国防工业出版社
-  book_date: '2009'
-  book_pages: '158'
-  book_isbn: '9787118064674'
-  book_sscode: '12345273'
-  book_mccode: abf8fccf7c0eebc30bc474119ec3ec55#6fea06bbe6129de4cf76ef8e6dedb0c0#42943510#《英语专业八级写作应试技巧与训练》_12345273.zip
 - book_name: 特殊教育的变革与创新
   book_author: 夏峰，沈立等著
   book_press: 北京：人民教育出版社
@@ -2534,14 +2366,6 @@
   book_isbn: ''
   book_sscode: '14089185'
   book_mccode: 5fbda92d5001cc0eb1db8b1a98f84d0d#db6e29dbafa27a008d08ba8e40175ea8#114031504#14089185.zip
-- book_name: 古老长城遗失的公主宝藏
-  book_author: （意）斯蒂顿著；彭倩译
-  book_press: 长春：北方妇女儿童出版社
-  book_date: '2014'
-  book_pages: '240'
-  book_isbn: '9787538580440'
-  book_sscode: '13556743'
-  book_mccode: 1356dd6ce99908e4c8e8643cd8013061#17b904e75f8c65ad37771b0fa0dd90e1#24898819#《古老长城遗失的公主宝藏》_13556743.zip
 - book_name: 南粤特殊教育新视野--上
   book_author: 罗观怀著
   book_press: 广州：暨南大学出版社
@@ -3038,14 +2862,6 @@
   book_isbn: ''
   book_sscode: '13556912'
   book_mccode: 969c14fb6d67aa6fc3bf7d061205ed9a#6ee0528816e52c96a307fd617481efeb#56568613#13556912.zip
-- book_name: 如何发展自闭谱系障碍儿童的认知能力
-  book_author: 潘前前
-  book_press: ''
-  book_date: '2014'
-  book_pages: ''
-  book_isbn: ''
-  book_sscode: '13572089'
-  book_mccode: 5b30f9e4baa949705128ddfe6e78675f#91aa2cbcd3fa06bbf60bdc426a04a0f2#79593354#13572089_如何发展自闭谱系障碍儿童的认知能力.zip.zip
 - book_name: 如何发展自闭谱系障碍儿童的沟通能力
   book_author: 朱晓晨，苏雪云编著
   book_press: 北京大学出版社
@@ -3110,14 +2926,6 @@
   book_isbn: '9787303237029'
   book_sscode: '14682875'
   book_mccode: 7b4b68b684a1cb1feed07b9e7692fb7b#4bd227887bf01253c72187284f1f0ed7#23371480#14682875.zip
-- book_name: 农民工随迁子女融合教育研究
-  book_author: 黄兆信，万荣根著
-  book_press: 北京：中国社会科学出版社
-  book_date: '2014'
-  book_pages: '286'
-  book_isbn: '9787516153475'
-  book_sscode: '13751480'
-  book_mccode: 9ca29fd93a54c1c917e14a013dac7006#9321ebb0fe38f70da06873bf42c93e77#68866049#农民工随迁子女融合教育研究_13751480.pdf
 - book_name: 融合教育教材教法
   book_author: 吴淑美著
   book_press: 北京：华夏出版社
@@ -3190,14 +2998,6 @@
   book_isbn: '9787562239857'
   book_sscode: '12367325'
   book_mccode: 99e530b8fc9a98da744f0a09ec35a645#90ed660f47c0d24cd4db0bb7932270ca#25592246#融合教育与随班就读：理想与现实之间_12367325.zip
-- book_name: 分享城市阳光--流动儿童的成长困境与融合教育之道
-  book_author: 周德钧，王之著
-  book_press: 武汉：华中科技大学出版社
-  book_date: '2014'
-  book_pages: '208'
-  book_isbn: '9787560994536'
-  book_sscode: '13669109'
-  book_mccode: 5c06b5afdf14309038526a22416651f6#fafc2fedc08dd05bb4dd9b832323f5ba#66086954#13669109.zip
 - book_name: 英国的融合教育
   book_author: 洪俪瑜著
   book_press: 学富文化事业有限公司
@@ -3230,22 +3030,6 @@
   book_isbn: '9787565103278'
   book_sscode: '13135342'
   book_mccode: 847138752e884d5c3d18accd1ba93e58#1df6c098ea9eea1e590ff0c12519d378#54122665#13135342.zip
-- book_name: 军民融合教育组织行为学--案例研究与理论解析
-  book_author: 张建卫
-  book_press: 北京：北京理工大学出版社
-  book_date: '2017'
-  book_pages: '281'
-  book_isbn: '9787568250320'
-  book_sscode: '96177512'
-  book_mccode: a51b4a47a5a3987648725020191ba093#f4646ae043cba551bfc6c0428b2e52b0#100388786#96177512.zip
-- book_name: 渗透与融合：教育实践中的心理学
-  book_author: 徐正言著
-  book_press: 杭州：浙江教育出版社
-  book_date: '2008'
-  book_pages: '421'
-  book_isbn: '9787533874537'
-  book_sscode: '12553683'
-  book_mccode: 99640a6c5d73e06651e41643ccce744c#83c55178da9779c48d86a73090a375a3#40244997#《渗透与融合：教育实践中的心理学》_12553683.zip
 - book_name: 融合教育实践指南--影子老师操作手册
   book_author: 上海游语教育科技有限公司
   book_press: 上海：上海交通大学出版社
@@ -3310,14 +3094,6 @@
   book_isbn: '9787566822239'
   book_sscode: '14525650'
   book_mccode: f601c5fcfeed86d994e435d46769e358#dcd6d9931655c2c6b1f3315731b48172#30468039#14525650.zip
-- book_name: 数学--第十七册
-  book_author: 全日制培智学校教材编委会编著
-  book_press: 北京：人民教育出版社
-  book_date: '1994'
-  book_pages: '102'
-  book_isbn: '9787107093166'
-  book_sscode: '12035544'
-  book_mccode: db965581948f324b6c4a7090c8a2e811#23b500962e3cea40fe699c123a3be8ae#5466954#12035544.zip
 - book_name: 培智学校支持性策略案例精选
   book_author: 张卫东，李银环主编；刘红云，赵红艳，曹娟等编委
   book_press: 北京：中国轻工业出版社
@@ -3326,14 +3102,6 @@
   book_isbn: '9787501998166'
   book_sscode: '13847759'
   book_mccode: 6df88945c4c06769fcda3db881da1e54#3ad09861e391691e21fb22182f5e56a0#49907420#培智学校支持性策略案例精选_13847759.zip
-- book_name: 语文--第十五册
-  book_author: 全日制培智学校教材编委会编著
-  book_press: 北京：人民教育出版社
-  book_date: '1994'
-  book_pages: '77'
-  book_isbn: '9787107093265'
-  book_sscode: '12035497'
-  book_mccode: dacb62d67485f61032fe52a318e3e497#62ae4f903fe9b9515892eaa7edce61de#5031830#12035497.zip
 - book_name: 新形势下培智学校经营手册--广州越秀区启智学校为例
   book_author: 陈凯鸣，谢立瑶等编著
   book_press: 上海：上海社会科学院出版社
@@ -3366,14 +3134,6 @@
   book_isbn: '9787030462541'
   book_sscode: '13922250'
   book_mccode: 61b7f37c3b9673b27e2fbe45a207e55d#b974f89a4d4a0eab96dfdd774a8dd153#34997580#培智学校  综合课程开发研究=INTEGRATED CURRICULUM  DEVELOPMENT IN SCHOOLS FOR CHILDREN WITH INTELLECTUAL DISABILITY_13922250.zip
-- book_name: 数学--第十三册
-  book_author: 全日制培智学校教材编委会编著
-  book_press: 北京：人民教育出版社
-  book_date: '1994'
-  book_pages: '109'
-  book_isbn: '9787107093142'
-  book_sscode: '12035546'
-  book_mccode: 50e1e7600591063c4f276343d78628cf#164ad3d355d560b881172adde81a58d0#4856956#12035546.zip
 - book_name: 在以人为本指导下的培智学校改革探索
   book_author: 陈凯鸣，张文京等编著
   book_press: 上海：上海社会科学院出版社
@@ -3406,22 +3166,6 @@
   book_isbn: 710711445X
   book_sscode: '11655476'
   book_mccode: 8f4eeecc9b24b1e12f626174d1891ef3#fa3345442389e9fbec0dca3c51a17326#563771#11655476.zip
-- book_name: 音乐--第15册
-  book_author: 全日制培智学校教材编委会编著
-  book_press: 北京：人民教育出版社
-  book_date: '1994'
-  book_pages: '25'
-  book_isbn: 710709341X
-  book_sscode: '11765214'
-  book_mccode: 9ac5b588dd960108afc9411ddf2fd812#d1b56a04d265a705579cff99e6766c50#3698625#11765214.zip
-- book_name: 语文--第十七册
-  book_author: 全日制培智学校教材编委会编著
-  book_press: 北京：人民教育出版社
-  book_date: '1994'
-  book_pages: '91'
-  book_isbn: '9787107093326'
-  book_sscode: '12035498'
-  book_mccode: 1f50d33c7d49c81a6da6b76510494f08#87a1f475b4dc3b3b20c702aeaad569b0#6919097#12035498.zip
 - book_name: 培智学生学拼音
   book_author: 张联弛主编
   book_press: 上海：华东师范大学出版社
@@ -4358,14 +4102,6 @@
   book_isbn: '9787564637255'
   book_sscode: '14425700'
   book_mccode: 37ebbe44f41e6577ed10951953a59a2d#c712bfa81cfef7eb91898da3af54cd87#87839228#14425700.zip
-- book_name: 独生子女错误行为矫正
-  book_author: 马哲编著
-  book_press: 长春：吉林科学技术出版社
-  book_date: '1991'
-  book_pages: '235'
-  book_isbn: '7538407782'
-  book_sscode: '10389171'
-  book_mccode: 087d105370d8dfa74785dc489e4bdc40#9b6ffcb4f284db9554133c46864382fa#19173885#10389171.zip
 - book_name: 行为矫正的原理与方法·第2卷
   book_author: 米尔滕贝格尔 Miltenberger
   book_press: 北京：中国轻工业出版社
@@ -4446,14 +4182,6 @@
   book_isbn: '9787508086330'
   book_sscode: '13943664'
   book_mccode: 1092d5d78d81bdbf545a9e125ee49ce4#34d7c9dc288874ca2a4629109e708498#27864339#13943664.zip
-- book_name: 顾诚著作系列--南明史--下
-  book_author: 顾诚著
-  book_press: 北京：光明日报出版社
-  book_date: '2011'
-  book_pages: '808'
-  book_isbn: '7511213278'
-  book_sscode: '12847045'
-  book_mccode: 7dd3adeba52b95c4cdb2e707f995c78d#8cc1ec7058a2a863972e3cf58eced18c#37141974#南明史  下册_12847045.zip
 - book_name: 你好，我是阿斯伯格员工--从阿斯伯格综合征视角解析职场奥秘
   book_author: （美）露迪·西蒙著；（美）天宝·格兰丁序；朱宏璐，杨辉，青于兰等译
   book_press: 北京：华夏出版社
@@ -4494,38 +4222,6 @@
   book_isbn: '9789861913476'
   book_sscode: '12792179'
   book_mccode: 7dab40222c493d3bb8f60558a0201486#2dfc82fb28b08b6ac8bd37a2569a5e92#22078747#12792179.pdf
-- book_name: 国际特种兵军事手语揭秘
-  book_author: 罗志华，樊帅，周旋等著
-  book_press: 北京：时事出版社
-  book_date: '2013'
-  book_pages: '307'
-  book_isbn: '9787802325876'
-  book_sscode: '13131323'
-  book_mccode: e53488a26db62e406cf4c43d841a907a#a76e193476253f1295b9e96b42905f3a#45767727#国际特种兵军事手语揭秘_13131323.zip
-- book_name: 卷手语
-  book_author: 马尚龙著
-  book_press: 上海：上海书店出版社
-  book_date: '2015'
-  book_pages: '512'
-  book_isbn: '9787545811025'
-  book_sscode: '13823917'
-  book_mccode: f34b69c82ba49689b82fe6e75c37e86f#8e7dc74ca47abe37fcf8b9d6cf564391#98046316#13823917.zip
-- book_name: 手语你我他
-  book_author: 邱丽君主编；辽宁省聋人协会编
-  book_press: 沈阳：辽宁人民出版社
-  book_date: '2006'
-  book_pages: '153'
-  book_isbn: '7205060583'
-  book_sscode: '11701609'
-  book_mccode: e7659b4c6dadf62adf8c9e70dba0fa5f#bcb4bcb1981b4bdfb284d7fac37a004d#28051308#11701609.pdf
-- book_name: 手语歌曲鉴赏与表达
-  book_author: 刘丽英主编；史玉凤，侯庆琦副主编
-  book_press: 南京：南京大学出版社
-  book_date: '2016'
-  book_pages: '236'
-  book_isbn: '9787305168956'
-  book_sscode: '14175749'
-  book_mccode: ed1d917669f59202c849dfbb989b9259#b6c272698b915ca6969060781d11991c#31316072#手语歌曲鉴赏与表达_14175749.zip
 - book_name: 体育和律动常用词通用手语
   book_author: 中国聋人协会著
   book_press: 北京：华夏出版社
@@ -4614,30 +4310,6 @@
   book_isbn: '7532826376'
   book_sscode: '11456311'
   book_mccode: 3f3179e2677c61364fdb4ee9aabb5677#fd14c98313d6fc31de0cc90200a663a6#6661896#11456311.pdf
-- book_name: 手语--散文集
-  book_author: 沙爽著
-  book_press: 北京：作家出版社
-  book_date: '2008'
-  book_pages: '262'
-  book_isbn: '9787506344715'
-  book_sscode: '12178946'
-  book_mccode: 9b3def75c31f18f94b23c98ded0c22a1#732c0c9c79a3214e06cc5f3fc199d61a#40653253#12178946.zip
-- book_name: 手语365
-  book_author: 本书编委会
-  book_press: 南京：译林出版社
-  book_date: '2018'
-  book_pages: '264'
-  book_isbn: '9787544772846'
-  book_sscode: '14643051'
-  book_mccode: d41cb493a10a24973bbf224c1e97f142#79048edb9f5a8473e5ddabbf3d77c549#47359433#14643051.zip
-- book_name: 手语会话
-  book_author: 潘一主编
-  book_press: 北京：高等教育出版社
-  book_date: '2005'
-  book_pages: '462'
-  book_isbn: 704018320X
-  book_sscode: '11669072'
-  book_mccode: cb464e3816841d771ea73ba7bc3f20f4#4d47ae46cf51488d5658ececd521c061#13954747#11669072.zip
 - book_name: 手语基础教程
   book_author: 郑璇主编
   book_press: 上海：华东师范大学出版社
@@ -4670,14 +4342,6 @@
   book_isbn: '9787563394029'
   book_sscode: '13227712'
   book_mccode: c88583750e70ade92f7844de1d1278b6#d44a3db8cbbf3066195c5df43817df3d#24596433#13227712.pdf
-- book_name: 设计手语--产品设计之手绘解析
-  book_author: 左铁峰，梁军，罗剑等著
-  book_press: 北京：海洋出版社
-  book_date: '2012'
-  book_pages: '149'
-  book_isbn: '9787502781910'
-  book_sscode: '13018589'
-  book_mccode: 7c2753ec87130a7c8986d84385721b1e#8ab61795df8b11701fdb5b03ceada678#36679772#设计手语产品设计之手绘解析_13018589.zip
 - book_name: 实用手语
   book_author: 刘本部主编
   book_press: 济南：山东教育出版社
@@ -4702,22 +4366,6 @@
   book_isbn: '9787567115743'
   book_sscode: '13810779'
   book_mccode: 8030471cc56a1c562b14d9aa3b786a52#8a3acd793ba56d6b0dc7f99ae2b30770#49439995#中国手语动词研究_13810779.zip
-- book_name: 电力优质服务用语速查手册--汉语、英语、手语对照
-  book_author: 郑州供电公司编著
-  book_press: 北京：中国电力出版社
-  book_date: '2010'
-  book_pages: '225'
-  book_isbn: '9787508397887'
-  book_sscode: '13396440'
-  book_mccode: 367fd3f61d0d638338e7083f457b0dba#a32fba949b2a65fd9afa437120919c72#32823378#13396440.pdf
-- book_name: 航空服务手语
-  book_author: 王晓莉主编
-  book_press: 西安：西北工业大学出版社
-  book_date: '2013'
-  book_pages: '165'
-  book_isbn: '9787561237540'
-  book_sscode: '13412315'
-  book_mccode: 39d8ebbc68014ec26013ac5d356cd960#d8fa4244e8bbba1acc7ead15188fac6c#29852817#航空服务手语_13412315.zip
 - book_name: 中英常用手语
   book_author: 王育林主编
   book_press: 济南：济南出版社
@@ -4734,14 +4382,6 @@
   book_isbn: '9787100110365'
   book_sscode: '13722752'
   book_mccode: 69ce227a04aa9fb2f48a032aa60e0e4c#a3fb479d3806c1acc362078338c4c02e#38484466#13722752.zip
-- book_name: 新校元刊杂剧三十种--上、下册
-  book_author: 徐沁君校点
-  book_press: ''
-  book_date: '1980'
-  book_pages: ''
-  book_isbn: ''
-  book_sscode: '10123278'
-  book_mccode: 6cca9a0d672e5fb2cf9a7a2ecd2a91d5#d54d8e09a5242352af17af8b78c271e0#44528801#10123278.zip
 - book_name: 计算机常用词通用手语
   book_author: 中国聋人协会，国家手语和盲文研究中心编
   book_press: 北京：华夏出版社
@@ -4782,14 +4422,6 @@
   book_isbn: '9787811065824'
   book_sscode: '12181765'
   book_mccode: 024efe222b123e72040240751874edb3#925d83fa302b168ec5b28c4d1143e88a#24456895#手语翻译概论_12181765.zip
-- book_name: 空乘手语100句
-  book_author: 杨菁主编
-  book_press: 武汉：武汉大学出版社
-  book_date: '2013'
-  book_pages: '255'
-  book_isbn: '9787307113305'
-  book_sscode: '13505881'
-  book_mccode: c3658ec22f41b3dc1821d310a74d0375#e8dffd2ce2b5e60472dfea212d40eedd#78948333#13505881.zip
 - book_name: 香港手语词典
   book_author: 邓慧兰编撰；Gladys Tang
   book_press: 中文大学出版社
@@ -4806,14 +4438,6 @@
   book_isbn: '9787121283185'
   book_sscode: '14106493'
   book_mccode: 7e811737bb1b6a5cca91492f579d7a9b#31cc85c1cc161eb58a05a05eb96ae624#155588922#14106493_《中国手语日常会话速成》.zip
-- book_name: 水墨手语--陆春涛绘画艺术评论文集
-  book_author: 谢海主编
-  book_press: 上海：上海文艺出版社
-  book_date: '2010'
-  book_pages: '382'
-  book_isbn: '9787532139613'
-  book_sscode: '12978212'
-  book_mccode: 224e5b61f000c8e82eed00e170902c86#dbe7202a9e3708f93e284f1a99a7e2fd#64438540#《水墨手语--陆春涛绘画艺术评论文集》_12978212.zip
 - book_name: 《中国手语》教学辅导
   book_author: 朴永馨主编；于媛媛等编
   book_press: 北京：华夏出版社
@@ -4838,14 +4462,6 @@
   book_isbn: '7508005473'
   book_sscode: '10980688'
   book_mccode: 7dd8fb944e1ef59065f19daa5ba276a1#a1b1c41505901036cc64858ed10ff187#25436818#中国手语续集_10980688.zip
-- book_name: 计算机专业手语
-  book_author: 中国残疾人联合会教育就业部，中国聋人协会编
-  book_press: 北京：华夏出版社
-  book_date: '2005'
-  book_pages: '248'
-  book_isbn: '7508036875'
-  book_sscode: '11342764'
-  book_mccode: 51cdf0f806a7abc932836ed612aa7231#393542a8331d4044829da83aace15fd5#11325894#11342764.zip
 - book_name: 交往礼仪手语
   book_author: 上海市经济委员会编
   book_press: 上海：上海百家出版社
@@ -4910,14 +4526,6 @@
   book_isbn: '9787564561178'
   book_sscode: '14622847'
   book_mccode: 4c6842f45b769a494ef230135f8e0686#30bbe588fbf3ff98f772de1be377ffed#36163066#14622847.zip
-- book_name: 现代技术的谱系
-  book_author: 王志伟著
-  book_press: 上海：复旦大学出版社
-  book_date: '2011'
-  book_pages: '229'
-  book_isbn: '9787309084252'
-  book_sscode: '12968750'
-  book_mccode: 5a3f86e173660172b2c48d2d84d50e47#43a081b9c34d65d0f24eec107b4b2ed4#17687777#12968750.zip
 - book_name: 手语翻译人员
   book_author: 人力资源和社会保障部教材办公室，中国就业培训技术指导中心上海分中心，上海市职业培训研究发展中心组织编写；王瑞兴，郭奕敏主编；孙雪枫，华海燕，林岗等编；顾爱玉主审
   book_press: 北京：中国劳动社会保障出版社
@@ -4942,14 +4550,6 @@
   book_isbn: '7508019059'
   book_sscode: '14121836'
   book_mccode: 0257e61be5a078ebfce9e71d614f5980#37c8754f5cbba818951e491327f89024#48682997#中国手语研究_14121836.zip
-- book_name: 民航服务手语训练
-  book_author: 黄敏，王玉娟，廖颖，郭雅萌
-  book_press: 北京：清华大学出版社
-  book_date: '2018'
-  book_pages: '181'
-  book_isbn: '9787302502364'
-  book_sscode: '14681178'
-  book_mccode: 0d2041c9154d821580a57213430178a6#e0d24e75627e4101bec241c894ff321a#18918231#14681178.zip
 - book_name: 基础手语
   book_author: 史玉凤，韩梅编著
   book_press: 南京：南京师范大学出版社
@@ -4958,14 +4558,6 @@
   book_isbn: '9787565127694'
   book_sscode: '14308280'
   book_mccode: 7fcce60db229f956ff68eff89dc18186#0ab201e6f558c431de4b2736e05a811f#28301555#基础手语_14308280.zip
-- book_name: 理科专业手语
-  book_author: 中国残疾人联合会教育就业部，中国聋人协会主编
-  book_press: 北京：华夏出版社
-  book_date: '2011'
-  book_pages: '309'
-  book_isbn: '9787508060606'
-  book_sscode: '13544879'
-  book_mccode: aa0d13b0215a6454b2705165b07499bc#0247b271823d841ac0c6a7ea48982f1b#37353564#理科专业手语_13544879.zip
 - book_name: 聋校手语词汇手册--七、八、九年级
   book_author: 赵锡安主编
   book_press: 北京：华夏出版社
@@ -4974,14 +4566,6 @@
   book_isbn: '7508042972'
   book_sscode: '13227649'
   book_mccode: 9331dd49e117865d121284157df2a12c#4de249bec8d35ffce76e8444f84412e6#43901193#13227649.pdf
-- book_name: 美术常用词通用手语
-  book_author: 中国聋人协会，国家手语和盲文研究中心编
-  book_press: 北京：华夏出版社
-  book_date: '2018'
-  book_pages: '239'
-  book_isbn: '9787508092515'
-  book_sscode: '14653604'
-  book_mccode: 80d69108dc2a1deeef67ba52b8100292#d8652da5336ed7b7cf4da248aeaa16cf#36578471#14653604.zip
 - book_name: 少儿英语手语跟我学
   book_author: 北京其欣然传播机构编著
   book_press: 北京：东方出版社
@@ -5006,22 +4590,6 @@
   book_isbn: '9787802415867'
   book_sscode: '13370743'
   book_mccode: 264a7d26f953850829ad234663594154#26c67c2aedc04e652d0fa3c0812b6d78#62047819#手势创造与语言起源  离群聋人自创手语调查研究_13370743.zip
-- book_name: 水墨手语--2
-  book_author: 谢海主编
-  book_press: 上海：上海文艺出版社
-  book_date: '2015'
-  book_pages: '415'
-  book_isbn: '9787532155071'
-  book_sscode: '14057911'
-  book_mccode: 8d6b367b05cd6e41a4d093bd2408d0d5#a6c7749ed49d8af15fedd57c9fad8135#36427414#14057911.zip
-- book_name: 体育手语会话
-  book_author: 金梅主编（天津体育学院）
-  book_press: 郑州：郑州大学出版社
-  book_date: '2008'
-  book_pages: '293'
-  book_isbn: '9787811067712'
-  book_sscode: '12155157'
-  book_mccode: 82484ab48d8337c5bb138380478bbd04#a0dad50d5da9386cb86f1e2c7c7cf4e9#11664382#体育手语会话_12155157.zip
 - book_name: 中国手语培训教材--试用
   book_author: 中残联教育就业部，中国聋人协会编
   book_press: 北京：华夏出版社
@@ -5030,14 +4598,6 @@
   book_isbn: '7508039688'
   book_sscode: '11682207'
   book_mccode: 7d4d0f88e06f0ed44d23dc610b7dc71e#8c8b44a3846df3738eb201703d7fac67#7004118#11682207.pdf
-- book_name: 手语泥容--七月流火陶艺社2012作品
-  book_author: 白明编著
-  book_press: 南昌：江西美术出版社
-  book_date: '2012'
-  book_pages: '145'
-  book_isbn: '9787548016250'
-  book_sscode: '13501420'
-  book_mccode: aa422a9e3f7d3d6d5d6ff62d8d6c0e99#b2623f77ccebecb28cd28a01693db42b#17552714#13501420.zip
 - book_name: 手语翻译人员--初级
   book_author: 上海市职业培训研究发展中心组织编写
   book_press: 北京：中国劳动社会保障出版社
@@ -5054,14 +4614,6 @@
   book_isbn: '9787508056470'
   book_sscode: '12612192'
   book_mccode: aa0e8a9cc39933abe34272e991b08cd5#5d7b802ae8fde5f0676ca01513e8703a#13290221#12612192.zip
-- book_name: 打手语的撒旦--新版课外侦探组系列校园探案小说第2季
-  book_author: 谢鑫
-  book_press: 石家庄：河北少年儿童出版社
-  book_date: '2012'
-  book_pages: '156'
-  book_isbn: '9787537641043'
-  book_sscode: '13525498'
-  book_mccode: b0883de8bb3f293a41b7d1e95bc9f9e0#495bf77738f05264790e1d23640b8d79#29183897#打手语的撒旦_13525498.zip
 - book_name: 中国手语
   book_author: 上海东方国际手语教育学校编
   book_press: 武汉：湖北科学技术出版社
@@ -5070,14 +4622,6 @@
   book_isbn: '7535234232'
   book_sscode: '11576180'
   book_mccode: aab4e0562af4a191e8d95d4b06a71a02#aa95000b4feb2072232a689b97bee984#15987089#11576180.pdf
-- book_name: 国际特种兵军事手语揭秘--全新修订珍藏版
-  book_author: 罗志华，樊帅，周旋等著
-  book_press: 北京：时事出版社
-  book_date: '2015'
-  book_pages: '307'
-  book_isbn: '9787802328372'
-  book_sscode: '13753598'
-  book_mccode: 2f9bde6d849dc015022e1815c1494b53#3c8ab756c7591688c8deef5816f972c5#19072526#国际特种兵军事手语揭秘  全新修订珍藏版_13753598.zip
 - book_name: 中国手语日常会话
   book_author: 唐淑芬，杨洋主编；中国残疾人联合会教育就业部，中国聋人协会主编
   book_press: 北京：华夏出版社
@@ -5134,14 +4678,6 @@
   book_isbn: '9787305066207'
   book_sscode: '13233136'
   book_mccode: da7cf9b0a83f311b125ad97224597653#1ae832d7a52c4732c6546da35de0f06f#76241728#聋校数学课程与教学_13233136.zip
-- book_name: 物流工程--修订版
-  book_author: 齐二石主编
-  book_press: 北京：中国科学技术出版社
-  book_date: '2005'
-  book_pages: '319'
-  book_isbn: '7504637963'
-  book_sscode: '11471759'
-  book_mccode: 398e78fb719ec57e3fca24a2cb2bd0c0#1dff8d22c29b0d559b164019289c7186#89935226#11471759.zip
 - book_name: 聋校语文阅读与写作教学指导
   book_author: 于勤著
   book_press: 北京：中国轻工业出版社
@@ -5166,14 +4702,6 @@
   book_isbn: '9787548234401'
   book_sscode: '96201584'
   book_mccode: 4b62bbe84a8ef534de358a5586a18871#30faf6c3eea0fc795b04e467eacee512#50816547#多媒体环境下聋校五、六年级听觉障碍学生阅读能力研究_96201584.uvz
-- book_name: 对我而言，可爱的她--1
-  book_author: （韩）卢智雪，（韩）黄霞咏著
-  book_press: 武汉：华中科技大学出版社
-  book_date: '2015'
-  book_pages: '295'
-  book_isbn: '9787568009263'
-  book_sscode: '13803723'
-  book_mccode: 0bf993bd1e73033eaad01ce20d74e836#02d0a2fc20c2545b08d141c4f36fadfa#32401996#13803723.zip
 - book_name: 聋校数学课程与教学--第2版
   book_author: 朱友涵，李拉著
   book_press: 南京：南京大学出版社
@@ -5238,30 +4766,6 @@
   book_isbn: '9787544429368'
   book_sscode: '13741711'
   book_mccode: b684227062783068c2fe4ed61ce2812b#d598910e1399f9f171971c912b28c0d3#54042071#视障教育  上海盲校百年印证_13741711.zip
-- book_name: 连接艺术与社会的“盲文”--李秀勤雕塑二十年
-  book_author: 王南溟，赵剑瑾主编
-  book_press: 上海：上海大学出版社
-  book_date: '2015'
-  book_pages: '138'
-  book_isbn: '9787567114784'
-  book_sscode: '13848614'
-  book_mccode: 4d7869b7da4289683cb6ca8c7b569076#ca83caa15401d69146e0272bd651a77e#17591446#13848614.zip
-- book_name: 扫除文盲文献汇编--1949-1996
-  book_author: 国家教育委员会成人教育司编
-  book_press: 重庆：西南师范大学出版社
-  book_date: '1997.12'
-  book_pages: '613'
-  book_isbn: ''
-  book_sscode: '14022272'
-  book_mccode: 79e5aa158046d513f226704b920dd885#63eebadb1c8741dfa020b3fbf37b01f7#78790564#14022272.pdf
-- book_name: 彩色图像数字盲文水印技术
-  book_author: 苏庆堂著
-  book_press: ''
-  book_date: '2015'
-  book_pages: ''
-  book_isbn: ''
-  book_sscode: '14097806'
-  book_mccode: 712fc72cf4879e158653c04e7c3a23e7#0c2868c0d2e5da7a44db7083a916aad1#124286660#14097806.zip
 - book_name: 盲文阅读效率研究
   book_author: 孙宇，李纯莲著
   book_press: 北京：中国社会科学出版社
@@ -5374,14 +4878,6 @@
   book_isbn: '9787500473916'
   book_sscode: '12142837'
   book_mccode: 2eb6f4137d856f53fc574b705fdf0bfd#e654e40344d1f49b7cba3b247488fe09#46818534#12142837.zip
-- book_name: 传统美术与现代派
-  book_author: 邵大箴著
-  book_press: 北京：人民美术出版社
-  book_date: '2016'
-  book_pages: '353'
-  book_isbn: '9787102066462'
-  book_sscode: '14174261'
-  book_mccode: 515f15a08d678440f32c80d32317e14e#1d325f2286ce409bc6266abb0ed628f1#34241583#邵大箴作品系列  传统美术与现代派_14174261.zip
 - book_name: 听觉障碍儿童的发展与教育--第2版
   book_author: 贺荟中编著
   book_press: ''
@@ -5406,14 +4902,6 @@
   book_isbn: ''
   book_sscode: '12975918'
   book_mccode: 3118da28b1991104ecabbd49114a6b3c#4d644198003bba3eea5c90856c1e8da3#37194587#《听觉障碍儿童的发展与教育》_12975918.zip
-- book_name: 让孩子远离智力障碍
-  book_author: 曹丽敏，胡民，汪贺媛主编
-  book_press: 北京：华夏出版社
-  book_date: '2009'
-  book_pages: '231'
-  book_isbn: '9787508054247'
-  book_sscode: '12424056'
-  book_mccode: bc222fdd2a3b8b0e7219d84784dbddd5#0fb7db26864f9099914bebc2320719b0#81422417#《让孩子远离智力障碍：儿童智力障碍早期发现及干预》_12424056.zip
 - book_name: 智力障碍儿童沟通能力康复训练手册
   book_author: 世界卫生组织（WHO）康复协作中心著；香港复康会，中山大学出版社本丛书项目组编译
   book_press: 广州：中山大学出版社
@@ -5462,22 +4950,6 @@
   book_isbn: '7508035038'
   book_sscode: '11646457'
   book_mccode: 15f18d9ae97022ec197056b0615ca6b4#b71644740861006f7f087470fd37db89#13791819#儿童智力障碍的音乐治疗_11646457.zip
-- book_name: 苍天在上
-  book_author: 陆天明著
-  book_press: 北京：新星出版社
-  book_date: '2018'
-  book_pages: '368'
-  book_isbn: '9787513330886'
-  book_sscode: '14515263'
-  book_mccode: 1319e7342ee19d8983dca4e4bd5ba362#1a80d6bc4b61bc7873b8c988654f7599#51809310#14515263.pdf
-- book_name: 智力障碍成年人身体活动指南
-  book_author: 吴雪萍主编；马海峰，王丹丹副主编
-  book_press: 北京：科学出版社
-  book_date: '2016'
-  book_pages: '155'
-  book_isbn: '7030488210'
-  book_sscode: '14034041'
-  book_mccode: b79ee62fc51115f358648b686991d06f#9a974d76445a8e327c0109174e7c3c79#21423428#14034041.zip
 - book_name: 智力障碍儿童社会技能训练
   book_author: 王雁，朱楠，王姣艳主编
   book_press: 北京：北京师范大学出版社
@@ -5502,14 +4974,6 @@
   book_isbn: '9787518415359'
   book_sscode: '14644089'
   book_mccode: 1dbb802293ba4b0ec785a4415fc48273#a8d86ca914197b20ae9f8a026c9e29d1#60056737#14644089.zip
-- book_name: 颈性视力障碍与推拿
-  book_author: 张长江编著
-  book_press: 北京：人民卫生出版社
-  book_date: '1987'
-  book_pages: '96'
-  book_isbn: '7117002697'
-  book_sscode: '10313020'
-  book_mccode: 8190ebe2457746ce41407121e97842dc#8190ebe2457746ce41407121e97842dc#174#10313020.zip
 - book_name: 让孩子远离视力障碍--儿童视力障碍早期发现及干预
   book_author: 周亚莉，汪贺媛，银芳主编
   book_press: 北京：华夏出版社
@@ -5534,14 +4998,6 @@
   book_isbn: '9787122187659'
   book_sscode: '13558836'
   book_mccode: 779207497973e3ff9724b7db913a7c76#d7229d66f31b515d4f5666f4f9ef1abf#7259561#我可以克服听力障碍_13558836.zip
-- book_name: 800词扫除六级听力障碍
-  book_author: 新东方四六级研究中心编著
-  book_press: 西安：西安交通大学出版社
-  book_date: '2008'
-  book_pages: '235'
-  book_isbn: '9787560529943'
-  book_sscode: '12124797'
-  book_mccode: 64043a4b803926537efb3229e98312e3#50497e9ddcbca245d1ec3b2adfc60c54#69618276#12124797.zip
 - book_name: 听力障碍儿童的心理与教育
   book_author: 王志毅主编
   book_press: 天津：天津教育出版社
@@ -5566,14 +5022,6 @@
   book_isbn: '7508003659'
   book_sscode: '13299408'
   book_mccode: 02c16d037cbe31c48a4bb915def57c2e#7ddae8e47ef37f39e1e783d6ec8a1a7a#59146913#13299408.zip
-- book_name: 700词扫除四级听力障碍
-  book_author: 新东方四六级研究中心编
-  book_press: 西安：西安交通大学出版社
-  book_date: '2008'
-  book_pages: '178'
-  book_isbn: '9787560529936'
-  book_sscode: '12128470'
-  book_mccode: 4f03a64e5d437b15e663615b5317f02b#13a77702322afed6a90cda98537e880b#46574323#700词扫除四级听力障碍_12128470.zip
 - book_name: 听力障碍儿童康复教学记录
   book_author: 孙喜斌，梁巍主编
   book_press: 北京：华夏出版社
@@ -5590,22 +5038,6 @@
   book_isbn: '7508038258'
   book_sscode: '13001101'
   book_mccode: 2a03fb2c8636c34bae4fb95684540211#73586853c3c49f81ebb36c2f7f0d9175#11541175#13001101.zip
-- book_name: 让孩子远离听力障碍
-  book_author: 汪贺媛，曹丽敏，李健鹰主编
-  book_press: 北京：华夏出版社
-  book_date: '2009'
-  book_pages: '267'
-  book_isbn: '9787508054230'
-  book_sscode: '12427111'
-  book_mccode: a0bb5b4a37887f876d4e26dd3363ba04#e9b64e8f036b145968b5c9ca4de1e102#109851191#12427111_《让孩子远离听力障碍：儿童听力障碍早期发现及干预》.pdf
-- book_name: 初中生数学学习障碍研究
-  book_author: 梁威编著
-  book_press: 北京：北京教育出版社
-  book_date: '1997'
-  book_pages: '234'
-  book_isbn: '7530312936'
-  book_sscode: '13735213'
-  book_mccode: e65fee48b61f2b2ab0f47433729dd41e#3acf630b85f30a7c04f571e62d21769e#38071377#初中生数学学习障碍研究_13735213.zip
 - book_name: 发展性学习障碍的神经机制研究
   book_author: 王恩国著
   book_press: 北京：科学出版社
@@ -5678,30 +5110,6 @@
   book_isbn: '9787111352730'
   book_sscode: '12828492'
   book_mccode: c810381c8bedfd58091601567b387ffa#30031281af1ea847cd33e16a1c0cdbfb#22184079#12828492.zip
-- book_name: 数学学习障碍儿童之补救教育
-  book_author: 张平东著；国立教育资料馆主编
-  book_press: 幼狮文化事业公司
-  book_date: '1985'
-  book_pages: '121'
-  book_isbn: ''
-  book_sscode: '11007654'
-  book_mccode: b6685877e8f0d8298ebd83f12451d35a#30d5a886022ff70f70462997fec029ba#7821173#11007654.zip
-- book_name: 学习障碍与补救教学：教师及家长实用手册
-  book_author: 孟瑛如著
-  book_press: 五南图书出版股份有限公司
-  book_date: '2002'
-  book_pages: '280'
-  book_isbn: '9571127779'
-  book_sscode: '12766967'
-  book_mccode: ced8cc5aadcb212c67d5bb0b245ea72f#d7a2d8c5e713688e9c55e24f67f45837#18838954#12766967.zip
-- book_name: 学习障碍者之教育--大学用书
-  book_author: 许天威著；国立编译馆主编
-  book_press: 五南图书出版公司
-  book_date: '1986'
-  book_pages: '540'
-  book_isbn: ''
-  book_sscode: '12891942'
-  book_mccode: da6314a45be160636cda2f42d77e3803#fa23bb3f239e44822b4b4d7923cefb88#123995463#学习障碍者之教育_12891942.pdf
 - book_name: 学习障碍与注意欠缺多动性障碍
   book_author: （日）上野一彦著；达庆红译
   book_press: 南京：南京大学出版社
@@ -5726,14 +5134,6 @@
   book_isbn: '9571171492'
   book_sscode: '13754813'
   book_mccode: 47e680cb16e50b4c086b8cdac8f14365#fa02f3ee29d58f73cde4e4ffbe8fcd51#101179711#13754813.pdf
-- book_name: 治学严谨
-  book_author: 萧枫，于永玉主编
-  book_press: 沈阳：辽海出版社
-  book_date: '2008'
-  book_pages: '98'
-  book_isbn: '7545101904'
-  book_sscode: '13613534'
-  book_mccode: 6f93aa0d89b3e400de163d7c6fa7663e#1ef14de4864bac82441b19454c9f6043#6701046#13613534.zip
 - book_name: 克服学习障碍--学习指南
   book_author: （美）大卫·E.霍尔（David E.Hall M.D）著；刘名卓译
   book_press: 北京：中国人民大学出版社
@@ -5766,14 +5166,6 @@
   book_isbn: 780195064X
   book_sscode: '11238540'
   book_mccode: 16a008e266e49293c2592fba564def84#2638dda3983ce5ed92c8356206bc65a0#23997638#11238540.rar
-- book_name: 高等专科学校教材--传热学
-  book_author: 苏祖恩
-  book_press: 大连：大连海运学院出版社
-  book_date: '1989'
-  book_pages: '293'
-  book_isbn: ''
-  book_sscode: '10696095'
-  book_mccode: 587908c762d674fc4bb879c5b15597ec#323c5025bd68e55821e54c1aeefb0b44#3092966#10696095.zip
 - book_name: 激发特殊生的潜能--学习障碍儿童辅导手册
   book_author: 孟瑛如著
   book_press: 北京：首都师范大学出版社
@@ -5814,30 +5206,6 @@
   book_isbn: '9787538178258'
   book_sscode: '96092278'
   book_mccode: 5f7c8858cddcdd770a979679b32404fb#2b8c44a2ab91edc51ea596c278e2d8fa#291564675#96092278.pdf
-- book_name: 法语学习的障碍与对策
-  book_author: 张森宽著
-  book_press: 合肥：安徽文艺出版社
-  book_date: '2003'
-  book_pages: '276'
-  book_isbn: '7539625023'
-  book_sscode: '12157107'
-  book_mccode: a4ad6713e07254ada276da1764149328#5da8f92b7d0e021c7b0c11788e089b07#57028885#12157107.pdf
-- book_name: 同学，咱们聊一聊学习障碍
-  book_author: （美）凯·玛丽·波特菲尔德（Kay Marie Porterfield）著；洪梅译
-  book_press: 北京：商务印书馆
-  book_date: '2004'
-  book_pages: '175'
-  book_isbn: 710004233X
-  book_sscode: '11433208'
-  book_mccode: 90757513533b4df17e84a1e33963c9bd#be08324733377ab89041ab1ab78a4a99#10315602#11433208.zip
-- book_name: 突破孩童学习障碍
-  book_author: 郑信雄著；大众心理学全集编辑室主编
-  book_press: 远流出版事业股份有限公司
-  book_date: '1990'
-  book_pages: '290'
-  book_isbn: '9573202743'
-  book_sscode: '14022601'
-  book_mccode: 8fafb190ee5486258cfa1f4a5d430b2a#69a7d36763605de0574232c979249c6e#34308576#14022601.zip
 - book_name: 让学习障碍儿童突破学习困难
   book_author: 刘翔平主编
   book_press: 北京：中国妇女出版社
@@ -5862,22 +5230,6 @@
   book_isbn: '9787807681892'
   book_sscode: '14383556'
   book_mccode: aa049a6680f06f5f9d75edccaf1bf3dc#2a708bc93b6215b1afeed360f51ff257#26618638#如何养育有学习障碍的孩子_14383556.zip
-- book_name: 孩子的20个学习障碍解决方案
-  book_author: 张易主编
-  book_press: 北京：科学技术文献出版社
-  book_date: '2011'
-  book_pages: '165'
-  book_isbn: '9787502368821'
-  book_sscode: '12768842'
-  book_mccode: b6693cc07b51ae1a81ba3f2ed5a89522#c5855fab7478cd162b4f99507d326ca5#49081532#《孩子的20个学习障碍解决方案》_12768842.zip
-- book_name: 帮助孩子考第一--培养孩子学习能力、克服学习障碍的九种方法
-  book_author: 刘艳虹主编
-  book_press: 北京：中国档案出版社
-  book_date: '2004'
-  book_pages: '337'
-  book_isbn: '7801664671'
-  book_sscode: '11437147'
-  book_mccode: 250e6acc64dd21c86a8916e635ce6c8a#c0fd5b86562d5660bd2a854de3c82384#18558871#11437147.zip
 - book_name: 紧急援助学习障碍儿童
   book_author: 刘翔平主编
   book_press: 沈阳：辽宁少年儿童出版社
@@ -5886,22 +5238,6 @@
   book_isbn: '7531528924'
   book_sscode: '11300932'
   book_mccode: bbbbd1e4c1104f7f705f8363f5a04a0d#a1ab7a3990a576bfab12e1c8ad2c07f5#12021197#11300932.pdf
-- book_name: 青少年学习障碍及其调整
-  book_author: 沈德立，傅安球丛书主编；马桂佳本书编著
-  book_press: 北京：教育科学出版社
-  book_date: '1997'
-  book_pages: '111'
-  book_isbn: 750411734X
-  book_sscode: '11435397'
-  book_mccode: 3092ba8a098dc5a6ee72bf040ee1b7e2#5578e69b2f291753c6f75bd645b222c6#6914632#11435397.zip
-- book_name: 我的孩子并不笨--帮助孩子克服学习障碍
-  book_author: 王慧玲编译
-  book_press: 书泉出版社
-  book_date: '1988'
-  book_pages: '271'
-  book_isbn: ''
-  book_sscode: '12502560'
-  book_mccode: 24dde297953bae54596e4a0c2360126a#9de356d54aca638b7050110e48fa6e02#15994009#12502560.zip
 - book_name: 学习障碍教材教法
   book_author: 杨坤堂著
   book_press: 五南图书出版股份有限公司
@@ -5950,14 +5286,6 @@
   book_isbn: '9787100154017'
   book_sscode: '14359281'
   book_mccode: f8355c8f9fceff0fc13a020b6d3aee5d#f7fa7e092306d22ccd64eaa17d23279e#65688753#14359281.zip
-- book_name: 大学英语测试中的心理障碍和语言障碍
-  book_author: 杨国楹，张庭季编著
-  book_press: 西安：西北工业大学出版社
-  book_date: '1993'
-  book_pages: '260'
-  book_isbn: '7561203772'
-  book_sscode: '10191923'
-  book_mccode: b14291fadef03db3ade9a79af9e502e6#922045447466cfbe0d7a20922cecb3ce#9760407#大学英语测试中的心理障碍和语言障碍_10191923.zip
 - book_name: 听觉语言障碍康复百问
   book_author: 黄文新，李双霞编著
   book_press: 南昌：江西科学技术出版社
@@ -5982,14 +5310,6 @@
   book_isbn: '9787565136535'
   book_sscode: '14537507'
   book_mccode: 47c544404e1984c862bb1c9e9c2b02b1#2c92644ff674947099c504cccf633ab4#29381121#儿童语言障碍与习得研究_14537507.uvz
-- book_name: 语言障碍面面观--语言是啥米碗糕
-  book_author: 郑育霖，罗瑞宽编著
-  book_press: 合记图书出版社
-  book_date: '2000'
-  book_pages: '88'
-  book_isbn: '9576666716'
-  book_sscode: '14192816'
-  book_mccode: 4f3e0f0cb5f0ff9278baaf3477cc20ba#c15067d84d72df3adbaf3305b041ca45#22172332#14192816.zip
 - book_name: 儿童语言障碍
   book_author: 锜宝香著
   book_press: 北京：首都师范大学出版社
@@ -6006,14 +5326,6 @@
   book_isbn: '9577028535'
   book_sscode: '12841058'
   book_mccode: a934301e6e4cd5275f9f13ba8e3b04be#a6752e081dcf267bbbd0ce20bd908775#16369810#12841058.pdf
-- book_name: 我是一个有语言障碍的人
-  book_author: 黄淑玲文，曹国轩绘
-  book_press: 桂林：广西师范大学出版社
-  book_date: '2002'
-  book_pages: '87'
-  book_isbn: '7563336869'
-  book_sscode: '10871308'
-  book_mccode: 828dad77e6ae49e50592186c76d8ae5a#004e4a0ab1359e7e202790b64754bb9e#13761962#10871308.zip
 - book_name: 语言理论与语言障碍研究
   book_author: 周统权著
   book_press: 北京：中国社会科学出版社
@@ -6022,22 +5334,6 @@
   book_isbn: '9787500488187'
   book_sscode: '12674042'
   book_mccode: 904871f3bd97379c97f9eace87491051#f845a51d232260b0bfa2e1cd667f9a10#57813099#12674042_语言理论与语言障碍研究.zip
-- book_name: 儿童寓言故事
-  book_author: 陈模
-  book_press: 北京：中国少年儿童出版社
-  book_date: ''
-  book_pages: '178'
-  book_isbn: ''
-  book_sscode: '10024823'
-  book_mccode: 19e58b7240f88708f238eb4e5dd0e32a#a944d1b166d83456e541c8ac5da46ae4#5365154#10024823.pdf
-- book_name: 秀口生辉--克服语言障碍的心理与诊断
-  book_author: 常桦编著
-  book_press: 北京：华文出版社
-  book_date: '2004'
-  book_pages: '265'
-  book_isbn: '7507516954'
-  book_sscode: '11343533'
-  book_mccode: 279c9e2fe8cbab2f2016d0c4ff1db47c#7b9a0fbb6c215ebab3e53fa072ebdff8#18186911#11343533.zip
 - book_name: 肢体障碍儿童家长手册
   book_author: 廖华芳，刘振寰主编
   book_press: 北京：中国医药科技出版社
@@ -6062,38 +5358,6 @@
   book_isbn: '9787521411195'
   book_sscode: '14655256'
   book_mccode: f7566a8f314d74a88ffe3f9922d43c34#49c2c389a3b93d0bc0dafac955335e58#75718932#14655256.zip
-- book_name: 理智胜过情感--改变思维模式，排除情绪障碍
-  book_author: （美）格林伯格（Dennis Greenberger），（美）帕蒂斯基（Christine A.Padesky）著；张忆家译
-  book_press: 北京：中国轻工业出版社
-  book_date: '2000'
-  book_pages: '232'
-  book_isbn: '7501927162'
-  book_sscode: '10405039'
-  book_mccode: 5fa2945fa76f822ff2c922988753cd6f#14583ab7dc0145e786dad79fa9b1d385#11952003#10405039_心理咨询与治疗系列理智胜过情感.zip
-- book_name: 陪孩子走出情绪障碍
-  book_author: 臧汝芬著
-  book_press: 三民书局股份有限公司
-  book_date: '2009'
-  book_pages: '254'
-  book_isbn: '9789571452098'
-  book_sscode: '12760743'
-  book_mccode: 6df944262b3b73847d75449f34fe44bd#792b2a502dc340262cee954e86a57fe2#24060419#12760743.zip
-- book_name: 走入孩子的心灵·消除情绪障碍
-  book_author: （日）原田正文，（日）藤沼胜海著；李讴琳，张蕙译
-  book_press: 北京：中国纺织出版社
-  book_date: '2003'
-  book_pages: '377'
-  book_isbn: '7506425114'
-  book_sscode: '11026672'
-  book_mccode: e1056e58a79626489844d6f5729da840#45bbbc12343a58979446724d28f8c9ba#26743993#《走入孩子的心灵--消除情绪障碍》_11026672.zip
-- book_name: 阻力与潜能--创作情绪障碍研究
-  book_author: 胡炳章著
-  book_press: 长沙：湖南人民出版社
-  book_date: '2001'
-  book_pages: '300'
-  book_isbn: '7543828189'
-  book_sscode: '11230224'
-  book_mccode: 8b16f516f5be76c069b802f7dc52db25#f99ce3b9616eed239bf38ef3f00fea3c#27095035#11230224.zip
 - book_name: 儿童青少年情绪障碍
   book_author: 杜亚松主编
   book_press: 北京：人民卫生出版社
@@ -6174,14 +5438,6 @@
   book_isbn: '7533134850'
   book_sscode: '11563188'
   book_mccode: 73d90e2cd687c0c6b5cf8dffb5833e6a#47d5cbd183a6e5d6c78a12462ac7493e#30358911#11563188--儿童心理行为障碍的诊断与治疗.zip
-- book_name: 心灵氧吧--高职学生心理行为障碍及解析
-  book_author: 顾承麟，毛建勇主编
-  book_press: 北京：中国铁道出版社
-  book_date: '2010'
-  book_pages: '230'
-  book_isbn: '9787113115517'
-  book_sscode: '13746462'
-  book_mccode: 10a25d125849a53a531da9e0fd5539ed#9bf48eaa6d18377a5097eb6f705849b8#35155661#13746462.zip
 - book_name: 儿童行为障碍与矫正
   book_author: 郑晓边编译
   book_press: 南宁：广西科学技术出版社
@@ -6206,14 +5462,6 @@
   book_isbn: '9577023096'
   book_sscode: '11424998'
   book_mccode: 5de9b34f735deeef031dce1dc64e8342#7491c17ff3b8595d5e5837e17cac609b#12541592#11424998.pdf
-- book_name: 企业会计准则通用分类标准--2015
-  book_author: 中华人民共和国财政部制定
-  book_press: 上海：立信会计出版社
-  book_date: '2016'
-  book_pages: '506'
-  book_isbn: '9787542949264'
-  book_sscode: '14137436'
-  book_mccode: 5e5da4caac617c770df99b1f4fde64b2#ca5f88d3bea8b5d9e52e45cb1af13df3#68986937#企业会计准则通用分类标准  2015_14137436.zip
 - book_name: 情绪与行为障碍儿童的发展与教育
   book_author: 李闻戈编著；方俊明总主编；杜晓新，雷江华，周念力副主编
   book_press: 北京大学出版社
@@ -6334,14 +5582,6 @@
   book_isbn: 781071922X
   book_sscode: '12056251'
   book_mccode: 8f36486798082ac26b80cb86c9d7c9d2#e0620c9d1f5c1c67d9950f0f4d72eb17#24937915#《注意缺陷障碍：儿童和成人注意力涣散》_12056251.zip
-- book_name: 中国注册会计师职业道德守则讲解--2011
-  book_author: 中国注册会计师协会制定
-  book_press: 北京：中国财政经济出版社
-  book_date: '2011'
-  book_pages: '194'
-  book_isbn: '9787509532065'
-  book_sscode: '12934814'
-  book_mccode: 5ab66dca7b347ab1c9bbb8ff18cc7bd7#e9b9bb12d69c76cfc831f34dc23eed79#22382821#《中国注册会计师职业道德守则讲解--2011》_12934814.zip
 - book_name: 注意缺陷多动障碍儿童心理治疗--系统式执行技能多家庭团体训练
   book_author: 钱英主编
   book_press: 北京：北京大学医学出版社
@@ -6638,14 +5878,6 @@
   book_isbn: '9787117279239'
   book_sscode: '14606618'
   book_mccode: b88fec47d35273a73d62bce60a40faef#6eda7c4ce81fbdcde5dc51a638efc8bf#39907712#14606618_yz.pdf
-- book_name: 中国大百科全书--经济学--1
-  book_author: 中国大百科全书总编辑委员会编
-  book_press: 北京：中国大百科全书出版社
-  book_date: '2002'
-  book_pages: '488'
-  book_isbn: '7500059973'
-  book_sscode: '12942811'
-  book_mccode: 041928c25aae43c34802f71ce2cbcffa#7f7995b07cd5f002791fe08d138c168a#322917019#12942811.pdf
 - book_name: 小儿脑性瘫痪的语言治疗
   book_author: 李林主编；全莉娟等编著
   book_press: 广州：世界图书出版广东有限公司
@@ -6694,14 +5926,6 @@
   book_isbn: '7535226043'
   book_sscode: '11342358'
   book_mccode: b9c82e75789a59df309876f2495531ea#2d2fcf5e2e2b39d8e0240f130b5cd0a1#19471863#11342358.pdf
-- book_name: 无敌高二数学--2B版
-  book_author: 全国首批示范学校资源教师根据最新高中教材编写
-  book_press: 北京：海豚出版社
-  book_date: '2005'
-  book_pages: '280'
-  book_isbn: '7801384156'
-  book_sscode: '13267928'
-  book_mccode: f7d3e8603d73e593db243fbf6fbffabe#da05e3e0362d6df122cb37602b0d683e#93146666#13267928.zip
 - book_name: 随班就读教育学：资源教师的理念与实践
   book_author: 刘全礼著
   book_press: 天津：天津教育出版社
@@ -7278,14 +6502,6 @@
   book_isbn: '9787811064889'
   book_sscode: '12393648'
   book_mccode: 78535c97a5b700c192742feb11596058#9b32538702823e71818faf08702ba222#14598821#《》_12393648.zip
-- book_name: 仙度瑞拉--水瓶与双鱼
-  book_author: 明晓溪主编
-  book_press: 北京：新世界出版社
-  book_date: '2009'
-  book_pages: '190'
-  book_isbn: '9787510401633'
-  book_sscode: '12605404'
-  book_mccode: 451899eb3a08f060609e884ef944e475#8a1e50c4f0c045f6c757359597a09696#12701842#12605404.zip
 - book_name: 脑瘫物理治疗
   book_author: （美）米勒著；毕胜主译
   book_press: 北京：人民卫生出版社
@@ -7294,14 +6510,6 @@
   book_isbn: '9787117144131'
   book_sscode: '12940611'
   book_mccode: b59825ef2885052bebc224e917d9683d#aae105cbe756755ac9f938aab547a4fd#112874533#12940611_脑瘫物理治疗 （美）米勒著；毕胜主译 人民卫生出版社 2011.11 P266.pdf
-- book_name: 情报研究与竞争力
-  book_author: ''
-  book_press: ''
-  book_date: ''
-  book_pages: ''
-  book_isbn: ''
-  book_sscode: '13699493'
-  book_mccode: 48f8f52f55bf306453a4b76f119cfb0f#a02c86e932165f694539c36c1029fc13#43835882#情报研究与竞争力_13699493.zip
 - book_name: 小儿脑瘫的防治与康复
   book_author: 韩群英编著
   book_press: 北京：人民卫生出版社
@@ -7542,14 +6750,6 @@
   book_isbn: 753237050X
   book_sscode: '11435628'
   book_mccode: 27aa2685df551bf6c7b1aa34f8a32b36#527d6c26056ee9a76cf16233f0fbb309#14874172#11435628_小儿脑瘫的康复治疗.pdf
-- book_name: 雪樱花--一位脑瘫少女用电动打字机谱写的生命之歌--新订版
-  book_author: （日）妙见幸子著；刘序坤，张梦卉译
-  book_press: 北京：华夏出版社
-  book_date: '2013'
-  book_pages: '226'
-  book_isbn: '9787508077505'
-  book_sscode: '13429797'
-  book_mccode: 9e606182440b06ca71c2c8e11a10d396#384965b6c08419dd27695d14e2e4f840#16271673#雪樱花一位脑瘫少女用电动打字机谱写的生命之歌_新订版_13429797.zip
 - book_name: 脑中风与脑瘫的康复护理
   book_author: 胡谨侠，杨红艳主编；王菲，林萍，刘晓松，李珊珊编
   book_press: 北京：中国协和医科大学出版社
@@ -7806,14 +7006,6 @@
   book_isbn: '9787811016512'
   book_sscode: '12037711'
   book_mccode: bc15ead0e4e7161a6337a949c23f5dee#d619706287316d2e586c890b2a61fc21#22056580#12037711.pdf
-- book_name: 中国酒令
-  book_author: 续之编著
-  book_press: 西安：陕西旅游出版社
-  book_date: '1989'
-  book_pages: '149'
-  book_isbn: '7541800368'
-  book_sscode: '11892550'
-  book_mccode: a04880e542f9be8424dd73e7dd51359a#8081c00a23a210831b7df66b13697033#8729811#11892550.zip
 - book_name: 给孩子智慧的教育--3-6岁儿童感觉统合训练与潜能开发
   book_author: 吴汉荣主编
   book_press: 呼和浩特：内蒙古人民出版社
@@ -7822,22 +7014,6 @@
   book_isbn: '7204072499'
   book_sscode: '11585489'
   book_mccode: bbc0a5174df5db3aa17ec86ad5eeff4d#455caa74dfaed4730d4ebabc3910a0eb#51006575#11585489.pdf
-- book_name: 新疆大豆栽培技术
-  book_author: 新疆维吾尔自治区科学技术协会普及部组编
-  book_press: 乌鲁木齐：新疆人民出版社
-  book_date: '1988'
-  book_pages: '104'
-  book_isbn: '7228005139'
-  book_sscode: '13064886'
-  book_mccode: 27fe1e78eaf40dac73c015d9f6b78fda#97a50b6be1c602be7e78ddfa5acab7c9#15512045#13064886.zip
-- book_name: 弥补数据鸿沟--农业发展的性别敏感统计
-  book_author: 联合国粮食与农业组织编；曲春江译
-  book_press: 北京：中国农业出版社
-  book_date: '2007'
-  book_pages: '35'
-  book_isbn: '7109122840'
-  book_sscode: '12595200'
-  book_mccode: 37f4213f1ebeda569d0ab9f1b691c9a1#28483d1e7069780e7775a7d0bd7b337f#5000038#12595200.zip
 - book_name: 解放聪明的“笨”小孩--200幅图例讲解，感统失调怎么办
   book_author: 吴端文编著
   book_press: 北京：中国发展出版社
@@ -8030,14 +7206,6 @@
   book_isbn: '9787530961940'
   book_sscode: '12779229'
   book_mccode: 31013a947e9fce33d2f7c65547c6382b#e04c18938b9350fcd0a2d61e6fdb4816#27268959#12779229.zip
-- book_name: 0-6岁儿童益智体能训练大全--年青妈妈培养超常儿童宝典
-  book_author: （日本）富永典子主编；彭晓琪，谢立奎等译
-  book_press: 长沙：湖南科学技术出版社
-  book_date: '2002'
-  book_pages: '179'
-  book_isbn: '7535734588'
-  book_sscode: '10822626'
-  book_mccode: e51d6f19dfe45544a10cebe2dbf16b36#8c76fe2562a626d0d12a60109d6b55da#60894032#10822626.zip
 - book_name: 超常儿童的发展与教育--第2版
   book_author: 苏雪云
   book_press: ''
@@ -8126,14 +7294,6 @@
   book_isbn: 7097·1040
   book_sscode: '11218701'
   book_mccode: 6da6b26f0d8c73d77df3326f66fc0141#03b762f780cfa981ae71ce04d4cc8b25#18100241#11218701.zip
-- book_name: 超常儿童成长的地方--北京八中少儿班成立二十周年文集
-  book_author: 赵大恒，龚正行著
-  book_press: 北京：学苑出版社
-  book_date: '2007'
-  book_pages: '296'
-  book_isbn: '7507728420'
-  book_sscode: '11856896'
-  book_mccode: 9581bf7cbafc8bf9ced736e82d8d168f#416549b1a1a80f45e7b3a055bd95f30b#19742064#11856896.zip
 - book_name: 超常儿童的发展与教育--第2版
   book_author: 苏雪云
   book_press: ''
@@ -8206,491 +7366,3 @@
   book_isbn: '7543407248'
   book_sscode: '13192947'
   book_mccode: 1f96f8ef2b31edf18de46f443011a6a2#976723307ed2ad5e4a1e0121a74cc69e#59861736#超常儿童培育手册_13192947.zip
-- book_name: 儿童多动障碍=HYPERACTIVITY-DISORDER-CHILKREN
-  book_author: 李荐中主编
-  book_press: 北京：人民卫生出版社
-  book_date: '2009'
-  book_pages: '241'
-  book_isbn: '9787117109819'
-  book_sscode: '12199804'
-  book_mccode: 431da5269d14beca32657cacb1a4dd8c#2b32a04dd71ec5657af7f9741095ba4d#57474101#12199804_《儿童多动障碍=HYPERACTIVITY DISORDER CHILKREN》.pdf
-- book_name: 儿童多动症
-  book_author: 杜亚松，于得澧编著
-  book_press: 上海：上海科技教育出版社
-  book_date: '2004'
-  book_pages: '97'
-  book_isbn: '7542835173'
-  book_sscode: '11353860'
-  book_mccode: 6919374e5ad83194fa053adc8203ff7e#79d8e1f1cfdb2ecb81d77aff78d85554#8130345#儿童多动症_11353860.zip
-- book_name: 儿童多动症
-  book_author: 邹丽萍主编；杨光，衣京梅，王建文副主编
-  book_press: 北京：军事医学科学出版社
-  book_date: '2014'
-  book_pages: '111'
-  book_isbn: '9787516303559'
-  book_sscode: '13662300'
-  book_mccode: ea216e3f4b3f6f62f0553e2af63bc56e#b91eeb4dde059ad41ab7810206d0b001#19507073#儿童多动症13662300_.pdf
-- book_name: 儿童多动症临床治疗学--修订版
-  book_author: 冷方南等主编
-  book_press: 北京：人民军医出版社
-  book_date: '2010'
-  book_pages: '444'
-  book_isbn: '9787509138380'
-  book_sscode: '12599448'
-  book_mccode: a8dacf98a750d397cdb625434b96a4f4#5f1f85dd429727398893c68c92484824#291570819#《儿童多动症临床治疗学 修订版》_12599448.zip
-- book_name: 孩子为何注意力不集中--儿童多动症的诊断与治疗
-  book_author: 苏渊主编；王永午等编著
-  book_press: 北京：人民军医出版社
-  book_date: '1995'
-  book_pages: '173'
-  book_isbn: '7800205495'
-  book_sscode: '11563154'
-  book_mccode: 4516d8ea3dd5506971dfb60a28aa35c7#b6cd53ec90d3befc2a65e90d9a29f2b6#10448352#孩子为何注意力不集中：儿童多动症的诊断与治疗_11563154.zip
-- book_name: 小儿多动症
-  book_author: 徐通主编
-  book_press: 北京：中国医药科技出版社
-  book_date: '2009'
-  book_pages: '224'
-  book_isbn: '9787506741118'
-  book_sscode: '12393649'
-  book_mccode: 98b5fcd14c24bdc8e0c058d2b709760d#be696c94ffaf4a53a770974f80b87b95#98352245#12393649_小儿多动症AAA.pdf
-- book_name: 小儿多动症310问
-  book_author: 徐通主编
-  book_press: 成都：四川科学技术出版社
-  book_date: '2006'
-  book_pages: '297'
-  book_isbn: '7536458401'
-  book_sscode: '11717087'
-  book_mccode: 2044fd8304df35e55d555546c3f8b011#39d5202258cbc2f5b5e175d98ef390f0#18282633#11717087.zip
-- book_name: 多动儿及其矫正
-  book_author: Nancy E.O'Dell，Patricia A.Cook等著；缪静玫译
-  book_press: 北京：知识出版社
-  book_date: '2002'
-  book_pages: '172'
-  book_isbn: '7501530920'
-  book_sscode: '11239639'
-  book_mccode: d1101865909abf937ebd300d9021c1d3#31109ca470fe47098e1156517cc77b89#13047821#11239639.pdf
-- book_name: 多动儿童正面教养
-  book_author: （澳）克里斯托弗·格林，（澳）姬特·齐著；张科译
-  book_press: 海口：南海出版公司
-  book_date: '2015'
-  book_pages: '301'
-  book_isbn: '9787544276733'
-  book_sscode: '13792844'
-  book_mccode: c94c5d56394ae64469ada61da09ea4a6#e1484a31b336e0e0c96d1d7c4227ec7b#77367905#13792844.zip
-- book_name: 多动症儿童家庭护理
-  book_author: 范玲主编；彭文涛副主编；石绍南，刘伟，刘果等编
-  book_press: 北京：人民卫生出版社
-  book_date: '2015'
-  book_pages: '248'
-  book_isbn: '9787117203180'
-  book_sscode: '13851434'
-  book_mccode: dd6f9be91872a71ca6dd292335db3706#672e5086e18bf01ec4c4e698e25032b8#33459961#13851434.zip
-- book_name: 儿童多动症的识别与矫治
-  book_author: 黄斌，黄浩编著
-  book_press: 北京：人民卫生出版社
-  book_date: '2001'
-  book_pages: '199'
-  book_isbn: '7117041544'
-  book_sscode: '10423481'
-  book_mccode: c88850c7a952851a6b84d9a16ced5f9f#9680e55dbe78e1e3160ba87ac2a0f78f#12548195#10423481.zip
-- book_name: 分心多动不可怕--帮助孩子学习自我控制和社交技巧
-  book_author: （美）劳伦斯·E.夏皮罗著；（美）朱莉·奥尔森绘；郭笑译
-  book_press: 北京：北京科学技术出版社
-  book_date: '2018'
-  book_pages: '218'
-  book_isbn: '9787530491884'
-  book_sscode: '14361130'
-  book_mccode: cd857cc56e3593e787f705c276514df6#c1801471f000ec3d57994dc1197f7f34#17390529#分心多动不可怕  帮助孩子学习自我控制和社交技巧_14361130.uvz
-- book_name: 不安静的孩子--如何克服孩子的多动症
-  book_author: （德）伊琳娜·普雷科普（J.Prekop），（德）克里斯特尔·施魏策尔著；刘海燕译
-  book_press: 北京：新华出版社
-  book_date: '1999'
-  book_pages: '224'
-  book_isbn: 750114303X
-  book_sscode: '10033800'
-  book_mccode: 1a247c23272b347aaacf5c03fff97929#45316242fa17e4b77901312fd92769ac#12830484#《不安静的孩子——如何克服孩子的多动症》_10033800.zip
-- book_name: 多动症商业猎人--如何利用猎人特质在农夫式世界取得成功
-  book_author: （美）托姆·哈特曼著
-  book_press: 北京：东方出版社
-  book_date: '2018'
-  book_pages: '158'
-  book_isbn: '9787506095815'
-  book_sscode: '14359784'
-  book_mccode: 70e0c5021eb7becec18a01273936fcbc#c433b3abb33042fe22fd2aff8f80bd58#11991511#a_14359784.zip
-- book_name: 野孩子--如何与你患有多动症的孩子相处
-  book_author: （美）唐·莫达西尼（Don Mordasini）著；戴琳，王建宇译
-  book_press: 北京：中国水利水电出版社
-  book_date: '2004'
-  book_pages: '306'
-  book_isbn: '7508419286'
-  book_sscode: '11225849'
-  book_mccode: 2d7775bf2e40cf7db08ef5629c17e0f1#792db47e5c0c4c694ba317e0268274b1#16518620#11225849.zip
-- book_name: 多动多想
-  book_author: 石门，冯洋，田晓菲主编
-  book_press: 呼和浩特：远方出版社
-  book_date: '2005'
-  book_pages: '464'
-  book_isbn: 780723007X
-  book_sscode: '12758646'
-  book_mccode: 7c2b9e643f9674f2f9cd716a792ca676#9dde3313947458ca95bcf0ca9074a334#24395073#《多动多想》_12758646.zip
-- book_name: 多动儿的故事
-  book_author: 李宏镒著
-  book_press: 北京：首都师范大学出版社
-  book_date: '2016'
-  book_pages: '143'
-  book_isbn: '9787565629860'
-  book_sscode: '14102149'
-  book_mccode: 70aac74bc57eb13a7abfc4d4b6c2fdd4#de4a7097ef74d9da2e628cebcb67ed81#11959591#14102149.zip
-- book_name: 多动症儿童的科学教养--写给多动症儿童的父母
-  book_author: 苏林雁主编
-  book_press: 北京：人民卫生出版社
-  book_date: '2008'
-  book_pages: '233'
-  book_isbn: '9787117102414'
-  book_sscode: '12094780'
-  book_mccode: 952eea4b092b4c92ee43708bc0232f6f#c4fc1f3f48842e81b7cc743b44e9bc32#37912756#多动症儿童的科学教养：写给多动症儿童的父母_12094780.zip
-- book_name: 儿童多动症百问
-  book_author: 王永午，王香民主编
-  book_press: 上海：上海科技教育出版社
-  book_date: '1995'
-  book_pages: '164'
-  book_isbn: '7542812009'
-  book_sscode: '11563304'
-  book_mccode: 997449bad44e6ec596ff1be91cccc749#92131811c387e69d6773a30cdcc18f1d#10776881#11563304.zip
-- book_name: 儿童多动症·抽动症
-  book_author: 赵维果，陈凤琴，郑有宁编著
-  book_press: 南京：江苏科学技术出版社
-  book_date: '2010'
-  book_pages: '120'
-  book_isbn: '9787534573682'
-  book_sscode: '12619785'
-  book_mccode: 6786f381573147df15ab4c604c63c083#700e957175d7c238e7750d4ad3993240#37960926#12619785.zip
-- book_name: 儿童多动症多发性抽动症防治300问--第5版
-  book_author: 邹治文主编
-  book_press: 北京：中国中医药出版社
-  book_date: '2005'
-  book_pages: '189'
-  book_isbn: '7800898709'
-  book_sscode: '11408223'
-  book_mccode: 45146c200711baa10e9b979faa231fd4#c39649fec2ac27a728da0f986c3c0115#12647129#11408223.zip
-- book_name: 火孩子--水孩子--儿童多动症的五种类型及帮助孩子提高自尊与注意力的方法
-  book_author: （美）斯蒂芬·斯科特·考恩，刘洋
-  book_press: 南昌：江西教育出版社
-  book_date: '2018'
-  book_pages: '286'
-  book_isbn: '9787539294148'
-  book_sscode: '14631078'
-  book_mccode: 6e722200a336ba31cf14fc4866a9a81a#429933a52cfd815fb8d516add6762a40#54558415#a_14631078.zip
-- book_name: 多动症--你应该知道的140个问题
-  book_author: （法）勒桑德厄，（法）高诺法尔，（法）杜赞著；李利红译
-  book_press: 上海：上海社会科学院出版社
-  book_date: '2009'
-  book_pages: '277'
-  book_isbn: '9787807455578'
-  book_sscode: '12329430'
-  book_mccode: 5bc20abf6b3b5b77fa05fc27cf98118e#cbe51c46f9c0eda59d5a46486e167605#110033046#12329430_《多动症 你应该知道的140个问题》.pdf
-- book_name: 为什么你的孩子特别多动
-  book_author: （美）芬　固（Feingold，B.）著；福建华南女子学院儿童教育咨询系译
-  book_press: 福州：福建少年儿童出版社
-  book_date: '1988'
-  book_pages: '102'
-  book_isbn: '7539501421'
-  book_sscode: '13055381'
-  book_mccode: 00c393ccde4c32d58863dae9a32e6f1c#c712bb2519c59420a30359b82a172859#35483576#13055381.zip
-- book_name: 注意力不能集中的孩子-ADHD有关“多动”的问与答
-  book_author: （日）榊原洋一著；方颖轶译
-  book_press: 上海：上海科学普及出版社
-  book_date: '2001'
-  book_pages: '142'
-  book_isbn: '7542719564'
-  book_sscode: '12393644'
-  book_mccode: 351c8a20ab9a84f8b8168f6b1eab0a0b#02673f1294a1adcc60df463f0903667b#4881451#12393644.pdf
-- book_name: 多动症与学习困难
-  book_author: 杜亚松编著
-  book_press: 上海：上海科学技术出版社
-  book_date: '2001'
-  book_pages: '101'
-  book_isbn: '7532356787'
-  book_sscode: '12393646'
-  book_mccode: 1c351fdcdcb710e74c98e327553ca799#cccf898603dcfdd2673c569736162854#6223251#多动症与学习困难_12393646.zip
-- book_name: 如何帮助多动的孩子--多动、注意力分散、易冲动儿童的治疗与矫正
-  book_author: （英）特雷恩著；梁慧琼译
-  book_press: 北京：新世界出版社
-  book_date: '2006'
-  book_pages: '242'
-  book_isbn: '7802281741'
-  book_sscode: '12393647'
-  book_mccode: 511462d346cf7dfbe1d8c36b3aab4a2d#d0894a1a8fcc0ac492f2765ded64a122#15744307#《如何帮助多动的孩子  多动、注意力分散、易冲动儿童的治疗与矫正》_12393647.zip
-- book_name: 如何养育多动症孩子--给父母的权威完全指导
-  book_author: （美）RUSSELLA.BARKLEY著；王思睿等译
-  book_press: 北京：中国轻工业出版社
-  book_date: '2016'
-  book_pages: '398'
-  book_isbn: '7518407965'
-  book_sscode: '13959092'
-  book_mccode: 1510388df8eadc3cd895d027bccd25a9#8123c904685cf5a7ce8d8df90ee7c4be#52410722#13959092.zip
-- book_name: 自我治疗小儿多动症
-  book_author: 孟迎春编
-  book_press: 北京：中国中医药出版社
-  book_date: '2012'
-  book_pages: '195'
-  book_isbn: '9787513210164'
-  book_sscode: '13227465'
-  book_mccode: d36bce6ebee0136a197762d9deebddbb#f48934dcda6bcf168e30b919a32e743a#53426570#自我治疗小儿多动症_13227465.zip
-- book_name: 家有顽童--44招教养多动症孩子
-  book_author: （美）夏皮罗著；闫嵘，雷玮译
-  book_press: 西安：陕西师范大学出版社
-  book_date: '2011'
-  book_pages: '195'
-  book_isbn: '9787561353974'
-  book_sscode: '12807943'
-  book_mccode: 27b8c7ca8a42be41d211b7b486ec74df#f6c2aaf4bcc0c4820a2b10d0b432bacd#14227332#家有顽童  44招教养多动症孩子_12807943.pdf
-- book_name: 如果你的孩子有多动症--儿童多动症的家庭防治与康复
-  book_author: 黄钊编著
-  book_press: 天津：天津科技翻译出版公司
-  book_date: '2002'
-  book_pages: '136'
-  book_isbn: '7543304007'
-  book_sscode: '12827127'
-  book_mccode: f9afe8018d5ca8896fb1d03660983077#0ef8b890b494b761bad9df1e94914f89#39602767#《如果你的孩子有多动症：儿童多动症的家庭防治与康复》_12827127.zip
-- book_name: 青少年多动症练习手册
-  book_author: （美）何诺斯韦伯（LARAHONOS-WEBB）著；赵骏达译
-  book_press: 北京联合出版公司
-  book_date: '2018'
-  book_pages: '133'
-  book_isbn: '9787559613158'
-  book_sscode: '14363732'
-  book_mccode: 411920cbb4ae83468a68e01a35530449#360341b10a76be2d9535145f018ee50e#8046574#青少年多动症练习手册_14363732.uvz
-- book_name: 儿童多动症临床治疗学--第3版
-  book_author: 冷方南，郑毅，韩新民等主编；刘靖，杜亚松，静进等副主编
-  book_press: 北京：科学出版社
-  book_date: '2019'
-  book_pages: '290'
-  book_isbn: '9787030600745'
-  book_sscode: '14590513'
-  book_mccode: 36a5f3567cd70995c4e8f0c5ef2adb9b#b74b12a76c924725965ebd5ef6ca0192#66509675#a_14590513.zip
-- book_name: 多动症儿童的科学教养--写给多动症儿童的父母--第2版
-  book_author: 苏林雁主编
-  book_press: 北京：人民卫生出版社
-  book_date: '2018'
-  book_pages: '200'
-  book_isbn: '9787117270045'
-  book_sscode: '14632526'
-  book_mccode: 37fd19e9d78df7ef82990918b3d342ea#a1051f40356200c0442893a2da7cf8ee#79730715#a_14632526.zip
-- book_name: 中国人口展望--2018
-  book_author: 贺丹主编
-  book_press: 北京：中国人口出版社
-  book_date: '2018'
-  book_pages: '280'
-  book_isbn: '9787510139031'
-  book_sscode: '14653480'
-  book_mccode: 6b20b92b8acd8e773690a3a764fbb701#ed5df09dda155cf1e75f0b1eba50f855#29899696#14653480.zip
-- book_name: 多动症的心理研究与矫治
-  book_author: 陈彩琦编著
-  book_press: 广州：暨南大学出版社
-  book_date: '2012'
-  book_pages: '233'
-  book_isbn: '9787566801234'
-  book_sscode: '13227491'
-  book_mccode: 22ce3ff22ab1c3a28e7e4f3da1e3df04#dcab2d37237e0f55f6824157419d33fd#23911352#13227491.zip
-- book_name: The-unnatural-nature-of-science
-  book_author: Lewis Wolpert
-  book_press: Harvard University Press
-  book_date: '1993'
-  book_pages: '191'
-  book_isbn: ''
-  book_sscode: '40612139'
-  book_mccode: 591e6762e91fe60e26188b8e2cd99145#59e2f4cdce338b5ae3486c965d693147#13552121#40612139.pdf
-- book_name: 儿童多动症
-  book_author: 苏林雁主编；李雪荣，黄春香，杨志伟，杜亚松，高雪屏，禹顺英，王?，张纪水，朱焱，刘军，李红政，刘学军
-  book_press: 北京：人民军医出版社
-  book_date: '2004'
-  book_pages: '415'
-  book_isbn: '7801941756'
-  book_sscode: '11343317'
-  book_mccode: 9d1de5ae9883a2644669c61f29746835#5de38a3925f828522464f47141064bb0#18939802#11343317_儿童多动症.pdf
-- book_name: 儿童多动症
-  book_author: 郭莲舫编著
-  book_press: 上海医科大学出版社
-  book_date: '1993'
-  book_pages: '63'
-  book_isbn: '7562701679'
-  book_sscode: '11539796'
-  book_mccode: ac2651e777e38f34901768ebe2a11bbd#0f28f1c6553e1646aa85655c6bf83a68#2276762#11539796_儿童多动症 郭莲舫编著 上海医科大学出版社 1993年10月第1版 P63.pdf
-- book_name: 儿童多动症--抽动-秽语综合征防治300问
-  book_author: 邹治文主编
-  book_press: 北京：中国中医药出版社
-  book_date: '1998'
-  book_pages: '287'
-  book_isbn: '7800898709'
-  book_sscode: '10456495'
-  book_mccode: 4bcbd4b9d809f9fb224cad4460e481f6#6ae1dea34dd67aa1d59a2bc525099290#16263713#10456495.rar
-- book_name: 儿童多动症防治
-  book_author: 忻仁娥著
-  book_press: 上海：文汇出版社
-  book_date: '1998'
-  book_pages: '120'
-  book_isbn: '7805314608'
-  book_sscode: '11510301'
-  book_mccode: 028a5bbbff33134a641fefc2b0eecc8f#e2defa02d2369533d950da5a4bddeb80#8896497#11510301.zip
-- book_name: 国际结算
-  book_author: 方士华主编
-  book_press: 沈阳：东北财经大学出版社
-  book_date: '2005'
-  book_pages: '199'
-  book_isbn: '7810845292'
-  book_sscode: '11347650'
-  book_mccode: 5d634efeb76ccbfcbaa6c1460adda0a2#18f8eadde795bff0cf47bcd7f9c15bfb#35327039#11347650.zip
-- book_name: 多动儿养育完全指南
-  book_author: 克琳·亚历山大-罗伯兹编著；徐军田，姚少慧译
-  book_press: 汕头：汕头大学出版社
-  book_date: '2003'
-  book_pages: '278'
-  book_isbn: '7810366505'
-  book_sscode: '11645829'
-  book_mccode: 9c8f857cb028a475c04a31fd07927e17#5f4a25743e47f7f0a0c50ad24d86b5ef#18673650#意象师科学解梦_11645829.zip
-- book_name: 多动症儿童心理辅导
-  book_author: 吴增强主编
-  book_press: 上海：上海教育出版社
-  book_date: '2006'
-  book_pages: '147'
-  book_isbn: '7544407926'
-  book_sscode: '11778107'
-  book_mccode: b21a0706999e90b26ff124f41ce6c7b2#0bd344f0b3c09be26317927a802b8589#11749808#11778107.rar
-- book_name: 教您防治儿童多动症
-  book_author: 万力生编著
-  book_press: 上海：上海科学技术出版社
-  book_date: '2003'
-  book_pages: '165'
-  book_isbn: '7532368718'
-  book_sscode: '11510359'
-  book_mccode: 5c76af9367ea0e0ff059560157a919b8#859709bd1c5f90ef0ec0b7d8b677e552#18336672#11510359.zip
-- book_name: 小儿多动症的自我疗法
-  book_author: 杨永莲，刘雪成，孙广恭主编
-  book_press: 北京：中国中医药出版社
-  book_date: '2006'
-  book_pages: '247'
-  book_isbn: '7802311500'
-  book_sscode: '11930339'
-  book_mccode: 60b84518d6fba3d4afc5c3338cd07345#0b0af34ea145ea4925e010ea349236b7#46895840#11930339.zip
-- book_name: 远离儿童多动症·抽动症
-  book_author: 陈干生，王宝香，张云等编著
-  book_press: 南京：江苏科学技术出版社
-  book_date: '2008'
-  book_pages: '162'
-  book_isbn: '7534556783'
-  book_sscode: '11959135'
-  book_mccode: b0d45b57d106a30e22fd60a763fe4642#2e32312b3a5c8dbbb33b612c74b23ddb#40642041#远离儿童多动症·抽动症_11959135.zip
-- book_name: 中西医结合慢性病防治指导与自我管理丛书--儿童多动症
-  book_author: 韩新民主编
-  book_press: 北京：人民卫生出版社
-  book_date: '2017'
-  book_pages: '102'
-  book_isbn: '9787117252171'
-  book_sscode: '14348648'
-  book_mccode: 1851532c9ec0bc3fc29af61b1565ee97#71ce6e56c36dbb8d80351e80fd4f4967#9151708#a_14348648.zip
-- book_name: 专家解答多动症
-  book_author: 杜亚松，黄慧桃著
-  book_press: 上海：上海科学技术文献出版社
-  book_date: '2005'
-  book_pages: '154'
-  book_isbn: '7543925567'
-  book_sscode: '11408336'
-  book_mccode: 5428aaa9a1704f25d8aa009ee149c379#ce2cd6a96bfd04dac626814c2843b972#10023742#11408336_专家解答多动症.zip
-- book_name: 专家与您面对面--儿童多动症
-  book_author: 申淑芳，尤蔚主编
-  book_press: 北京：中国医药科技出版社
-  book_date: '2016'
-  book_pages: '106'
-  book_isbn: '9787506774567'
-  book_sscode: '13962628'
-  book_mccode: 9171f306f046a53b7314a62d272d1cb5#118d39b8bdb0565cccc1b045e35c32a7#8666519#13962628.zip
-- book_name: 帮助儿童克服“多动症”
-  book_author: （德）维拉·桑德贝尔格（V.Sanderg）著；杜新华译
-  book_press: 北京：中国轻工业出版社
-  book_date: '2000'
-  book_pages: '90'
-  book_isbn: '7501927324'
-  book_sscode: '11457269'
-  book_mccode: 8b655e471d6612e96fbc797db27b7451#61de145a6ab883a218c1313c920dae16#19614999#11457269.zip
-- book_name: 儿童多动症-轻微脑机能障碍MBD
-  book_author: 葛茂振编著
-  book_press: 哈尔滨：黑龙江科学技术出版社
-  book_date: '1982'
-  book_pages: '83'
-  book_isbn: 14217·032
-  book_sscode: '10820430'
-  book_mccode: 8be8a3c4736abafb7a0932d4b344bbd8#66cfa1778af1137a90583cf166994815#5288219#儿童多动症  （轻微脑机能障碍MBD）_10820430.uvz
-- book_name: 儿童多动症临床治疗学
-  book_author: 冷方南等主编
-  book_press: 北京：中国医药科技出版社
-  book_date: '1990'
-  book_pages: '171'
-  book_isbn: '7506701758'
-  book_sscode: '10535268'
-  book_mccode: b9576e8b4d0aff507acb392a1b620eff#b011ccf8a9c5b053d011c6dc4c41d922#8973980#儿童多动症临床治疗学_10535268.uvz
-- book_name: 稻田浮萍--农业综合体系中多动能小型水生植物
-  book_author: 黄世文编著
-  book_press: 北京：中国农业科学技术出版社
-  book_date: '2010'
-  book_pages: '161'
-  book_isbn: '9787511601865'
-  book_sscode: '12643540'
-  book_mccode: 9f6038a34c1efd650bd95991c804dc8c#ea0cfed48ee29d74a50f95f35dbada91#36652965#12643540.zip
-- book_name: 儿童多动症防治问答注意力不集中
-  book_author: 黄斌编著
-  book_press: 北京：中医古籍出版社
-  book_date: '1999'
-  book_pages: '121'
-  book_isbn: '7800138755'
-  book_sscode: '13426751'
-  book_mccode: a12e05f7f4b8c0b685e9b9663e5ac3ed#096e461eba83890f33821d794f89b0df#28889712#儿童多动症防治问答注意力不集中_13426751.zip
-- book_name: 童年多动综合征
-  book_author: 黄瑞麟编著
-  book_press: 广州：广东科技出版社
-  book_date: '1984'
-  book_pages: '74'
-  book_isbn: 14182·103
-  book_sscode: '10820431'
-  book_mccode: a05834ddf115556ffb137acf6bde73b9#2e56085770b6f95be3767e5a5f726c7a#4803500#10820431.zip
-- book_name: 多动儿父母必读
-  book_author: 臧汝芬著
-  book_press: 沈阳：辽宁科学技术出版社
-  book_date: '2002'
-  book_pages: '127'
-  book_isbn: '7538137327'
-  book_sscode: '10878558'
-  book_mccode: be66f6621002b565cd652a426e730d33#a7c4dab256ab5d7e8594b38e1583461f#6178953#10878558.zip
-- book_name: 儿童多动症的研究
-  book_author: 陶国泰编
-  book_press: 天津：天津科学技术出版社
-  book_date: '1983'
-  book_pages: '96'
-  book_isbn: 14212·84
-  book_sscode: '10820432'
-  book_mccode: c41a7c9e0d9d3013c27dd4881013a5af#8282a5af2477ea8a071e1b52c52a29a6#5459771#儿童多动症的研究_10820432.zip
-- book_name: 中医教您防治儿童多动症
-  book_author: 邹治文，王奕主编；文胜编
-  book_press: 北京：人民军医出版社
-  book_date: '2005'
-  book_pages: '181'
-  book_isbn: '7801948475'
-  book_sscode: '11508881'
-  book_mccode: a1a580492872bb1e5d8752787d350338#129c6a6c1812e13b2408c000be6ff83c#11491183#中医教您防治儿童多动症_11508881.zip
-- book_name: 解析儿童多动症
-  book_author: （日）市川宏伸著
-  book_press: 沈阳：万卷出版公司
-  book_date: '2009'
-  book_pages: '86'
-  book_isbn: '9787807596332'
-  book_sscode: '12181128'
-  book_mccode: b53b972da78bcb36028d8e23cbac65a8#bf9e3c5e77419053df917dce23b136f4#27439323#解析儿童多动症_12181128.zip
-- book_name: 家有顽童--孩子有了多动症怎么办
-  book_author: 雷秀雅
-  book_press: 重庆：重庆大学出版社
-  book_date: '2018'
-  book_pages: '229'
-  book_isbn: '9787568911726'
-  book_sscode: '14678158'
-  book_mccode: 19e03f7d1c2e45a009d0f4e7bf045e29#5474ac1bbb3118970c89f6d9bda6ccc4#26671143#14678158.zip

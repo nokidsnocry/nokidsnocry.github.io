@@ -6,6 +6,7 @@ import lxml
 import yaml
 import time, random
 import config
+from tqdm import tqdm, trange
 
 book_search_base_url = 'https://findbooks.eu.org/index.php?search-index-mid-2-keyword-{}-page-{}.html'
 book_info_base_url = 'https://findbooks.eu.org{}'
@@ -20,7 +21,7 @@ def get_headers():
 
 def get_book_path(keyword):
     book_path_dict = {}
-    for n in range(1, 1000):
+    for n in tqdm(range(1, 1000), desc='Processing...'):
         try:
             time.sleep(1)
             url = book_search_base_url.format(keyword, n)
@@ -107,7 +108,7 @@ def write_to_file(book_info_list):
         if book_info_list:
             f1.seek(0,2)
             yaml.dump(book_info_list, f1, default_flow_style=False, sort_keys=False, allow_unicode=True, width=500) 
-            with open('valid_books_info.yaml', 'a+', encoding='utf-8') as f2:
+            with open('valid_books_info.yaml', 'w', encoding='utf-8') as f2:
                 yaml.dump(book_info_list, f2, default_flow_style=False, sort_keys=False, allow_unicode=True, width=500) 
 
 

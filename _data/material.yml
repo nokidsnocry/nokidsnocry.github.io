@@ -904,19 +904,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/64216ff4a682492fccb55dd6.png
-  - index: '10000075'
-    utime: '1680162689'
-    name: 2004中国特殊儿童教育权利报告
-    type: book
-    author: 陈云英主编
-    year: '2005'
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jxeuzkow262apwap72t667rys77a/specail-education-material%2Fbooks%2F2004%E4%B8%AD%E5%9B%BD%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E6%95%99%E8%82%B2%E6%9D%83%E5%88%A9%E6%8A%A5%E5%91%8A_12694107.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/64216ff4a682492fccb55e2e.png
   - index: '10000076'
     utime: '1680162689'
     name: 21世纪特殊教育精品规划教材--服装设计基础
@@ -1190,19 +1177,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/64216ff6a682492fccb56303.png
-  - index: '10000097'
-    utime: '1680162689'
-    name: 超常儿童的发展与教育--第2版
-    type: book
-    author: 苏雪云
-    year: '2016'
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jxchyx7we4cqwwdcikjv2tqmt5tq/specail-education-material%2Fbooks%2F%E8%B6%85%E5%B8%B8%E5%84%BF%E7%AB%A5%E7%9A%84%E5%8F%91%E5%B1%95%E4%B8%8E%E6%95%99%E8%82%B2--%E7%AC%AC2%E7%89%88_14013590.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/64216ff7a682492fccb56356.png
   - index: '10000098'
     utime: '1680162689'
     name: 超常儿童的发展与教育
@@ -1670,7 +1644,7 @@ content:
       book_url: https://link.storjshare.io/jxinza4jjrghgl4d7vzmdkkvd4va/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BC%9A%E4%B8%8E%E7%89%B9%E6%AE%8A%E6%95%99%E8%82%B2--%E7%AC%AC5%E5%86%8C--%E7%99%BE%E5%B9%B4%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E6%96%87%E5%BA%93--%E7%AC%AC6%E8%BE%91_14620034.pdf
     covers:
     - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/64217023a682492fccb5d444.png
+      cover_url: https://pic.imgdb.cn/item/6428040ea682492fcca3f65a.png
   - index: '10000134'
     utime: '1680162689'
     name: 儿童心理行为障碍
@@ -1710,19 +1684,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/64217023a682492fccb5d52a.png
-  - index: '10000137'
-    utime: '1680162689'
-    name: 儿童行为矫正
-    type: book
-    author: 吕静主编
-    year: '1992'
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jxpddwcayvemgblpekchf467egsq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3_11885458.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/64217023a682492fccb5d566.png
   - index: '10000138'
     utime: '1680162689'
     name: 儿童行为矫正手册
@@ -2061,19 +2022,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/64217026a682492fccb5db8d.png
-  - index: '10000164'
-    utime: '1680162689'
-    name: 发育障碍儿童--诊断与培训指导
-    type: book
-    author: ''
-    year: ''
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/junxztt4xzu4q6mmxtdhfmwgaf5a/specail-education-material%2Fbooks%2F%E5%8F%91%E8%82%B2%E9%9A%9C%E7%A2%8D%E5%84%BF%E7%AB%A5--%E8%AF%8A%E6%96%AD%E4%B8%8E%E5%9F%B9%E8%AE%AD%E6%8C%87%E5%AF%BC_13540079.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/64217026a682492fccb5dbec.png
   - index: '10000165'
     utime: '1680162689'
     name: 发育障碍儿童的运动指导
@@ -4570,19 +4518,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/64217115a682492fccb7ed3e.png
-  - index: '10000357'
-    utime: '1680162689'
-    name: 启智学校行为处理实用手册
-    type: book
-    author: 陈凯鸣，刘劲等编著
-    year: '2016'
-    pages: '92'
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jvlckhasgzd7xo2tmzw7nscvd3yq/specail-education-material%2Fbooks%2F%E5%90%AF%E6%99%BA%E5%AD%A6%E6%A0%A1%E8%A1%8C%E4%B8%BA%E5%A4%84%E7%90%86%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C_14047826.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/64217115a682492fccb7ed73.png
   - index: '10000358'
     utime: '1680162689'
     name: 启智学校行为处理实用手册
@@ -8990,32 +8925,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/642174aea682492fccbf6ece.png
-  - index: '10000697'
-    utime: '1680162689'
-    name: 我们都有孤独症--双色
-    type: book
-    author: 庞金玲著
-    year: '2014'
-    pages: '254'
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jwwvwjklixofzykuum6rdglkcckq/specail-education-material%2Fbooks%2F%E6%88%91%E4%BB%AC%E9%83%BD%E6%9C%89%E5%AD%A4%E7%8B%AC%E7%97%87--%E5%8F%8C%E8%89%B2_13486484.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/642174aea682492fccbf6f38.png
-  - index: '10000698'
-    utime: '1680162689'
-    name: 我们都有孤独症--双色
-    type: book
-    author: 庞金玲著
-    year: '2014'
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jwzfilpa4546ls2zl2vzswpeqd4q/specail-education-material%2Fbooks%2F%E6%88%91%E4%BB%AC%E9%83%BD%E6%9C%89%E5%AD%A4%E7%8B%AC%E7%97%87--%E5%8F%8C%E8%89%B2_13511870.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/642174aea682492fccbf6f74.png
   - index: '10000699'
     utime: '1680162689'
     name: 我们是怎样培养神童的--32位超常儿童家长谈育子经验
@@ -9055,19 +8964,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/642174afa682492fccbf701e.png
-  - index: '10000702'
-    utime: '1680162689'
-    name: 西南少数民族特殊儿童社会适应性研究
-    type: book
-    author: ''
-    year: ''
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jwq4p747pi7lj74h3a4myqqmjifa/specail-education-material%2Fbooks%2F%E8%A5%BF%E5%8D%97%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E7%89%B9%E6%AE%8A%E5%84%BF%E7%AB%A5%E7%A4%BE%E4%BC%9A%E9%80%82%E5%BA%94%E6%80%A7%E7%A0%94%E7%A9%B6_14014239.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/642174afa682492fccbf704e.png
   - index: '10000703'
     utime: '1680162689'
     name: 西南少数民族特殊儿童社会适应性研究
@@ -11928,19 +11824,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/6421800ba682492fccd1da11.png
-  - index: '10000923'
-    utime: '1680162689'
-    name: 重建依恋--自闭症的家庭治疗
-    type: book
-    author: 春丽
-    year: '2018'
-    pages: ''
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/ju6yezlgwsd5qqxnzca4psd47fdq/specail-education-material%2Fbooks%2F%E9%87%8D%E5%BB%BA%E4%BE%9D%E6%81%8B--%E8%87%AA%E9%97%AD%E7%97%87%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%B2%BB%E7%96%97_14571443.pdf
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/6421800ba682492fccd1da45.png
   - index: '10000924'
     utime: '1680162689'
     name: 重建依恋--自闭症的家庭治疗

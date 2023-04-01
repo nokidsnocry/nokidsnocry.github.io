@@ -43,6 +43,7 @@ title_keyword = [
     '感统',
     '随班就读',
     '超常儿童',
+    '多动',
 ]
 
 author_keyword = [
