@@ -2,6 +2,7 @@ const eleSelectType = document.querySelector('#select-type');
 const eleSearchInput = document.querySelector('#search-box input');
 const eleSearchButton = document.querySelector('#search-box button');
 const eleContainer = document.querySelector('#container');
+const eleMaterials = document.querySelector('#materials');
 const eleMaterialContainers = document.querySelectorAll('.material-container');
 const eleNoResult = document.querySelector('#no-result');
 const eleLoading = document.querySelector('#loading');
@@ -13,7 +14,8 @@ function searchMaterial() {
     
     eleSelectType.addEventListener('change', () => {
         displayLoading();
-        setTimeout(displayMaterialContainer, 100);
+        let keywords = eleSearchInput.value;
+        setTimeout(() => displayMaterialContainer(keywords), 100);
         setTimeout(hideLoading, 100);
     })
 
@@ -71,6 +73,7 @@ function searchMaterial() {
         } else {
             hideNoResult();
         }
+        eleMaterials.scrollIntoView();
     }
 }
 
@@ -144,7 +147,7 @@ function customScrollbar() {
 
 function setContainerHeight() {
     let height = window.innerHeight;
-    eleContainer.height = (height - 60) + 'px';
+    eleContainer.style.height = (height - 60) + 'px';
 }
 
 searchMaterial();
