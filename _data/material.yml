@@ -1,6 +1,6 @@
 metadata:
   type: ['book', 'scale', 'document', 'law', 'video', 'website', 'textbook']
-  type-chinese: [['书籍', 986], ['量表', 23], ['文档', 20], ['法规', 18], ['视频', 1], ['网站', 0], ['教材', 40]]
+  type-chinese: [['书籍', 962], ['量表', 23], ['文档', 20], ['法规', 18], ['视频', 1], ['网站', 0], ['教材', 40]]
   type-description:
     - '包含了关于某一主题的系统性知识'
     - '用于鉴定、评估以及诊断的工具'
@@ -12643,6 +12643,611 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/64216ff4a682492fccb55cad.png
+  - index: '10000987'
+    utime: 1680369230
+    type: book
+    name: 儿童多动障碍=HYPERACTIVITY-DISORDER-CHILKREN
+    year: '2009'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jx33k75nkqhip3tolqqap4fxignq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E9%9A%9C%E7%A2%8D_12199804.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285be0a682492fcc30a24f.png
+  - index: '10000988'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症
+    year: '2004'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/ju25ngd4uqcv2np47dj6coit5p3q/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_11353860.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bf4a682492fcc30c59f.png
+  - index: '10000989'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症
+    year: '2014'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvocgnxxwwkhlpiuxbttwk6lkdbq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_13662300.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bf4a682492fcc30c64a.png
+  - index: '10000990'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症临床治疗学--修订版
+    year: '2010'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvtjiznduesm5cmr3vn2ntp5haba/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E4%B8%B4%E5%BA%8A%E6%B2%BB%E7%96%97%E5%AD%A6--%E4%BF%AE%E8%AE%A2%E7%89%88_12599448.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c20a682492fcc31018b.png
+  - index: '10000991'
+    utime: 1680369230
+    type: book
+    name: 孩子为何注意力不集中--儿童多动症的诊断与治疗
+    year: '1995'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jujqtlyi24mu4jbn5p2gqhpuyqha/specail-education-material%2Fbooks%2F%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BD%95%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E9%9B%86%E4%B8%AD--%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%B2%BB%E7%96%97_11563154.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c51a682492fcc3149f0.png
+  - index: '10000992'
+    utime: 1680369230
+    type: book
+    name: 小儿多动症
+    year: '2009'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwe2acafzdkmojxrtsez6kvlybka/specail-education-material%2Fbooks%2F%E5%B0%8F%E5%84%BF%E5%A4%9A%E5%8A%A8%E7%97%87_12393649.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285db8a682492fcc34104b.png
+  - index: '10000993'
+    utime: 1680369230
+    type: book
+    name: 小儿多动症310问
+    year: '2006'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvyendhlgprcap3y35ilnjgdbfya/specail-education-material%2Fbooks%2F%E5%B0%8F%E5%84%BF%E5%A4%9A%E5%8A%A8%E7%97%87310%E9%97%AE_11717087.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285db9a682492fcc341690.png
+  - index: '10000994'
+    utime: 1680369230
+    type: book
+    name: 多动儿及其矫正
+    year: '2002'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jw642yyjgrexc6jgghptr75e3qpa/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E5%84%BF%E5%8F%8A%E5%85%B6%E7%9F%AB%E6%AD%A3_11239639.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285baba682492fcc304a5a.png
+  - index: '10000995'
+    utime: 1680369230
+    type: book
+    name: 多动儿童正面教养
+    year: '2015'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jugi7bbxrrbktuu7i7fzoblke67a/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E5%84%BF%E7%AB%A5%E6%AD%A3%E9%9D%A2%E6%95%99%E5%85%BB_13792844.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bd4a682492fcc3080d1.png
+  - index: '10000996'
+    utime: 1680369230
+    type: book
+    name: 多动症儿童家庭护理
+    year: '2015'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwmxla7oegqg5jhxhhcdaj7fxzea/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87%E5%84%BF%E7%AB%A5%E5%AE%B6%E5%BA%AD%E6%8A%A4%E7%90%86_13851434.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bdfa682492fcc309fb8.png
+  - index: '10000997'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症的识别与矫治
+    year: '2001'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvmz2p3stws7jnp3sv5qa4o2yeea/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E8%AF%86%E5%88%AB%E4%B8%8E%E7%9F%AB%E6%B2%BB_10423481.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c06a682492fcc30e02e.png
+  - index: '10000998'
+    utime: 1680369230
+    type: book
+    name: 不安静的孩子--如何克服孩子的多动症
+    year: '1999'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxaoq4w3cnhofzcznrwak242b5mq/specail-education-material%2Fbooks%2F%E4%B8%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%AD%A9%E5%AD%90--%E5%A6%82%E4%BD%95%E5%85%8B%E6%9C%8D%E5%AD%A9%E5%AD%90%E7%9A%84%E5%A4%9A%E5%8A%A8%E7%97%87_10033800.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285ba5a682492fcc30420e.png
+  - index: '10000999'
+    utime: 1680369230
+    type: book
+    name: 野孩子--如何与你患有多动症的孩子相处
+    year: '2004'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwgmj7qlvbc7c5ea5kfl3h52ecfq/specail-education-material%2Fbooks%2F%E9%87%8E%E5%AD%A9%E5%AD%90--%E5%A6%82%E4%BD%95%E4%B8%8E%E4%BD%A0%E6%82%A3%E6%9C%89%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E5%AD%A9%E5%AD%90%E7%9B%B8%E5%A4%84_11225849.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285deaa682492fcc34a884.png
+  - index: '10001000'
+    utime: 1680369230
+    type: book
+    name: 多动儿的故事
+    year: '2016'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwcr3s6yg6waphwoeivy4zbj3viq/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E5%84%BF%E7%9A%84%E6%95%85%E4%BA%8B_14102149.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285ba8a682492fcc30468b.png
+  - index: '10001001'
+    utime: 1680369230
+    type: book
+    name: 多动症儿童的科学教养--写给多动症儿童的父母
+    year: '2008'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jx7rmj6vfld2xgq4phunndjlfclq/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87%E5%84%BF%E7%AB%A5%E7%9A%84%E7%A7%91%E5%AD%A6%E6%95%99%E5%85%BB--%E5%86%99%E7%BB%99%E5%A4%9A%E5%8A%A8%E7%97%87%E5%84%BF%E7%AB%A5%E7%9A%84%E7%88%B6%E6%AF%8D_12094780.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bd5a682492fcc3083ff.png
+  - index: '10001002'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症百问
+    year: '1995'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jual4tbhprejr7etvtiye66iik5a/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E7%99%BE%E9%97%AE_11563304.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c06a682492fcc30dfc8.png
+  - index: '10001003'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症·抽动症
+    year: '2010'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvi2ofpy4ylhb7myrhxutzx4rxsq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%C2%B7%E6%8A%BD%E5%8A%A8%E7%97%87_12619785.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bf5a682492fcc30c7c2.png
+  - index: '10001004'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症多发性抽动症防治300问--第5版
+    year: '2005'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxcaa5z7qqmksexhgw6mewijayta/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E5%A4%9A%E5%8F%91%E6%80%A7%E6%8A%BD%E5%8A%A8%E7%97%87%E9%98%B2%E6%B2%BB300%E9%97%AE--%E7%AC%AC5%E7%89%88_11408223.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c06a682492fcc30e074.png
+  - index: '10001005'
+    utime: 1680369230
+    type: book
+    name: 火孩子--水孩子--儿童多动症的五种类型及帮助孩子提高自尊与注意力的方法
+    year: '2018'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwhhl24kmdf74u23cnnu5uq32x5q/specail-education-material%2Fbooks%2F%E7%81%AB%E5%AD%A9%E5%AD%90--%E6%B0%B4%E5%AD%A9%E5%AD%90--%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E4%BA%94%E7%A7%8D%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%B8%AE%E5%8A%A9%E5%AD%A9%E5%AD%90%E6%8F%90%E9%AB%98%E8%87%AA%E5%B0%8A%E4%B8%8E%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%9A%84%E6%96%B9%E6%B3%95_14631078.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c52a682492fcc314b22.png
+  - index: '10001006'
+    utime: 1680369230
+    type: book
+    name: 多动症--你应该知道的140个问题
+    year: '2009'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvooohgno35uoozk4td3wmrn2knq/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87--%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84140%E4%B8%AA%E9%97%AE%E9%A2%98_12329430.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285be0a682492fcc30a1ef.png
+  - index: '10001007'
+    utime: 1680369230
+    type: book
+    name: 为什么你的孩子特别多动
+    year: '1988'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jum72vlpcg24b7rdxru7g32maxka/specail-education-material%2Fbooks%2F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E7%89%B9%E5%88%AB%E5%A4%9A%E5%8A%A8_13055381.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285db6a682492fcc340a4a.png
+  - index: '10001008'
+    utime: 1680369230
+    type: book
+    name: 注意力不能集中的孩子-ADHD有关“多动”的问与答
+    year: '2001'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jumvgomlq7wyot3czwxpnpt4ppzq/specail-education-material%2Fbooks%2F%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%83%BD%E9%9B%86%E4%B8%AD%E7%9A%84%E5%AD%A9%E5%AD%90-ADHD%E6%9C%89%E5%85%B3%E2%80%9C%E5%A4%9A%E5%8A%A8%E2%80%9D%E7%9A%84%E9%97%AE%E4%B8%8E%E7%AD%94_12393644.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285e0da682492fcc35067f.png
+  - index: '10001009'
+    utime: 1680369230
+    type: book
+    name: 多动症与学习困难
+    year: '2001'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/juja3mf5363mmqq5obxzfc6nnurq/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87%E4%B8%8E%E5%AD%A6%E4%B9%A0%E5%9B%B0%E9%9A%BE_12393646.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285be0a682492fcc30a224.png
+  - index: '10001010'
+    utime: 1680369230
+    type: book
+    name: 如何帮助多动的孩子--多动、注意力分散、易冲动儿童的治疗与矫正
+    year: '2006'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwxu4vv7ju2qwoz23vwskcheuezq/specail-education-material%2Fbooks%2F%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E5%A4%9A%E5%8A%A8%E7%9A%84%E5%AD%A9%E5%AD%90--%E5%A4%9A%E5%8A%A8%E3%80%81%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%88%86%E6%95%A3%E3%80%81%E6%98%93%E5%86%B2%E5%8A%A8%E5%84%BF%E7%AB%A5%E7%9A%84%E6%B2%BB%E7%96%97%E4%B8%8E%E7%9F%AB%E6%AD%A3_12393647.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285caca682492fcc320be4.png
+  - index: '10001011'
+    utime: 1680369230
+    type: book
+    name: 如何养育多动症孩子--给父母的权威完全指导
+    year: '2016'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwrcn77rfnvr4bydbqn5qxvr2u7q/specail-education-material%2Fbooks%2F%E5%A6%82%E4%BD%95%E5%85%BB%E8%82%B2%E5%A4%9A%E5%8A%A8%E7%97%87%E5%AD%A9%E5%AD%90--%E7%BB%99%E7%88%B6%E6%AF%8D%E7%9A%84%E6%9D%83%E5%A8%81%E5%AE%8C%E5%85%A8%E6%8C%87%E5%AF%BC_13959092.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285d92a682492fcc339ae5.png
+  - index: '10001012'
+    utime: 1680369230
+    type: book
+    name: 自我治疗小儿多动症
+    year: '2012'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/ju2qyj4d6eh2hqvid3h3sqvks76q/specail-education-material%2Fbooks%2F%E8%87%AA%E6%88%91%E6%B2%BB%E7%96%97%E5%B0%8F%E5%84%BF%E5%A4%9A%E5%8A%A8%E7%97%87_13227465.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285e0ea682492fcc350703.png
+  - index: '10001013'
+    utime: 1680369230
+    type: book
+    name: 家有顽童--44招教养多动症孩子
+    year: '2011'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxq3ywbfjw6ex3yvfp35hd3kuwda/specail-education-material%2Fbooks%2F%E5%AE%B6%E6%9C%89%E9%A1%BD%E7%AB%A5--44%E6%8B%9B%E6%95%99%E5%85%BB%E5%A4%9A%E5%8A%A8%E7%97%87%E5%AD%A9%E5%AD%90_12807943.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c54a682492fcc314e14.png
+  - index: '10001014'
+    utime: 1680369230
+    type: book
+    name: 如果你的孩子有多动症--儿童多动症的家庭防治与康复
+    year: '2002'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvwjgkowyaczitpvy7s7h33zrpla/specail-education-material%2Fbooks%2F%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9C%89%E5%A4%9A%E5%8A%A8%E7%97%87--%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E5%AE%B6%E5%BA%AD%E9%98%B2%E6%B2%BB%E4%B8%8E%E5%BA%B7%E5%A4%8D_12827127.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285caba682492fcc320984.png
+  - index: '10001015'
+    utime: 1680369230
+    type: book
+    name: 青少年多动症练习手册
+    year: '2018'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvteymqpfdzr3loi2x7u7vnqplka/specail-education-material%2Fbooks%2F%E9%9D%92%E5%B0%91%E5%B9%B4%E5%A4%9A%E5%8A%A8%E7%97%87%E7%BB%83%E4%B9%A0%E6%89%8B%E5%86%8C_14363732.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285caaa682492fcc32087b.png
+  - index: '10001016'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症临床治疗学--第3版
+    year: '2019'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jusfwugsjtl5v6yj7k33js3vptpa/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E4%B8%B4%E5%BA%8A%E6%B2%BB%E7%96%97%E5%AD%A6--%E7%AC%AC3%E7%89%88_14590513.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c20a682492fcc3100d9.png
+  - index: '10001017'
+    utime: 1680369230
+    type: book
+    name: 多动症儿童的科学教养--写给多动症儿童的父母--第2版
+    year: '2018'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jufzo6xhsvi55uxusfgsdthmkqga/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87%E5%84%BF%E7%AB%A5%E7%9A%84%E7%A7%91%E5%AD%A6%E6%95%99%E5%85%BB--%E5%86%99%E7%BB%99%E5%A4%9A%E5%8A%A8%E7%97%87%E5%84%BF%E7%AB%A5%E7%9A%84%E7%88%B6%E6%AF%8D--%E7%AC%AC2%E7%89%88_14632526.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bd5a682492fcc308442.png
+  - index: '10001018'
+    utime: 1680369230
+    type: book
+    name: 多动症的心理研究与矫治
+    year: '2012'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwfvtwmsufj6nqb74qnurlqu4zta/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E5%BF%83%E7%90%86%E7%A0%94%E7%A9%B6%E4%B8%8E%E7%9F%AB%E6%B2%BB_13227491.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bd5a682492fcc30837e.png
+  - index: '10001019'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症
+    year: '2004'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvcrjacke7qgxaiurdwzyr67ojyq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_11343317.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bf0a682492fcc30c1ea.png
+  - index: '10001020'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症
+    year: '1993'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jut7uk5drpn75mansagaxlquj5ia/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_11539796.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bf4a682492fcc30c5da.png
+  - index: '10001021'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症--抽动-秽语综合征防治300问
+    year: '1998'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwntdz4mlazcstdlmbrdhfpzbpuq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87--%E6%8A%BD%E5%8A%A8-%E7%A7%BD%E8%AF%AD%E7%BB%BC%E5%90%88%E5%BE%81%E9%98%B2%E6%B2%BB300%E9%97%AE_10456495.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c06a682492fcc30e005.png
+  - index: '10001022'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症防治
+    year: '1998'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jv46ezbntihgteanzftjr3fsf65q/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E9%98%B2%E6%B2%BB_11510301.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c18a682492fcc30f62b.png
+  - index: '10001023'
+    utime: 1680369230
+    type: book
+    name: 多动儿养育完全指南
+    year: '2003'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvuudf4zvslkifswprrpon65mtcq/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E5%84%BF%E5%85%BB%E8%82%B2%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97_11645829.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bd4a682492fcc30817b.png
+  - index: '10001024'
+    utime: 1680369230
+    type: book
+    name: 多动症儿童心理辅导
+    year: '2006'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxk7bxtx3mjpb5v6pbynvizcyiga/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E7%97%87%E5%84%BF%E7%AB%A5%E5%BF%83%E7%90%86%E8%BE%85%E5%AF%BC_11778107.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285bdfa682492fcc309ffa.png
+  - index: '10001025'
+    utime: 1680369230
+    type: book
+    name: 教您防治儿童多动症
+    year: '2003'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jveaqzwjfce4zmvraoer7zq6qurq/specail-education-material%2Fbooks%2F%E6%95%99%E6%82%A8%E9%98%B2%E6%B2%BB%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_11510359.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c8ba682492fcc31acbc.png
+  - index: '10001026'
+    utime: 1680369230
+    type: book
+    name: 小儿多动症的自我疗法
+    year: '2006'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxugsfe77qb7zi7dvaus6tqurr2q/specail-education-material%2Fbooks%2F%E5%B0%8F%E5%84%BF%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E8%87%AA%E6%88%91%E7%96%97%E6%B3%95_11930339.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285de7a682492fcc34a00a.png
+  - index: '10001027'
+    utime: 1680369230
+    type: book
+    name: 远离儿童多动症·抽动症
+    year: '2008'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvlm5jnagabpmebwbws3lzlhvc7a/specail-education-material%2Fbooks%2F%E8%BF%9C%E7%A6%BB%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%C2%B7%E6%8A%BD%E5%8A%A8%E7%97%87_11959135.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285deca682492fcc34acfb.png
+  - index: '10001028'
+    utime: 1680369230
+    type: book
+    name: 中西医结合慢性病防治指导与自我管理丛书--儿童多动症
+    year: '2017'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/ju7kzfgso7vnnmn3mwdieaxzs6tq/specail-education-material%2Fbooks%2F%E4%B8%AD%E8%A5%BF%E5%8C%BB%E7%BB%93%E5%90%88%E6%85%A2%E6%80%A7%E7%97%85%E9%98%B2%E6%B2%BB%E6%8C%87%E5%AF%BC%E4%B8%8E%E8%87%AA%E6%88%91%E7%AE%A1%E7%90%86%E4%B8%9B%E4%B9%A6--%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_14348648.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285df2a682492fcc34c008.png
+  - index: '10001029'
+    utime: 1680369230
+    type: book
+    name: 专家解答多动症
+    year: '2005'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwkvrj423flfdzroi32rv6hsrvya/specail-education-material%2Fbooks%2F%E4%B8%93%E5%AE%B6%E8%A7%A3%E7%AD%94%E5%A4%9A%E5%8A%A8%E7%97%87_11408336.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285e0da682492fcc350699.png
+  - index: '10001030'
+    utime: 1680369230
+    type: book
+    name: 专家与您面对面--儿童多动症
+    year: '2016'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwenkvot7zm7oxi6db46m6n2nvua/specail-education-material%2Fbooks%2F%E4%B8%93%E5%AE%B6%E4%B8%8E%E6%82%A8%E9%9D%A2%E5%AF%B9%E9%9D%A2--%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_13962628.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285e0da682492fcc3506cb.png
+  - index: '10001031'
+    utime: 1680369230
+    type: book
+    name: 帮助儿童克服“多动症”
+    year: '2000'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxbxqggh3eju4dclhbcucbfax3pa/specail-education-material%2Fbooks%2F%E5%B8%AE%E5%8A%A9%E5%84%BF%E7%AB%A5%E5%85%8B%E6%9C%8D%E2%80%9C%E5%A4%9A%E5%8A%A8%E7%97%87%E2%80%9D_11457269.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285ba2a682492fcc303d53.png
+  - index: '10001032'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症-轻微脑机能障碍MBD
+    year: '1982'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxg65apbfh35cs3jzvqhvt73pgwq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87-%E8%BD%BB%E5%BE%AE%E8%84%91%E6%9C%BA%E8%83%BD%E9%9A%9C%E7%A2%8DMBD_10820430.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c51a682492fcc314976.png
+  - index: '10001033'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症临床治疗学
+    year: '1990'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwimtgbm7ppdbgf2a2tkspglewgq/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E4%B8%B4%E5%BA%8A%E6%B2%BB%E7%96%97%E5%AD%A6_10535268.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c20a682492fcc3100a4.png
+  - index: '10001034'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症防治问答注意力不集中
+    year: '1999'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jwhqzbsxsfkqelswojherkdbq36a/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E9%98%B2%E6%B2%BB%E9%97%AE%E7%AD%94%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E9%9B%86%E4%B8%AD_13426751.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c1aa682492fcc30f896.png
+  - index: '10001035'
+    utime: 1680369230
+    type: book
+    name: 童年多动综合征
+    year: '1984'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jv7y2ogvdwgvonihykc2rimm3zmq/specail-education-material%2Fbooks%2F%E7%AB%A5%E5%B9%B4%E5%A4%9A%E5%8A%A8%E7%BB%BC%E5%90%88%E5%BE%81_10820431.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285d97a682492fcc33a922.png
+  - index: '10001036'
+    utime: 1680369230
+    type: book
+    name: 多动儿父母必读
+    year: '2002'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxxwc54vooq2ryitv2penaqbzyzq/specail-education-material%2Fbooks%2F%E5%A4%9A%E5%8A%A8%E5%84%BF%E7%88%B6%E6%AF%8D%E5%BF%85%E8%AF%BB_10878558.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285baaa682492fcc304876.png
+  - index: '10001037'
+    utime: 1680369230
+    type: book
+    name: 儿童多动症的研究
+    year: '1983'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jxdqwwaf4efmagtwdavnkxfusbpa/specail-education-material%2Fbooks%2F%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87%E7%9A%84%E7%A0%94%E7%A9%B6_10820432.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c06a682492fcc30e054.png
+  - index: '10001038'
+    utime: 1680369230
+    type: book
+    name: 中医教您防治儿童多动症
+    year: '2005'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jviuwlsy4eufh4k6sbw7nugganeq/specail-education-material%2Fbooks%2F%E4%B8%AD%E5%8C%BB%E6%95%99%E6%82%A8%E9%98%B2%E6%B2%BB%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_11508881.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285e0da682492fcc35065f.png
+  - index: '10001039'
+    utime: 1680369230
+    type: book
+    name: 解析儿童多动症
+    year: '2009'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jw7krlek7mndaipp76e72rdosjlq/specail-education-material%2Fbooks%2F%E8%A7%A3%E6%9E%90%E5%84%BF%E7%AB%A5%E5%A4%9A%E5%8A%A8%E7%97%87_12181128.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285ca9a682492fcc320799.png
+  - index: '10001040'
+    utime: 1680369230
+    type: book
+    name: 家有顽童--孩子有了多动症怎么办
+    year: '2018'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jx6aksjdalgegbz5gayq55dkmtdq/specail-education-material%2Fbooks%2F%E5%AE%B6%E6%9C%89%E9%A1%BD%E7%AB%A5--%E5%AD%A9%E5%AD%90%E6%9C%89%E4%BA%86%E5%A4%9A%E5%8A%A8%E7%97%87%E6%80%8E%E4%B9%88%E5%8A%9E_14678158.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285c54a682492fcc314e83.png
+  - index: '10001041'
+    utime: 1680369230
+    type: book
+    name: 幼儿园如何接纳特殊需要儿童--融合教育工作经验篇
+    year: '2011'
+    urls:
+    - book_vendor: storj
+      book_url: https://link.storjshare.io/jvjdn5wfdsuzu22zta3ml5runjzq/specail-education-material%2Fbooks%2F%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A6%82%E4%BD%95%E6%8E%A5%E7%BA%B3%E7%89%B9%E6%AE%8A%E9%9C%80%E8%A6%81%E5%84%BF%E7%AB%A5--%E8%9E%8D%E5%90%88%E6%95%99%E8%82%B2%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E7%AF%87_13111999.pdf
+    covers:
+    - cover_vendor: superbed
+      cover_url: https://pic.imgdb.cn/item/64285deba682492fcc34ac6f.png
   - index: '20000001'
     utime: '1680162689'
     type: scale
