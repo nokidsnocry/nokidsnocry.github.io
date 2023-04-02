@@ -1,13 +1,11 @@
 metadata:
   type: ['book', 'scale', 'document', 'law', 'video', 'website', 'textbook']
-  type-chinese: [['书籍', 962], ['量表', 23], ['文档', 20], ['法规', 18], ['视频', 1], ['网站', 0], ['教材', 40]]
+  type-chinese: [['书籍', 962], ['量表', 23], ['文档', 20], ['法规', 18], ['教材', 40]]
   type-description:
     - '包含了关于某一主题的系统性知识'
     - '用于鉴定、评估以及诊断的工具'
     - '包含了关于某一主题的碎片化或纲领性的知识，其中包括ppt格式'
     - '国家层面的政策性法律法规以及相关标准'
-    - '相关的在线视频'
-    - '各领域的权威网站和相关工具网站'
     - '特殊教育学校使用的教材电子版'
   keywords: ['index', 'utime', 'name', 'author', 'year', 'pages', 'type', 'urls', 'covers', 'description']
 
@@ -14013,16 +14011,6 @@ content:
     covers:
     - cover_vendor: superbed
       cover_url: https://pic.imgdb.cn/item/6382397b16f2c2beb17be055.png
-  - index: '50000001'
-    utime: '1680162689'
-    type: video
-    name: 图片交换沟通系统（PECS）教学视频
-    urls:
-    - book_vendor: storj
-      book_url: https://link.storjshare.io/jv4hoqde7vidorqezrlntx3dthsa/specail-education-material%2Fvideo%2F%E5%9B%BE%E7%89%87%E4%BA%A4%E6%8D%A2%E6%B2%9F%E9%80%9A%E7%B3%BB%E7%BB%9F%EF%BC%88PECS%EF%BC%89%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91.7z
-    covers:
-    - cover_vendor: superbed
-      cover_url: https://pic.imgdb.cn/item/63959479b1fccdcd36623350.jpg
   - index: '70000001'
     utime: '1680162689'
     type: textbook
