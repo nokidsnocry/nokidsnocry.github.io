@@ -1,6 +1,6 @@
 metadata:
   type: ['book', 'scale', 'document', 'law', 'textbook']
-  type-chinese: [['书籍', 962], ['量表', 23], ['文档', 20], ['法规', 18], ['教材', 40]]
+  type-chinese: [['书籍', 962], ['量表', 28], ['文档', 20], ['法规', 18], ['教材', 40]]
   type-description:
     - '包含了关于某一主题的系统性知识'
     - '用于鉴定、评估以及诊断的工具'
