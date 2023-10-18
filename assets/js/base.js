@@ -6,6 +6,8 @@ const eleMaterials = document.querySelector('#materials');
 const eleMaterialContainers = document.querySelectorAll('.material-container');
 const eleNoResult = document.querySelector('#no-result');
 const eleLoading = document.querySelector('#loading');
+const eleModal = document.querySelector('#modal');
+const eleModalButton = document.querySelector('#modal button');
 
 
 function searchMaterial() {
@@ -150,6 +152,21 @@ function setContainerHeight() {
     eleContainer.style.height = (height - 60) + 'px';
 }
 
+function displayModal() {
+  eleModal.style.display = 'block';
+  setTimeout(() => {
+    eleModal.classList.add('animate');
+    eleContainer.style.filter = 'blur(10px)';
+  }, 100)
+  eleModalButton.addEventListener('click', () => {
+    eleModal.classList.remove('animate');
+    setTimeout(() => {
+      eleContainer.style.filter = 'blur(0px)';
+      eleModal.style.display = 'none';
+    }, 800);
+  })
+}
+
 searchMaterial();
 displayAbout();
 adjustSearchBoxLength()
@@ -157,3 +174,4 @@ setNewBanner();
 goHome();
 customScrollbar();
 setContainerHeight();
+displayModal();
