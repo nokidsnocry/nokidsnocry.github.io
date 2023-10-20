@@ -1,5 +1,6 @@
 <div id='container'>
 <div id='materials'>
+    {% assign file_url_prefix = site.data.material.metadata.file_url_prefix %}
     {% for item in site.data.material.content %}
         {% case item.type %}
         {% when 'book' %}
@@ -58,7 +59,8 @@
                     {% else %}
                         <span>🔑预览/下载:</span>
                         {% for url in item.urls %}
-                            <a href="{{ url.book_url }}" target='_blank'>{{ url.book_vendor }}</a>
+                            <a href="{{ file_url_prefix }}{{ item.url_path }}" target='_blank'>链接①</a>
+                            <a href="{{ url.book_url }}" target='_blank'>链接②</a>
                         {% endfor %}
                     {% endif %}
                 </div>
