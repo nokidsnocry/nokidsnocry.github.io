@@ -1,12 +1,13 @@
 metadata:
-  type: ['book', 'scale', 'document', 'law', 'textbook']
-  type_chinese: [['书籍', 962], ['量表', 28], ['文档', 20], ['法规', 18], ['教材', 40]]
+  type: ['book', 'scale', 'document', 'law', 'textbook', 'reference_book']
+  type_chinese: [['书籍', 962], ['量表', 28], ['文档', 20], ['法规', 18], ['教材', 40], ['教辅', 361]]
   type_description:
     - '包含了关于某一主题的系统性知识'
     - '用于鉴定、评估以及诊断的工具'
     - '包含了关于某一主题的碎片化或纲领性的知识，其中包括ppt格式'
     - '国家层面的政策性法律法规以及相关标准'
     - '特殊教育学校使用的教材电子版'
+    - '用于课堂教学的参考资料和辅助教材'
   keywords: ['index', 'utime', 'name', 'author', 'year', 'pages', 'type', 'urls', 'covers', 'description']
   file_url_prefix: 'https://link.storjshare.io/s/jw2a4qfovtdkffq2ofeobuxpfloq/specail-education-material'
 
@@ -15628,3 +15629,2891 @@ content:
   - book_url: https://link.storjshare.io/jue4q45tnuzqnouhxxigrkjcpubq/specail-education-material/textbook/聋校义务教育实验教科书沟通与交往四年级下册.pdf
     book_vendor: storj
   utime: '1680162689'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3633c458853aef8d70cf.png
+    cover_vendor: superbed
+  index: '80000001'
+  name: 音乐美术幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/音乐美术幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3633c458853aef8d7048.png
+    cover_vendor: superbed
+  index: '80000002'
+  name: 音乐美术小班下册
+  type: reference_book
+  url_path: /reference_book/音乐美术小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3632c458853aef8d6f96.png
+    cover_vendor: superbed
+  index: '80000003'
+  name: 黄金早教智能开发课程教师参考书开心数学下册
+  type: reference_book
+  url_path: /reference_book/黄金早教智能开发课程教师参考书开心数学下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3632c458853aef8d6f1f.png
+    cover_vendor: superbed
+  index: '80000004'
+  name: 黄金早教智能开发课程教师参考书开心数学上册
+  type: reference_book
+  url_path: /reference_book/黄金早教智能开发课程教师参考书开心数学上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3632c458853aef8d6e4e.png
+    cover_vendor: superbed
+  index: '80000005'
+  name: 音乐美术幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/音乐美术幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3629c458853aef8d4f07.png
+    cover_vendor: superbed
+  index: '80000006'
+  name: 音乐美术中班下册
+  type: reference_book
+  url_path: /reference_book/音乐美术中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3629c458853aef8d4e5d.png
+    cover_vendor: superbed
+  index: '80000007'
+  name: 音乐美术中班上册
+  type: reference_book
+  url_path: /reference_book/音乐美术中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3629c458853aef8d4dca.png
+    cover_vendor: superbed
+  index: '80000008'
+  name: 音乐美术小班上册
+  type: reference_book
+  url_path: /reference_book/音乐美术小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3629c458853aef8d4d28.png
+    cover_vendor: superbed
+  index: '80000009'
+  name: 音乐美术大班下册
+  type: reference_book
+  url_path: /reference_book/音乐美术大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3629c458853aef8d4c74.png
+    cover_vendor: superbed
+  index: '80000010'
+  name: 音乐美术大班上册
+  type: reference_book
+  url_path: /reference_book/音乐美术大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c361cc458853aef8d1832.png
+    cover_vendor: superbed
+  index: '80000011'
+  name: 语言表达小班下册
+  type: reference_book
+  url_path: /reference_book/语言表达小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c361cc458853aef8d1797.png
+    cover_vendor: superbed
+  index: '80000012'
+  name: 语言表达小班上册
+  type: reference_book
+  url_path: /reference_book/语言表达小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c361bc458853aef8d16ee.png
+    cover_vendor: superbed
+  index: '80000013'
+  name: 语言表达幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/语言表达幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c361bc458853aef8d15aa.png
+    cover_vendor: superbed
+  index: '80000014'
+  name: 语言表达幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/语言表达幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c361bc458853aef8d14d4.png
+    cover_vendor: superbed
+  index: '80000015'
+  name: 语言表达幼小衔接
+  type: reference_book
+  url_path: /reference_book/语言表达幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3615c458853aef8cfdc7.png
+    cover_vendor: superbed
+  index: '80000016'
+  name: 语言表达大班
+  type: reference_book
+  url_path: /reference_book/语言表达大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3615c458853aef8cfd03.png
+    cover_vendor: superbed
+  index: '80000017'
+  name: 语言表达中班下册
+  type: reference_book
+  url_path: /reference_book/语言表达中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3614c458853aef8cfa13.png
+    cover_vendor: superbed
+  index: '80000018'
+  name: 语言表达小班
+  type: reference_book
+  url_path: /reference_book/语言表达小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3613c458853aef8cf5d8.png
+    cover_vendor: superbed
+  index: '80000019'
+  name: 语言表达大班下册
+  type: reference_book
+  url_path: /reference_book/语言表达大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3613c458853aef8cf56a.png
+    cover_vendor: superbed
+  index: '80000020'
+  name: 语言表达大班上册
+  type: reference_book
+  url_path: /reference_book/语言表达大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f9c458853aef8c99e6.png
+    cover_vendor: superbed
+  index: '80000021'
+  name: 语言学前班测试A卷
+  type: reference_book
+  url_path: /reference_book/语言学前班测试A卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f9c458853aef8c98b4.png
+    cover_vendor: superbed
+  index: '80000022'
+  name: 语言大班测试B卷
+  type: reference_book
+  url_path: /reference_book/语言大班测试B卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f9c458853aef8c978b.png
+    cover_vendor: superbed
+  index: '80000023'
+  name: 语言表达中班上册
+  type: reference_book
+  url_path: /reference_book/语言表达中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f8c458853aef8c96c9.png
+    cover_vendor: superbed
+  index: '80000024'
+  name: 语言表达中班
+  type: reference_book
+  url_path: /reference_book/语言表达中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f8c458853aef8c9627.png
+    cover_vendor: superbed
+  index: '80000025'
+  name: 语言学前班测试B卷
+  type: reference_book
+  url_path: /reference_book/语言学前班测试B卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f5c458853aef8c885d.png
+    cover_vendor: superbed
+  index: '80000026'
+  name: 艺术创作中班
+  type: reference_book
+  url_path: /reference_book/艺术创作中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f5c458853aef8c877c.png
+    cover_vendor: superbed
+  index: '80000027'
+  name: 语言大班测试A卷
+  type: reference_book
+  url_path: /reference_book/语言大班测试A卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f4c458853aef8c85fb.png
+    cover_vendor: superbed
+  index: '80000028'
+  name: 艺术创作幼小衔接
+  type: reference_book
+  url_path: /reference_book/艺术创作幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f4c458853aef8c8545.png
+    cover_vendor: superbed
+  index: '80000029'
+  name: 艺术创作小班
+  type: reference_book
+  url_path: /reference_book/艺术创作小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35f4c458853aef8c84cf.png
+    cover_vendor: superbed
+  index: '80000030'
+  name: 艺术创作大班
+  type: reference_book
+  url_path: /reference_book/艺术创作大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e9c458853aef8c5fdf.png
+    cover_vendor: superbed
+  index: '80000031'
+  name: 科学自然幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/科学自然幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e9c458853aef8c5f28.png
+    cover_vendor: superbed
+  index: '80000032'
+  name: 科学自然小班下册
+  type: reference_book
+  url_path: /reference_book/科学自然小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e9c458853aef8c5e20.png
+    cover_vendor: superbed
+  index: '80000033'
+  name: 聪明宝宝学拼音下册
+  type: reference_book
+  url_path: /reference_book/聪明宝宝学拼音下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e9c458853aef8c5d45.png
+    cover_vendor: superbed
+  index: '80000034'
+  name: 聪明宝宝学拼音上册
+  type: reference_book
+  url_path: /reference_book/聪明宝宝学拼音上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e8c458853aef8c5c9c.png
+    cover_vendor: superbed
+  index: '80000035'
+  name: 科学自然幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/科学自然幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e3c458853aef8c493c.png
+    cover_vendor: superbed
+  index: '80000036'
+  name: 科学自然中班下册
+  type: reference_book
+  url_path: /reference_book/科学自然中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e3c458853aef8c4863.png
+    cover_vendor: superbed
+  index: '80000037'
+  name: 科学自然中班上册
+  type: reference_book
+  url_path: /reference_book/科学自然中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e3c458853aef8c476f.png
+    cover_vendor: superbed
+  index: '80000038'
+  name: 科学自然小班上册
+  type: reference_book
+  url_path: /reference_book/科学自然小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e3c458853aef8c46b3.png
+    cover_vendor: superbed
+  index: '80000039'
+  name: 科学自然大班下册
+  type: reference_book
+  url_path: /reference_book/科学自然大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35e3c458853aef8c4611.png
+    cover_vendor: superbed
+  index: '80000040'
+  name: 科学自然大班上册
+  type: reference_book
+  url_path: /reference_book/科学自然大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35dcc458853aef8c2d29.png
+    cover_vendor: superbed
+  index: '80000041'
+  name: 科学探索中班
+  type: reference_book
+  url_path: /reference_book/科学探索中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35dcc458853aef8c2c42.png
+    cover_vendor: superbed
+  index: '80000042'
+  name: 社会礼仪幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/社会礼仪幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35dcc458853aef8c2b33.png
+    cover_vendor: superbed
+  index: '80000043'
+  name: 科学探索幼小衔接
+  type: reference_book
+  url_path: /reference_book/科学探索幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35dcc458853aef8c2a71.png
+    cover_vendor: superbed
+  index: '80000044'
+  name: 科学探索小班
+  type: reference_book
+  url_path: /reference_book/科学探索小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35dbc458853aef8c29cd.png
+    cover_vendor: superbed
+  index: '80000045'
+  name: 科学探索大班
+  type: reference_book
+  url_path: /reference_book/科学探索大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35d4c458853aef8c0c7a.png
+    cover_vendor: superbed
+  index: '80000046'
+  name: 社会礼仪大班下册
+  type: reference_book
+  url_path: /reference_book/社会礼仪大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35d4c458853aef8c0b9e.png
+    cover_vendor: superbed
+  index: '80000047'
+  name: 社会礼仪大班上册
+  type: reference_book
+  url_path: /reference_book/社会礼仪大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35d4c458853aef8c0a80.png
+    cover_vendor: superbed
+  index: '80000048'
+  name: 社会礼仪幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/社会礼仪幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35d4c458853aef8c0960.png
+    cover_vendor: superbed
+  index: '80000049'
+  name: 社会礼仪小班下册
+  type: reference_book
+  url_path: /reference_book/社会礼仪小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35d3c458853aef8c08aa.png
+    cover_vendor: superbed
+  index: '80000050'
+  name: 社会礼仪小班上册
+  type: reference_book
+  url_path: /reference_book/社会礼仪小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35cdc458853aef8beeaf.png
+    cover_vendor: superbed
+  index: '80000051'
+  name: 社会交往小班
+  type: reference_book
+  url_path: /reference_book/社会交往小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35cdc458853aef8bee21.png
+    cover_vendor: superbed
+  index: '80000052'
+  name: 社会交往大班
+  type: reference_book
+  url_path: /reference_book/社会交往大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35ccc458853aef8bed70.png
+    cover_vendor: superbed
+  index: '80000053'
+  name: 社会礼仪中班下册
+  type: reference_book
+  url_path: /reference_book/社会礼仪中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35ccc458853aef8bec4b.png
+    cover_vendor: superbed
+  index: '80000054'
+  name: 社会礼仪中班上册
+  type: reference_book
+  url_path: /reference_book/社会礼仪中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35ccc458853aef8beb99.png
+    cover_vendor: superbed
+  index: '80000055'
+  name: 社会交往幼小衔接
+  type: reference_book
+  url_path: /reference_book/社会交往幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35c4c458853aef8bd195.png
+    cover_vendor: superbed
+  index: '80000056'
+  name: 玩转英语6
+  type: reference_book
+  url_path: /reference_book/玩转英语6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35c4c458853aef8bd0ae.png
+    cover_vendor: superbed
+  index: '80000057'
+  name: 玩转英语5
+  type: reference_book
+  url_path: /reference_book/玩转英语5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35c4c458853aef8bcf94.png
+    cover_vendor: superbed
+  index: '80000058'
+  name: 社会交往中班
+  type: reference_book
+  url_path: /reference_book/社会交往中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35c4c458853aef8bcea6.png
+    cover_vendor: superbed
+  index: '80000059'
+  name: 玩转英语8
+  type: reference_book
+  url_path: /reference_book/玩转英语8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35c3c458853aef8bcdc7.png
+    cover_vendor: superbed
+  index: '80000060'
+  name: 玩转英语7
+  type: reference_book
+  url_path: /reference_book/玩转英语7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35bec458853aef8bbb14.png
+    cover_vendor: superbed
+  index: '80000061'
+  name: 玩转英语1
+  type: reference_book
+  url_path: /reference_book/玩转英语1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35bec458853aef8bba54.png
+    cover_vendor: superbed
+  index: '80000062'
+  name: 智慧宝宝黄金早教教师参考书小班下册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35bec458853aef8bb97c.png
+    cover_vendor: superbed
+  index: '80000063'
+  name: 玩转英语4
+  type: reference_book
+  url_path: /reference_book/玩转英语4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35bec458853aef8bb8a3.png
+    cover_vendor: superbed
+  index: '80000064'
+  name: 玩转英语3
+  type: reference_book
+  url_path: /reference_book/玩转英语3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35bdc458853aef8bb7bb.png
+    cover_vendor: superbed
+  index: '80000065'
+  name: 玩转英语2
+  type: reference_book
+  url_path: /reference_book/玩转英语2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35b7c458853aef8b9fcf.png
+    cover_vendor: superbed
+  index: '80000066'
+  name: 智慧宝宝黄金早教教师参考书大班下册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35b7c458853aef8b9f1c.png
+    cover_vendor: superbed
+  index: '80000067'
+  name: 智慧宝宝黄金早教教师参考书大班上册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35b7c458853aef8b9ea5.png
+    cover_vendor: superbed
+  index: '80000068'
+  name: 智慧宝宝黄金早教教师参考书小班上册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35b6c458853aef8b9e17.png
+    cover_vendor: superbed
+  index: '80000069'
+  name: 智慧宝宝黄金早教教师参考书学前班下册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书学前班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35b6c458853aef8b9d9e.png
+    cover_vendor: superbed
+  index: '80000070'
+  name: 智慧宝宝黄金早教教师参考书学前班上册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书学前班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35afc458853aef8b8551.png
+    cover_vendor: superbed
+  index: '80000071'
+  name: 春雨幼教·幼小衔接整合教材识字上册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材识字上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35afc458853aef8b8499.png
+    cover_vendor: superbed
+  index: '80000072'
+  name: 春雨幼教·幼小衔接整合教材英语下册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材英语下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35afc458853aef8b83cc.png
+    cover_vendor: superbed
+  index: '80000073'
+  name: 智慧宝宝黄金早教教师参考书中班下册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35afc458853aef8b8351.png
+    cover_vendor: superbed
+  index: '80000074'
+  name: 智慧宝宝黄金早教教师参考书中班上册
+  type: reference_book
+  url_path: /reference_book/智慧宝宝黄金早教教师参考书中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35afc458853aef8b82f0.png
+    cover_vendor: superbed
+  index: '80000075'
+  name: 春雨幼教·幼小衔接整合教材识字下册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材识字下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35a4c458853aef8b5d13.png
+    cover_vendor: superbed
+  index: '80000076'
+  name: 春雨幼教·幼小衔接整合教材拼音下册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材拼音下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35a4c458853aef8b5c1d.png
+    cover_vendor: superbed
+  index: '80000077'
+  name: 春雨幼教·幼小衔接整合教材拼音上册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材拼音上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35a3c458853aef8b5a80.png
+    cover_vendor: superbed
+  index: '80000078'
+  name: 春雨幼教·幼小衔接整合教材英语上册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材英语上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35a3c458853aef8b58b9.png
+    cover_vendor: superbed
+  index: '80000079'
+  name: 春雨幼教·幼小衔接整合教材数学下册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材数学下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c35a3c458853aef8b5713.png
+    cover_vendor: superbed
+  index: '80000080'
+  name: 春雨幼教·幼小衔接整合教材数学上册
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接整合教材数学上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3599c458853aef8b342b.png
+    cover_vendor: superbed
+  index: '80000081'
+  name: 春雨幼教·幼小衔接1日1练拼音①
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接1日1练拼音①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3599c458853aef8b33a6.png
+    cover_vendor: superbed
+  index: '80000082'
+  name: 数学学前班测试B卷
+  type: reference_book
+  url_path: /reference_book/数学学前班测试B卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3599c458853aef8b3238.png
+    cover_vendor: superbed
+  index: '80000083'
+  name: 春雨幼教·幼小衔接1日1练识字②
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接1日1练识字②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3598c458853aef8b317d.png
+    cover_vendor: superbed
+  index: '80000084'
+  name: 春雨幼教·幼小衔接1日1练识字①
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接1日1练识字①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3598c458853aef8b30e3.png
+    cover_vendor: superbed
+  index: '80000085'
+  name: 春雨幼教·幼小衔接1日1练拼音②
+  type: reference_book
+  url_path: /reference_book/春雨幼教·幼小衔接1日1练拼音②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3586c458853aef8aeb93.png
+    cover_vendor: superbed
+  index: '80000086'
+  name: 数学大班测试A卷
+  type: reference_book
+  url_path: /reference_book/数学大班测试A卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3585c458853aef8ae96e.png
+    cover_vendor: superbed
+  index: '80000087'
+  name: 拼音测试B卷
+  type: reference_book
+  url_path: /reference_book/拼音测试B卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3585c458853aef8ae729.png
+    cover_vendor: superbed
+  index: '80000088'
+  name: 拼音测试A卷
+  type: reference_book
+  url_path: /reference_book/拼音测试A卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3585c458853aef8ae5da.png
+    cover_vendor: superbed
+  index: '80000089'
+  name: 数学学前班测试A卷
+  type: reference_book
+  url_path: /reference_book/数学学前班测试A卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3584c458853aef8ae3bc.png
+    cover_vendor: superbed
+  index: '80000090'
+  name: 数学大班测试B卷
+  type: reference_book
+  url_path: /reference_book/数学大班测试B卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3254c458853aef7f274b.png
+    cover_vendor: superbed
+  index: '80000091'
+  name: 我要上名小-幼小衔接-数学二
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-数学二.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3253c458853aef7f258c.png
+    cover_vendor: superbed
+  index: '80000092'
+  name: 我要上名小-幼小衔接-数学三
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-数学三.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3253c458853aef7f2467.png
+    cover_vendor: superbed
+  index: '80000093'
+  name: 我要上名小-幼小衔接-语言二
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-语言二.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3253c458853aef7f2358.png
+    cover_vendor: superbed
+  index: '80000094'
+  name: 我要上名小-幼小衔接-语言一
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-语言一.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3252c458853aef7f22a3.png
+    cover_vendor: superbed
+  index: '80000095'
+  name: 我要上名小-幼小衔接-数学四
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-数学四.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3249c458853aef7f02d9.png
+    cover_vendor: superbed
+  index: '80000096'
+  name: 情景探索思维活动-操作册8
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3249c458853aef7f0210.png
+    cover_vendor: superbed
+  index: '80000097'
+  name: 我要上名小-幼小衔接-数学一
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-数学一.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3248c458853aef7f00b5.png
+    cover_vendor: superbed
+  index: '80000098'
+  name: 我要上名小-幼小衔接-拼音二
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-拼音二.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3248c458853aef7eff49.png
+    cover_vendor: superbed
+  index: '80000099'
+  name: 我要上名小-幼小衔接-拼音一
+  type: reference_book
+  url_path: /reference_book/我要上名小-幼小衔接-拼音一.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3248c458853aef7efe4a.png
+    cover_vendor: superbed
+  index: '80000100'
+  name: 我的第一本拼音书
+  type: reference_book
+  url_path: /reference_book/我的第一本拼音书.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c323cc458853aef7ed19f.png
+    cover_vendor: superbed
+  index: '80000101'
+  name: 情景探索思维活动-操作册4
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c323cc458853aef7ed09f.png
+    cover_vendor: superbed
+  index: '80000102'
+  name: 情景探索思维活动-操作册3
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c323cc458853aef7ecfc5.png
+    cover_vendor: superbed
+  index: '80000103'
+  name: 情景探索思维活动-操作册7
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c323bc458853aef7ecee4.png
+    cover_vendor: superbed
+  index: '80000104'
+  name: 情景探索思维活动-操作册6
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c323bc458853aef7ece3f.png
+    cover_vendor: superbed
+  index: '80000105'
+  name: 情景探索思维活动-操作册5
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3231c458853aef7ea32d.png
+    cover_vendor: superbed
+  index: '80000106'
+  name: 情景探索思维活动-亲子册7
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3231c458853aef7ea2bb.png
+    cover_vendor: superbed
+  index: '80000107'
+  name: 情景探索思维活动-亲子册6
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3231c458853aef7ea266.png
+    cover_vendor: superbed
+  index: '80000108'
+  name: 情景探索思维活动-操作册2
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3230c458853aef7ea165.png
+    cover_vendor: superbed
+  index: '80000109'
+  name: 情景探索思维活动-操作册1
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-操作册1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3230c458853aef7ea046.png
+    cover_vendor: superbed
+  index: '80000110'
+  name: 情景探索思维活动-亲子册8
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3228c458853aef7e80c8.png
+    cover_vendor: superbed
+  index: '80000111'
+  name: 情景探索思维活动-亲子册2
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3228c458853aef7e7fca.png
+    cover_vendor: superbed
+  index: '80000112'
+  name: 情景探索思维活动-亲子册1
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3228c458853aef7e7e1e.png
+    cover_vendor: superbed
+  index: '80000113'
+  name: 情景探索思维活动-亲子册5
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3227c458853aef7e7da1.png
+    cover_vendor: superbed
+  index: '80000114'
+  name: 情景探索思维活动-亲子册4
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3227c458853aef7e7d32.png
+    cover_vendor: superbed
+  index: '80000115'
+  name: 情景探索思维活动-亲子册3
+  type: reference_book
+  url_path: /reference_book/情景探索思维活动-亲子册3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c321fc458853aef7e5730.png
+    cover_vendor: superbed
+  index: '80000116'
+  name: 幼小衔接阶梯数学第5阶
+  type: reference_book
+  url_path: /reference_book/幼小衔接阶梯数学第5阶.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c321ec458853aef7e5643.png
+    cover_vendor: superbed
+  index: '80000117'
+  name: 幼小衔接阶梯数学第4阶
+  type: reference_book
+  url_path: /reference_book/幼小衔接阶梯数学第4阶.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c321ec458853aef7e5558.png
+    cover_vendor: superbed
+  index: '80000118'
+  name: 快乐拼音幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/快乐拼音幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c321ec458853aef7e53dd.png
+    cover_vendor: superbed
+  index: '80000119'
+  name: 快乐拼音幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/快乐拼音幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c321ec458853aef7e52e8.png
+    cover_vendor: superbed
+  index: '80000120'
+  name: 幼小衔接阶梯数学第6阶
+  type: reference_book
+  url_path: /reference_book/幼小衔接阶梯数学第6阶.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3216c458853aef7e2c89.png
+    cover_vendor: superbed
+  index: '80000121'
+  name: 幼小衔接语言测试卷2
+  type: reference_book
+  url_path: /reference_book/幼小衔接语言测试卷2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3215c458853aef7e2aa3.png
+    cover_vendor: superbed
+  index: '80000122'
+  name: 幼小衔接语言测试卷1
+  type: reference_book
+  url_path: /reference_book/幼小衔接语言测试卷1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3215c458853aef7e2944.png
+    cover_vendor: superbed
+  index: '80000123'
+  name: 幼小衔接阶梯数学第3阶
+  type: reference_book
+  url_path: /reference_book/幼小衔接阶梯数学第3阶.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3215c458853aef7e2882.png
+    cover_vendor: superbed
+  index: '80000124'
+  name: 幼小衔接阶梯数学第2阶
+  type: reference_book
+  url_path: /reference_book/幼小衔接阶梯数学第2阶.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3215c458853aef7e2817.png
+    cover_vendor: superbed
+  index: '80000125'
+  name: 幼小衔接阶梯数学第1阶
+  type: reference_book
+  url_path: /reference_book/幼小衔接阶梯数学第1阶.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c320bc458853aef7e0046.png
+    cover_vendor: superbed
+  index: '80000126'
+  name: 幼小衔接数学测试卷1
+  type: reference_book
+  url_path: /reference_book/幼小衔接数学测试卷1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c320bc458853aef7dffa4.png
+    cover_vendor: superbed
+  index: '80000127'
+  name: 幼小衔接拼音测试卷2
+  type: reference_book
+  url_path: /reference_book/幼小衔接拼音测试卷2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c320ac458853aef7dfe7f.png
+    cover_vendor: superbed
+  index: '80000128'
+  name: 幼小衔接数学测试卷4
+  type: reference_book
+  url_path: /reference_book/幼小衔接数学测试卷4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c320ac458853aef7dfd41.png
+    cover_vendor: superbed
+  index: '80000129'
+  name: 幼小衔接数学测试卷3
+  type: reference_book
+  url_path: /reference_book/幼小衔接数学测试卷3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c320ac458853aef7dfc6b.png
+    cover_vendor: superbed
+  index: '80000130'
+  name: 幼小衔接数学测试卷2
+  type: reference_book
+  url_path: /reference_book/幼小衔接数学测试卷2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31ffc458853aef7dd583.png
+    cover_vendor: superbed
+  index: '80000131'
+  name: 幼小衔接学前测试卷语言1
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷语言1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31ffc458853aef7dd4f3.png
+    cover_vendor: superbed
+  index: '80000132'
+  name: 幼小衔接拼音测试卷1
+  type: reference_book
+  url_path: /reference_book/幼小衔接拼音测试卷1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31ffc458853aef7dd3e3.png
+    cover_vendor: superbed
+  index: '80000133'
+  name: 幼小衔接学前测试卷语言②
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷语言②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31ffc458853aef7dd2bf.png
+    cover_vendor: superbed
+  index: '80000134'
+  name: 幼小衔接学前测试卷语言①
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷语言①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31fec458853aef7dd238.png
+    cover_vendor: superbed
+  index: '80000135'
+  name: 幼小衔接学前测试卷语言2
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷语言2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31f3c458853aef7da525.png
+    cover_vendor: superbed
+  index: '80000136'
+  name: 幼小衔接学前测试卷数学①
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31f3c458853aef7da472.png
+    cover_vendor: superbed
+  index: '80000137'
+  name: 幼小衔接学前测试卷数学4
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31f3c458853aef7da3f4.png
+    cover_vendor: superbed
+  index: '80000138'
+  name: 幼小衔接学前测试卷数学④
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31f3c458853aef7da33a.png
+    cover_vendor: superbed
+  index: '80000139'
+  name: 幼小衔接学前测试卷数学③
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31f3c458853aef7da279.png
+    cover_vendor: superbed
+  index: '80000140'
+  name: 幼小衔接学前测试卷数学②
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31e8c458853aef7d79af.png
+    cover_vendor: superbed
+  index: '80000141'
+  name: 幼小衔接学前测试卷拼音②
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷拼音②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31e8c458853aef7d78d6.png
+    cover_vendor: superbed
+  index: '80000142'
+  name: 幼小衔接学前测试卷拼音①
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷拼音①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31e8c458853aef7d7830.png
+    cover_vendor: superbed
+  index: '80000143'
+  name: 幼小衔接学前测试卷数学3
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31e8c458853aef7d779b.png
+    cover_vendor: superbed
+  index: '80000144'
+  name: 幼小衔接学前测试卷数学2
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31e8c458853aef7d7732.png
+    cover_vendor: superbed
+  index: '80000145'
+  name: 幼小衔接学前测试卷数学1
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷数学1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31e0c458853aef7d5b80.png
+    cover_vendor: superbed
+  index: '80000146'
+  name: 幼小衔接大练习：数学②
+  type: reference_book
+  url_path: /reference_book/幼小衔接大练习：数学②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31dfc458853aef7d595a.png
+    cover_vendor: superbed
+  index: '80000147'
+  name: 幼小衔接大练习：数学①
+  type: reference_book
+  url_path: /reference_book/幼小衔接大练习：数学①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31dec458853aef7d5699.png
+    cover_vendor: superbed
+  index: '80000148'
+  name: 幼小衔接学前测试卷拼音2
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷拼音2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31dec458853aef7d55f2.png
+    cover_vendor: superbed
+  index: '80000149'
+  name: 幼小衔接学前测试卷拼音1
+  type: reference_book
+  url_path: /reference_book/幼小衔接学前测试卷拼音1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31dec458853aef7d553a.png
+    cover_vendor: superbed
+  index: '80000150'
+  name: 幼小衔接大练习：语言
+  type: reference_book
+  url_path: /reference_book/幼小衔接大练习：语言.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31d2c458853aef7d26c3.png
+    cover_vendor: superbed
+  index: '80000151'
+  name: 幼小衔接培优课程：语言①同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：语言①同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31d2c458853aef7d265c.png
+    cover_vendor: superbed
+  index: '80000152'
+  name: 幼小衔接培优课程：语言①
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：语言①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31d2c458853aef7d25f8.png
+    cover_vendor: superbed
+  index: '80000153'
+  name: 幼小衔接大练习：拼音
+  type: reference_book
+  url_path: /reference_book/幼小衔接大练习：拼音.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31d1c458853aef7d23f6.png
+    cover_vendor: superbed
+  index: '80000154'
+  name: 幼小衔接培优课程：语言②同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：语言②同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31d1c458853aef7d23ac.png
+    cover_vendor: superbed
+  index: '80000155'
+  name: 幼小衔接培优课程：语言②
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：语言②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31c8c458853aef7d00a2.png
+    cover_vendor: superbed
+  index: '80000156'
+  name: 幼小衔接培优课程：识字①
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：识字①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31c8c458853aef7cffde.png
+    cover_vendor: superbed
+  index: '80000157'
+  name: 幼小衔接培优课程：数学②同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：数学②同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31c8c458853aef7cfee1.png
+    cover_vendor: superbed
+  index: '80000158'
+  name: 幼小衔接培优课程：识字②同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：识字②同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31c7c458853aef7cfe6d.png
+    cover_vendor: superbed
+  index: '80000159'
+  name: 幼小衔接培优课程：识字②
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：识字②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31c7c458853aef7cfdbf.png
+    cover_vendor: superbed
+  index: '80000160'
+  name: 幼小衔接培优课程：识字①同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：识字①同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31bcc458853aef7cd5b1.png
+    cover_vendor: superbed
+  index: '80000161'
+  name: 幼小衔接培优课程：拼音②同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：拼音②同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31bcc458853aef7cd533.png
+    cover_vendor: superbed
+  index: '80000162'
+  name: 幼小衔接培优课程：拼音②
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：拼音②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31bcc458853aef7cd4b6.png
+    cover_vendor: superbed
+  index: '80000163'
+  name: 幼小衔接培优课程：数学②
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：数学②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31bcc458853aef7cd418.png
+    cover_vendor: superbed
+  index: '80000164'
+  name: 幼小衔接培优课程：数学①同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：数学①同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31bcc458853aef7cd3a3.png
+    cover_vendor: superbed
+  index: '80000165'
+  name: 幼小衔接培优课程：数学①
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：数学①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31b5c458853aef7cb992.png
+    cover_vendor: superbed
+  index: '80000166'
+  name: 幼小衔接口算题卡⑤
+  type: reference_book
+  url_path: /reference_book/幼小衔接口算题卡⑤.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31b5c458853aef7cb8de.png
+    cover_vendor: superbed
+  index: '80000167'
+  name: 幼小衔接口算题卡④
+  type: reference_book
+  url_path: /reference_book/幼小衔接口算题卡④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31b5c458853aef7cb807.png
+    cover_vendor: superbed
+  index: '80000168'
+  name: 幼小衔接培优课程：拼音①同步练习
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：拼音①同步练习.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31b5c458853aef7cb7c6.png
+    cover_vendor: superbed
+  index: '80000169'
+  name: 幼小衔接培优课程：拼音①
+  type: reference_book
+  url_path: /reference_book/幼小衔接培优课程：拼音①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31b5c458853aef7cb747.png
+    cover_vendor: superbed
+  index: '80000170'
+  name: 幼小衔接口算题卡⑥
+  type: reference_book
+  url_path: /reference_book/幼小衔接口算题卡⑥.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31aac458853aef7c90bd.png
+    cover_vendor: superbed
+  index: '80000171'
+  name: 幼小衔接一日一练：语言②
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：语言②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31aac458853aef7c9009.png
+    cover_vendor: superbed
+  index: '80000172'
+  name: 幼小衔接一日一练：语言①
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：语言①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31aac458853aef7c8f91.png
+    cover_vendor: superbed
+  index: '80000173'
+  name: 幼小衔接口算题卡③
+  type: reference_book
+  url_path: /reference_book/幼小衔接口算题卡③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31aac458853aef7c8f0d.png
+    cover_vendor: superbed
+  index: '80000174'
+  name: 幼小衔接口算题卡②
+  type: reference_book
+  url_path: /reference_book/幼小衔接口算题卡②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c31aac458853aef7c8ea3.png
+    cover_vendor: superbed
+  index: '80000175'
+  name: 幼小衔接口算题卡①
+  type: reference_book
+  url_path: /reference_book/幼小衔接口算题卡①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c319ec458853aef7c6153.png
+    cover_vendor: superbed
+  index: '80000176'
+  name: 幼小衔接一日一练：数学②
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：数学②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c319ec458853aef7c6050.png
+    cover_vendor: superbed
+  index: '80000177'
+  name: 幼小衔接一日一练：数学⑥
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：数学⑥.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c319ec458853aef7c5f4a.png
+    cover_vendor: superbed
+  index: '80000178'
+  name: 幼小衔接一日一练：数学⑤
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：数学⑤.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c319dc458853aef7c5e85.png
+    cover_vendor: superbed
+  index: '80000179'
+  name: 幼小衔接一日一练：数学④
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：数学④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c319dc458853aef7c5dd0.png
+    cover_vendor: superbed
+  index: '80000180'
+  name: 幼小衔接一日一练：数学③
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：数学③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c318bc458853aef7c11dc.png
+    cover_vendor: superbed
+  index: '80000181'
+  name: 幼升小学前数学思维训练
+  type: reference_book
+  url_path: /reference_book/幼升小学前数学思维训练.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c318bc458853aef7c10a9.png
+    cover_vendor: superbed
+  index: '80000182'
+  name: 幼儿规范描红：数字④
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：数字④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c318ac458853aef7c101e.png
+    cover_vendor: superbed
+  index: '80000183'
+  name: 幼小衔接一日一练：数学①
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：数学①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c318ac458853aef7c0f9c.png
+    cover_vendor: superbed
+  index: '80000184'
+  name: 幼小衔接一日一练：拼音②
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：拼音②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c318ac458853aef7c0f26.png
+    cover_vendor: superbed
+  index: '80000185'
+  name: 幼小衔接一日一练：拼音①
+  type: reference_book
+  url_path: /reference_book/幼小衔接一日一练：拼音①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c317cc458853aef7bd8fd.png
+    cover_vendor: superbed
+  index: '80000186'
+  name: 幼儿规范描红：拼音①
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：拼音①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c317cc458853aef7bd848.png
+    cover_vendor: superbed
+  index: '80000187'
+  name: 幼儿规范描红：数字③
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：数字③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c317cc458853aef7bd7bd.png
+    cover_vendor: superbed
+  index: '80000188'
+  name: 幼儿规范描红：数字②
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：数字②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c317cc458853aef7bd708.png
+    cover_vendor: superbed
+  index: '80000189'
+  name: 幼儿规范描红：数字①
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：数字①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c317bc458853aef7bd644.png
+    cover_vendor: superbed
+  index: '80000190'
+  name: 幼儿规范描红：拼音②
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：拼音②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c316ac458853aef7b969d.png
+    cover_vendor: superbed
+  index: '80000191'
+  name: 幼儿规范描红：写字①
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：写字①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c316ac458853aef7b95a1.png
+    cover_vendor: superbed
+  index: '80000192'
+  name: 幼儿规范描红：5以内的加减法
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：5以内的加减法.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c316ac458853aef7b950c.png
+    cover_vendor: superbed
+  index: '80000193'
+  name: 幼儿规范描红：写字④
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：写字④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c316ac458853aef7b9418.png
+    cover_vendor: superbed
+  index: '80000194'
+  name: 幼儿规范描红：写字③
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：写字③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3169c458853aef7b938d.png
+    cover_vendor: superbed
+  index: '80000195'
+  name: 幼儿规范描红：写字②
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：写字②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3160c458853aef7b7037.png
+    cover_vendor: superbed
+  index: '80000196'
+  name: 幼儿规范描红：100以内的加减法
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：100以内的加减法.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3160c458853aef7b6f84.png
+    cover_vendor: superbed
+  index: '80000197'
+  name: 幼儿美术大画册8
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c315fc458853aef7b6ddd.png
+    cover_vendor: superbed
+  index: '80000198'
+  name: 幼儿规范描红：50以内的加减法
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：50以内的加减法.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c315fc458853aef7b6cf2.png
+    cover_vendor: superbed
+  index: '80000199'
+  name: 幼儿规范描红：20以内的加减法
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：20以内的加减法.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c315fc458853aef7b6bd7.png
+    cover_vendor: superbed
+  index: '80000200'
+  name: 幼儿规范描红：10以内的加减法
+  type: reference_book
+  url_path: /reference_book/幼儿规范描红：10以内的加减法.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3153c458853aef7b4082.png
+    cover_vendor: superbed
+  index: '80000201'
+  name: 幼儿美术大画册4
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3153c458853aef7b3f5c.png
+    cover_vendor: superbed
+  index: '80000202'
+  name: 幼儿美术大画册3
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3153c458853aef7b3e31.png
+    cover_vendor: superbed
+  index: '80000203'
+  name: 幼儿美术大画册7
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3153c458853aef7b3d15.png
+    cover_vendor: superbed
+  index: '80000204'
+  name: 幼儿美术大画册6
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3152c458853aef7b3bd3.png
+    cover_vendor: superbed
+  index: '80000205'
+  name: 幼儿美术大画册5
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3149c458853aef7b1691.png
+    cover_vendor: superbed
+  index: '80000206'
+  name: 幼儿综合测试A卷
+  type: reference_book
+  url_path: /reference_book/幼儿综合测试A卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3148c458853aef7b1513.png
+    cover_vendor: superbed
+  index: '80000207'
+  name: 幼儿礼仪和安全教育8
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3148c458853aef7b1342.png
+    cover_vendor: superbed
+  index: '80000208'
+  name: 幼儿美术大画册2
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3148c458853aef7b122a.png
+    cover_vendor: superbed
+  index: '80000209'
+  name: 幼儿美术大画册1
+  type: reference_book
+  url_path: /reference_book/幼儿美术大画册1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3147c458853aef7b1126.png
+    cover_vendor: superbed
+  index: '80000210'
+  name: 幼儿综合测试B卷
+  type: reference_book
+  url_path: /reference_book/幼儿综合测试B卷.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c313bc458853aef7ade0d.png
+    cover_vendor: superbed
+  index: '80000211'
+  name: 幼儿礼仪和安全教育4
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c313bc458853aef7adcc3.png
+    cover_vendor: superbed
+  index: '80000212'
+  name: 幼儿礼仪和安全教育3
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c313ac458853aef7adb16.png
+    cover_vendor: superbed
+  index: '80000213'
+  name: 幼儿礼仪和安全教育7
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c313ac458853aef7ad995.png
+    cover_vendor: superbed
+  index: '80000214'
+  name: 幼儿礼仪和安全教育6
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c313ac458853aef7ad8b4.png
+    cover_vendor: superbed
+  index: '80000215'
+  name: 幼儿礼仪和安全教育5
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c312ec458853aef7aaa21.png
+    cover_vendor: superbed
+  index: '80000216'
+  name: 幼儿拼音学习课程：拼音（下）
+  type: reference_book
+  url_path: /reference_book/幼儿拼音学习课程：拼音（下）.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c312dc458853aef7aa9b3.png
+    cover_vendor: superbed
+  index: '80000217'
+  name: 幼儿拼音学习课程：拼音（上）
+  type: reference_book
+  url_path: /reference_book/幼儿拼音学习课程：拼音（上）.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c312dc458853aef7aa93f.png
+    cover_vendor: superbed
+  index: '80000218'
+  name: 幼儿礼仪和安全教育2
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c312dc458853aef7aa832.png
+    cover_vendor: superbed
+  index: '80000219'
+  name: 幼儿礼仪和安全教育1
+  type: reference_book
+  url_path: /reference_book/幼儿礼仪和安全教育1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c312cc458853aef7aa61b.png
+    cover_vendor: superbed
+  index: '80000220'
+  name: 幼儿拼音幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿拼音幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c311ec458853aef7a6cea.png
+    cover_vendor: superbed
+  index: '80000221'
+  name: 幼儿成长档案1
+  type: reference_book
+  url_path: /reference_book/幼儿成长档案1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c311ec458853aef7a6c47.png
+    cover_vendor: superbed
+  index: '80000222'
+  name: 幼儿彩色描红：笔画部首
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：笔画部首.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c311ec458853aef7a6baa.png
+    cover_vendor: superbed
+  index: '80000223'
+  name: 幼儿拼音学习课程：拼音练习册②
+  type: reference_book
+  url_path: /reference_book/幼儿拼音学习课程：拼音练习册②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c311dc458853aef7a6b3f.png
+    cover_vendor: superbed
+  index: '80000224'
+  name: 幼儿拼音学习课程：拼音练习册①
+  type: reference_book
+  url_path: /reference_book/幼儿拼音学习课程：拼音练习册①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c311dc458853aef7a6ac5.png
+    cover_vendor: superbed
+  index: '80000225'
+  name: 幼儿成长档案2
+  type: reference_book
+  url_path: /reference_book/幼儿成长档案2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c310fc458853aef7a394e.png
+    cover_vendor: superbed
+  index: '80000226'
+  name: 幼儿彩色描红：汉字描红①
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：汉字描红①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c310fc458853aef7a3887.png
+    cover_vendor: superbed
+  index: '80000227'
+  name: 幼儿彩色描红：数字描红④
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：数字描红④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c310fc458853aef7a37a1.png
+    cover_vendor: superbed
+  index: '80000228'
+  name: 幼儿彩色描红：汉字描红④
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：汉字描红④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c310ec458853aef7a3701.png
+    cover_vendor: superbed
+  index: '80000229'
+  name: 幼儿彩色描红：汉字描红③
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：汉字描红③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c310ec458853aef7a3669.png
+    cover_vendor: superbed
+  index: '80000230'
+  name: 幼儿彩色描红：汉字描红②
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：汉字描红②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3106c458853aef7a14cd.png
+    cover_vendor: superbed
+  index: '80000231'
+  name: 幼儿彩色描红：拼音描红③
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：拼音描红③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3106c458853aef7a13a6.png
+    cover_vendor: superbed
+  index: '80000232'
+  name: 幼儿彩色描红：拼音描红②
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：拼音描红②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3105c458853aef7a1283.png
+    cover_vendor: superbed
+  index: '80000233'
+  name: 幼儿彩色描红：数字描红③
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：数字描红③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3105c458853aef7a113a.png
+    cover_vendor: superbed
+  index: '80000234'
+  name: 幼儿彩色描红：数字描红②
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：数字描红②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3105c458853aef7a10a1.png
+    cover_vendor: superbed
+  index: '80000235'
+  name: 幼儿彩色描红：数字描红①
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：数字描红①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30fac458853aef79e979.png
+    cover_vendor: superbed
+  index: '80000236'
+  name: 幼儿彩色描红：加减法练习③
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：加减法练习③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30fac458853aef79e89c.png
+    cover_vendor: superbed
+  index: '80000237'
+  name: 幼儿彩色描红：加减法练习②
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：加减法练习②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30fac458853aef79e805.png
+    cover_vendor: superbed
+  index: '80000238'
+  name: 幼儿彩色描红：拼音描红①
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：拼音描红①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30fac458853aef79e755.png
+    cover_vendor: superbed
+  index: '80000239'
+  name: 幼儿彩色描红：加减法练习⑤
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：加减法练习⑤.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30fac458853aef79e6b3.png
+    cover_vendor: superbed
+  index: '80000240'
+  name: 幼儿彩色描红：加减法练习④
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：加减法练习④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30f0c458853aef79c219.png
+    cover_vendor: superbed
+  index: '80000241'
+  name: 幼儿奇趣数学-操作册6
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30f0c458853aef79c117.png
+    cover_vendor: superbed
+  index: '80000242'
+  name: 幼儿奇趣数学-操作册5
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30f0c458853aef79bfd4.png
+    cover_vendor: superbed
+  index: '80000243'
+  name: 幼儿彩色描红：加减法练习①
+  type: reference_book
+  url_path: /reference_book/幼儿彩色描红：加减法练习①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30f0c458853aef79beee.png
+    cover_vendor: superbed
+  index: '80000244'
+  name: 幼儿奇趣数学-操作册8
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30efc458853aef79be6c.png
+    cover_vendor: superbed
+  index: '80000245'
+  name: 幼儿奇趣数学-操作册7
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30e7c458853aef799dc5.png
+    cover_vendor: superbed
+  index: '80000246'
+  name: 幼儿奇趣数学-亲子册8
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30e7c458853aef799ce2.png
+    cover_vendor: superbed
+  index: '80000247'
+  name: 幼儿奇趣数学-操作册4
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30e7c458853aef799c11.png
+    cover_vendor: superbed
+  index: '80000248'
+  name: 幼儿奇趣数学-操作册3
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30e6c458853aef799b45.png
+    cover_vendor: superbed
+  index: '80000249'
+  name: 幼儿奇趣数学-操作册2
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30e6c458853aef799abd.png
+    cover_vendor: superbed
+  index: '80000250'
+  name: 幼儿奇趣数学-操作册1
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-操作册1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30dec458853aef797cbf.png
+    cover_vendor: superbed
+  index: '80000251'
+  name: 幼儿奇趣数学-亲子册4
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30dec458853aef797c08.png
+    cover_vendor: superbed
+  index: '80000252'
+  name: 幼儿奇趣数学-亲子册3
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30dec458853aef797b24.png
+    cover_vendor: superbed
+  index: '80000253'
+  name: 幼儿奇趣数学-亲子册7
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30dec458853aef797ad4.png
+    cover_vendor: superbed
+  index: '80000254'
+  name: 幼儿奇趣数学-亲子册6
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30ddc458853aef797a5e.png
+    cover_vendor: superbed
+  index: '80000255'
+  name: 幼儿奇趣数学-亲子册5
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30d3c458853aef7951ac.png
+    cover_vendor: superbed
+  index: '80000256'
+  name: 幼儿多元能力开发课程·托班6
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30d3c458853aef795087.png
+    cover_vendor: superbed
+  index: '80000257'
+  name: 幼儿奇趣数学-亲子册2
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30d3c458853aef795010.png
+    cover_vendor: superbed
+  index: '80000258'
+  name: 幼儿奇趣数学-亲子册1
+  type: reference_book
+  url_path: /reference_book/幼儿奇趣数学-亲子册1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30d3c458853aef794f61.png
+    cover_vendor: superbed
+  index: '80000259'
+  name: 幼儿多元能力开发课程·托班8
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30d2c458853aef794e93.png
+    cover_vendor: superbed
+  index: '80000260'
+  name: 幼儿多元能力开发课程·托班7
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30c5c458853aef791ef3.png
+    cover_vendor: superbed
+  index: '80000261'
+  name: 幼儿多元能力开发课程·托班1
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30c5c458853aef791dbb.png
+    cover_vendor: superbed
+  index: '80000262'
+  name: 幼儿多元能力开发课程·托班5
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30c5c458853aef791ca9.png
+    cover_vendor: superbed
+  index: '80000263'
+  name: 幼儿多元能力开发课程·托班4
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30c5c458853aef791b8e.png
+    cover_vendor: superbed
+  index: '80000264'
+  name: 幼儿多元能力开发课程·托班3
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30c4c458853aef791a64.png
+    cover_vendor: superbed
+  index: '80000265'
+  name: 幼儿多元能力开发课程·托班2
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力开发课程·托班2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30bbc458853aef78f9d0.png
+    cover_vendor: superbed
+  index: '80000266'
+  name: 幼儿多元能力创新课程语言中班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程语言中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30bbc458853aef78f918.png
+    cover_vendor: superbed
+  index: '80000267'
+  name: 幼儿多元能力创新课程艺术幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程艺术幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30bbc458853aef78f8ae.png
+    cover_vendor: superbed
+  index: '80000268'
+  name: 幼儿多元能力创新课程语言幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程语言幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30bbc458853aef78f85d.png
+    cover_vendor: superbed
+  index: '80000269'
+  name: 幼儿多元能力创新课程语言小班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程语言小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30bbc458853aef78f7ea.png
+    cover_vendor: superbed
+  index: '80000270'
+  name: 幼儿多元能力创新课程语言大班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程语言大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30b2c458853aef78d9b3.png
+    cover_vendor: superbed
+  index: '80000271'
+  name: 幼儿多元能力创新课程科学幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程科学幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30b2c458853aef78d94e.png
+    cover_vendor: superbed
+  index: '80000272'
+  name: 幼儿多元能力创新课程科学小班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程科学小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30b2c458853aef78d8de.png
+    cover_vendor: superbed
+  index: '80000273'
+  name: 幼儿多元能力创新课程艺术小班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程艺术小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30b2c458853aef78d893.png
+    cover_vendor: superbed
+  index: '80000274'
+  name: 幼儿多元能力创新课程艺术大班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程艺术大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30b2c458853aef78d836.png
+    cover_vendor: superbed
+  index: '80000275'
+  name: 幼儿多元能力创新课程艺术中班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程艺术中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30a7c458853aef78b0b9.png
+    cover_vendor: superbed
+  index: '80000276'
+  name: 幼儿多元能力创新课程社会小班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程社会小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30a7c458853aef78b028.png
+    cover_vendor: superbed
+  index: '80000277'
+  name: 幼儿多元能力创新课程社会大班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程社会大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30a7c458853aef78af5c.png
+    cover_vendor: superbed
+  index: '80000278'
+  name: 幼儿多元能力创新课程科学大班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程科学大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30a6c458853aef78aef4.png
+    cover_vendor: superbed
+  index: '80000279'
+  name: 幼儿多元能力创新课程科学中班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程科学中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c30a6c458853aef78aea3.png
+    cover_vendor: superbed
+  index: '80000280'
+  name: 幼儿多元能力创新课程社会幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程社会幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c309ec458853aef789318.png
+    cover_vendor: superbed
+  index: '80000281'
+  name: 幼儿多元能力创新课程数学大班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程数学大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c309ec458853aef789297.png
+    cover_vendor: superbed
+  index: '80000282'
+  name: 幼儿多元能力创新课程数学中班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程数学中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c309ec458853aef789249.png
+    cover_vendor: superbed
+  index: '80000283'
+  name: 幼儿多元能力创新课程社会中班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程社会中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c309ec458853aef789201.png
+    cover_vendor: superbed
+  index: '80000284'
+  name: 幼儿多元能力创新课程数学幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程数学幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c309ec458853aef7891b2.png
+    cover_vendor: superbed
+  index: '80000285'
+  name: 幼儿多元能力创新课程数学小班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程数学小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3095c458853aef787044.png
+    cover_vendor: superbed
+  index: '80000286'
+  name: 幼儿多元能力创新课程健康大班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程健康大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3095c458853aef786f9e.png
+    cover_vendor: superbed
+  index: '80000287'
+  name: 幼儿多元能力创新课程健康中班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程健康中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3094c458853aef786f3e.png
+    cover_vendor: superbed
+  index: '80000288'
+  name: 幼儿多元能力创新课程拼音幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程拼音幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3094c458853aef786e91.png
+    cover_vendor: superbed
+  index: '80000289'
+  name: 幼儿多元能力创新课程健康幼小衔接
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程健康幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3094c458853aef786e17.png
+    cover_vendor: superbed
+  index: '80000290'
+  name: 幼儿多元能力创新课程健康小班
+  type: reference_book
+  url_path: /reference_book/幼儿多元能力创新课程健康小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3088c458853aef78437a.png
+    cover_vendor: superbed
+  index: '80000291'
+  name: 四五快读-全彩图-升级版-第四册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第四册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c307fc458853aef781fca.png
+    cover_vendor: superbed
+  index: '80000292'
+  name: 四五快读-全彩图-升级版-第三册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第三册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c307ec458853aef781eb9.png
+    cover_vendor: superbed
+  index: '80000293'
+  name: 四五快读-全彩图-升级版-第七册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第七册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c307ec458853aef781cce.png
+    cover_vendor: superbed
+  index: '80000294'
+  name: 四五快读-全彩图-升级版-第六册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第六册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c307ec458853aef781ba1.png
+    cover_vendor: superbed
+  index: '80000295'
+  name: 四五快读-全彩图-升级版-第五册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第五册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c307dc458853aef781a69.png
+    cover_vendor: superbed
+  index: '80000296'
+  name: 四五快读-全彩图-升级版-第二册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第二册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3074c458853aef77fa04.png
+    cover_vendor: superbed
+  index: '80000297'
+  name: 卓越识字7
+  type: reference_book
+  url_path: /reference_book/卓越识字7.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3074c458853aef77f96f.png
+    cover_vendor: superbed
+  index: '80000298'
+  name: 卓越识字6
+  type: reference_book
+  url_path: /reference_book/卓越识字6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3074c458853aef77f8de.png
+    cover_vendor: superbed
+  index: '80000299'
+  name: 四五快读-全彩图-升级版-第一册
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-第一册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3073c458853aef77f7bd.png
+    cover_vendor: superbed
+  index: '80000300'
+  name: 四五快读-全彩图-升级版-故事集
+  type: reference_book
+  url_path: /reference_book/四五快读-全彩图-升级版-故事集.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3073c458853aef77f63d.png
+    cover_vendor: superbed
+  index: '80000301'
+  name: 卓越识字8
+  type: reference_book
+  url_path: /reference_book/卓越识字8.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c306ac458853aef77d324.png
+    cover_vendor: superbed
+  index: '80000302'
+  name: 卓越识字2
+  type: reference_book
+  url_path: /reference_book/卓越识字2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c306ac458853aef77d28f.png
+    cover_vendor: superbed
+  index: '80000303'
+  name: 卓越识字1
+  type: reference_book
+  url_path: /reference_book/卓越识字1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3069c458853aef77d1ac.png
+    cover_vendor: superbed
+  index: '80000304'
+  name: 卓越识字5
+  type: reference_book
+  url_path: /reference_book/卓越识字5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3069c458853aef77d0ce.png
+    cover_vendor: superbed
+  index: '80000305'
+  name: 卓越识字4
+  type: reference_book
+  url_path: /reference_book/卓越识字4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3069c458853aef77d017.png
+    cover_vendor: superbed
+  index: '80000306'
+  name: 卓越识字3
+  type: reference_book
+  url_path: /reference_book/卓越识字3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3060c458853aef77ad74.png
+    cover_vendor: superbed
+  index: '80000307'
+  name: 全脑数学幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/全脑数学幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3060c458853aef77ad00.png
+    cover_vendor: superbed
+  index: '80000308'
+  name: 全脑数学幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/全脑数学幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3057c458853aef778cc5.png
+    cover_vendor: superbed
+  index: '80000309'
+  name: 全脑数学小班
+  type: reference_book
+  url_path: /reference_book/全脑数学小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3057c458853aef778bfe.png
+    cover_vendor: superbed
+  index: '80000310'
+  name: 全脑数学大班下册
+  type: reference_book
+  url_path: /reference_book/全脑数学大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3057c458853aef778b36.png
+    cover_vendor: superbed
+  index: '80000311'
+  name: 全脑数学幼小衔接
+  type: reference_book
+  url_path: /reference_book/全脑数学幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3057c458853aef778aa5.png
+    cover_vendor: superbed
+  index: '80000312'
+  name: 全脑数学小班下册
+  type: reference_book
+  url_path: /reference_book/全脑数学小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3057c458853aef778a17.png
+    cover_vendor: superbed
+  index: '80000313'
+  name: 全脑数学小班上册
+  type: reference_book
+  url_path: /reference_book/全脑数学小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3048c458853aef7754a6.png
+    cover_vendor: superbed
+  index: '80000314'
+  name: 全脑数学中班上册
+  type: reference_book
+  url_path: /reference_book/全脑数学中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3048c458853aef77539b.png
+    cover_vendor: superbed
+  index: '80000315'
+  name: 全脑数学中班
+  type: reference_book
+  url_path: /reference_book/全脑数学中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3047c458853aef775279.png
+    cover_vendor: superbed
+  index: '80000316'
+  name: 全脑数学大班上册
+  type: reference_book
+  url_path: /reference_book/全脑数学大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3047c458853aef775161.png
+    cover_vendor: superbed
+  index: '80000317'
+  name: 全脑数学大班
+  type: reference_book
+  url_path: /reference_book/全脑数学大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c3047c458853aef7750b6.png
+    cover_vendor: superbed
+  index: '80000318'
+  name: 全脑数学中班下册
+  type: reference_book
+  url_path: /reference_book/全脑数学中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c302cc458853aef76edde.png
+    cover_vendor: superbed
+  index: '80000319'
+  name: 健康生活小班
+  type: reference_book
+  url_path: /reference_book/健康生活小班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c302cc458853aef76ed4b.png
+    cover_vendor: superbed
+  index: '80000320'
+  name: 健康生活中班
+  type: reference_book
+  url_path: /reference_book/健康生活中班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c302cc458853aef76ecca.png
+    cover_vendor: superbed
+  index: '80000321'
+  name: 健康生活幼小衔接
+  type: reference_book
+  url_path: /reference_book/健康生活幼小衔接.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e62c458853aef704699.png
+    cover_vendor: superbed
+  index: '80000322'
+  name: 健康生活大班
+  type: reference_book
+  url_path: /reference_book/健康生活大班.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e62c458853aef70460b.png
+    cover_vendor: superbed
+  index: '80000323'
+  name: 健康安全中班下册
+  type: reference_book
+  url_path: /reference_book/健康安全中班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e62c458853aef704527.png
+    cover_vendor: superbed
+  index: '80000324'
+  name: 健康安全中班上册
+  type: reference_book
+  url_path: /reference_book/健康安全中班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e61c458853aef70445a.png
+    cover_vendor: superbed
+  index: '80000325'
+  name: 健康安全幼小衔接下册
+  type: reference_book
+  url_path: /reference_book/健康安全幼小衔接下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e61c458853aef7043d9.png
+    cover_vendor: superbed
+  index: '80000326'
+  name: 健康安全幼小衔接上册
+  type: reference_book
+  url_path: /reference_book/健康安全幼小衔接上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e4ec458853aef6ff4b7.png
+    cover_vendor: superbed
+  index: '80000327'
+  name: 健康安全小班下册
+  type: reference_book
+  url_path: /reference_book/健康安全小班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e4ec458853aef6ff33f.png
+    cover_vendor: superbed
+  index: '80000328'
+  name: 健康安全小班上册
+  type: reference_book
+  url_path: /reference_book/健康安全小班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e4ec458853aef6ff25f.png
+    cover_vendor: superbed
+  index: '80000329'
+  name: 健康安全大班下册
+  type: reference_book
+  url_path: /reference_book/健康安全大班下册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e4ec458853aef6ff1dd.png
+    cover_vendor: superbed
+  index: '80000330'
+  name: 健康安全大班上册
+  type: reference_book
+  url_path: /reference_book/健康安全大班上册.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e4dc458853aef6ff0c2.png
+    cover_vendor: superbed
+  index: '80000331'
+  name: 家园互动口心算⑦
+  type: reference_book
+  url_path: /reference_book/家园互动口心算⑦.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e31c458853aef6f8a5b.png
+    cover_vendor: superbed
+  index: '80000332'
+  name: 家园互动口心算⑥
+  type: reference_book
+  url_path: /reference_book/家园互动口心算⑥.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e31c458853aef6f8955.png
+    cover_vendor: superbed
+  index: '80000333'
+  name: 家园互动口心算⑤
+  type: reference_book
+  url_path: /reference_book/家园互动口心算⑤.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e31c458853aef6f88b3.png
+    cover_vendor: superbed
+  index: '80000334'
+  name: 家园互动口心算④
+  type: reference_book
+  url_path: /reference_book/家园互动口心算④.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e31c458853aef6f8818.png
+    cover_vendor: superbed
+  index: '80000335'
+  name: 家园互动口心算③
+  type: reference_book
+  url_path: /reference_book/家园互动口心算③.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e30c458853aef6f86d5.png
+    cover_vendor: superbed
+  index: '80000336'
+  name: 家园互动口心算②
+  type: reference_book
+  url_path: /reference_book/家园互动口心算②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e22c458853aef6f4d68.png
+    cover_vendor: superbed
+  index: '80000337'
+  name: 家园互动口心算①
+  type: reference_book
+  url_path: /reference_book/家园互动口心算①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e21c458853aef6f4cd6.png
+    cover_vendor: superbed
+  index: '80000338'
+  name: 冲刺100分学前测试卷语言②
+  type: reference_book
+  url_path: /reference_book/冲刺100分学前测试卷语言②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e21c458853aef6f4bfc.png
+    cover_vendor: superbed
+  index: '80000339'
+  name: 冲刺100分学前测试卷语言①
+  type: reference_book
+  url_path: /reference_book/冲刺100分学前测试卷语言①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e21c458853aef6f4b3c.png
+    cover_vendor: superbed
+  index: '80000340'
+  name: 冲刺100分学前测试卷数学②
+  type: reference_book
+  url_path: /reference_book/冲刺100分学前测试卷数学②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2e21c458853aef6f4a8d.png
+    cover_vendor: superbed
+  index: '80000341'
+  name: 冲刺100分学前测试卷数学①
+  type: reference_book
+  url_path: /reference_book/冲刺100分学前测试卷数学①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a8cc458853aef6191ba.png
+    cover_vendor: superbed
+  index: '80000342'
+  name: 冲刺100分学前测试卷拼音②
+  type: reference_book
+  url_path: /reference_book/冲刺100分学前测试卷拼音②.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a8cc458853aef6190d8.png
+    cover_vendor: superbed
+  index: '80000343'
+  name: 冲刺100分学前测试卷拼音①
+  type: reference_book
+  url_path: /reference_book/冲刺100分学前测试卷拼音①.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a8cc458853aef618f7c.png
+    cover_vendor: superbed
+  index: '80000344'
+  name: 《摩比爱数学》探索篇6
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》探索篇6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a8cc458853aef618eb7.png
+    cover_vendor: superbed
+  index: '80000345'
+  name: 《摩比爱数学》探索篇5
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》探索篇5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a8bc458853aef618e21.png
+    cover_vendor: superbed
+  index: '80000346'
+  name: 《摩比爱数学》探索篇4
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》探索篇4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a81c458853aef616c8b.png
+    cover_vendor: superbed
+  index: '80000347'
+  name: 《摩比爱数学》探索篇3
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》探索篇3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a81c458853aef616c0b.png
+    cover_vendor: superbed
+  index: '80000348'
+  name: 《摩比爱数学》探索篇2
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》探索篇2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a81c458853aef616b68.png
+    cover_vendor: superbed
+  index: '80000349'
+  name: 《摩比爱数学》探索篇1
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》探索篇1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a81c458853aef616ade.png
+    cover_vendor: superbed
+  index: '80000350'
+  name: 《摩比爱数学》萌芽篇6
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》萌芽篇6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a81c458853aef616a82.png
+    cover_vendor: superbed
+  index: '80000351'
+  name: 《摩比爱数学》萌芽篇5
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》萌芽篇5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a6ac458853aef6118fc.png
+    cover_vendor: superbed
+  index: '80000352'
+  name: 《摩比爱数学》萌芽篇4
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》萌芽篇4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a6ac458853aef6117d1.png
+    cover_vendor: superbed
+  index: '80000353'
+  name: 《摩比爱数学》萌芽篇3
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》萌芽篇3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a69c458853aef6116c3.png
+    cover_vendor: superbed
+  index: '80000354'
+  name: 《摩比爱数学》萌芽篇2
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》萌芽篇2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a69c458853aef6115f0.png
+    cover_vendor: superbed
+  index: '80000355'
+  name: 《摩比爱数学》萌芽篇1
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》萌芽篇1.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a69c458853aef611528.png
+    cover_vendor: superbed
+  index: '80000356'
+  name: 《摩比爱数学》飞跃篇6
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》飞跃篇6.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a41c458853aef608474.png
+    cover_vendor: superbed
+  index: '80000357'
+  name: 《摩比爱数学》飞跃篇5
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》飞跃篇5.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a40c458853aef60837f.png
+    cover_vendor: superbed
+  index: '80000358'
+  name: 《摩比爱数学》飞跃篇4
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》飞跃篇4.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a40c458853aef6082ce.png
+    cover_vendor: superbed
+  index: '80000359'
+  name: 《摩比爱数学》飞跃篇3
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》飞跃篇3.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a40c458853aef60820b.png
+    cover_vendor: superbed
+  index: '80000360'
+  name: 《摩比爱数学》飞跃篇2
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》飞跃篇2.pdf
+  utime: '1701601873'
+- covers:
+  - cover_url: https://pic.imgdb.cn/item/656c2a40c458853aef60811e.png
+    cover_vendor: superbed
+  index: '80000361'
+  name: 《摩比爱数学》飞跃篇1
+  type: reference_book
+  url_path: /reference_book/《摩比爱数学》飞跃篇1.pdf
+  utime: '1701601873'

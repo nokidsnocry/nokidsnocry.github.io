@@ -58,10 +58,14 @@
                         <a href="{{ item.url }}" target="_blank">👉</a>
                     {% else %}
                         <span>🔑预览/下载:</span>
-                        {% for url in item.urls %}
-                            <a href="{{ file_url_prefix }}{{ item.url_path }}" target='_blank'>链接①</a>
-                            <a href="{{ url.book_url }}" target='_blank'>链接②</a>
-                        {% endfor %}
+                        {% if item.urls %}
+                          {% for url in item.urls %}
+                              <a href="{{ file_url_prefix }}{{ item.url_path }}" target='_blank'>链接①</a>
+                              <a href="{{ url.book_url }}" target='_blank'>链接②</a>
+                          {% endfor %}
+                        {% else %}
+                          <a href="{{ file_url_prefix }}{{ item.url_path }}" target='_blank'>连接①</a>
+                        {% endif %}
                     {% endif %}
                 </div>
             </div>
