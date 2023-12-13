@@ -17,6 +17,8 @@
             {% assign type-chinese = '网站' %}
         {% when 'textbook' %}
             {% assign type-chinese = '教材' %}
+        {% when 'reference_book' %}
+            {% assign type-chinese = '教辅' %}
         {% endcase %}
 
         <div class='material-container' data-utime='{{ item.utime }}'>
