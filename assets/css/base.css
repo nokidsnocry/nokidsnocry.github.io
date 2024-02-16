@@ -506,3 +506,8 @@ a {
 #modal.animate #modal-content button{
   transition-delay: .8s;
 }
+button,
+select,
+select option {
+  cursor: pointer;
+}
