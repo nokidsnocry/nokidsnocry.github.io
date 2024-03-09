@@ -24,7 +24,7 @@
         <div class='material-container' data-utime='{{ item.utime }}'>
             <div class='material {{ item.type }}'>
                 <div class='material-image'>
-                    <img src="{{ item.covers[0].cover_url}}" loading='lazy' />
+                    <img src="{{ item.cover_url }}" loading='lazy' />
                 </div>
                 <div class='material-info'>
                     <div class='type' style='display:none'>{{ item.type }}</div>
@@ -60,13 +60,14 @@
                         <a href="{{ item.url }}" target="_blank">👉</a>
                     {% else %}
                         <span>🔑预览/下载:</span>
-                        {% if item.urls %}
-                          {% for url in item.urls %}
-                              <a href="{{ file_url_prefix }}{{ item.url_path }}" target='_blank'>链接①</a>
-                              <a href="{{ url.book_url }}" target='_blank'>链接②</a>
-                          {% endfor %}
+                        {% if item.type == 'book' %}
+                          {% if item.ss %}
+                            <a href="{{ file_url_prefix }}/books/{{ item.name }}_{{ item.ss }}.{{ item.format }}" target='_blank'>storj</a>
+                          {% else %}
+                            <a href="{{ file_url_prefix }}/books/{{ item.name }}.{{ item.format }}" target='_blank'>storj</a>
+                          {% endif %}
                         {% else %}
-                          <a href="{{ file_url_prefix }}{{ item.url_path }}" target='_blank'>链接①</a>
+                          <a href="{{ file_url_prefix }}/{{ item.type }}/{{ item.name }}.{{ item.format }}" target="_blank">storj</a>
                         {% endif %}
                     {% endif %}
                 </div>
