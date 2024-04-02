@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 import lxml
 from tqdm import tqdm
+import threading
+import time
 
 url = "http://127.0.0.1:4000"
 
@@ -11,11 +13,19 @@ content = r.text
 soup = bs(content, "lxml")
 urls = soup.find_all(class_="urls")
 
-for url in tqdm(urls):
+url_list = []
+
+for url in urls:
   link = url.a["href"]
-  r = requests.get(url=link)
-  if r.status_code == 404:
-    print(link)
-  else:
-    print(r.status_code)
+  url_list.append(link)
   
+  
+def test_url(url):
+  r = requests.get(url)
+  if r.status_code == 404:
+    print(url)
+
+for url in tqdm(url_list):
+  time.sleep(0.1)
+  thread = threading.Thread(target=test_url, args=(url,))
+  thread.start()
