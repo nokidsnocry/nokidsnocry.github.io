@@ -470,19 +470,20 @@ a {
   padding: 4px 6px;
   margin-top: 20px;
   width: max-content;
+  font-size: 20px;
 }
 #modal #modal-content {
-  font-size: 8px;
+  font-size: 12px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translateY(0%) translateX(-50%) rotateX(-25deg);
   background: var(--color-green);
-  width: 400px;
+  width: 600px;
   max-width: 80vw;
   padding: 20px;
   box-sizing: border-box;
-  border-radius: 2px;
+  border-radius: 4px;
   opacity: 0;
   display: flex;
   flex-direction: column;
