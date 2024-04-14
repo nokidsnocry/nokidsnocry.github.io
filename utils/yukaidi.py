@@ -9,7 +9,7 @@ base_url = "https://pan.yukaidi.com/api/v3/directory"
 headers = {
   "Referer": "https://pan.yukaidi.com/home?path=%2Fnokidsnocry",
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-  "Cookie": "sl-session=sQW7BtJXDWarpl9IuS7+TA==; Hm_lvt_0e15ed3c52b19d72392287f62ffca41a=1712064085; _pk_id.1.82fe=377b882f579a64b9.1712064086.; _clck=ejutpp%7C2%7Cfkl%7C0%7C1553; Hm_lpvt_0e15ed3c52b19d72392287f62ffca41a=1712074851; _pk_ses.1.82fe=1; _clsk=tm0je5%7C1712074919060%7C17%7C1%7Ch.clarity.ms%2Fcollect; cloudreve-session=MTcxMjA3NDk4M3xOd3dBTkU5SVJsWlRRamRaU2tsSVZWUk1XVmhIU0VWRFExaE5TVUZXUlRSWVNrRlFUamRZV2s5V1NWSlZWazlPU2pNMlVsUlZTVUU9fLmjDMgLjX-F9kJXbKijSnRSXd5AmAIhKmrhT36CPoFK"
+  "Cookie": "Hm_lvt_0e15ed3c52b19d72392287f62ffca41a=1712064085; _pk_id.1.82fe=377b882f579a64b9.1712064086.; sl-session=yiIdLJHzHGYIUII/jpIqFw==; _clck=ejutpp%7C2%7Cfkx%7C0%7C1553; _pk_ses.1.82fe=1; _clsk=r8jzdf%7C1713092641814%7C1%7C1%7Ck.clarity.ms%2Fcollect; Hm_lpvt_0e15ed3c52b19d72392287f62ffca41a=1713092643; cloudreve-session=MTcxMzA5MjY0MnxOd3dBTkU5SVJsWlRRamRaU2tsSVZWUk1XVmhIU0VWRFExaE5TVUZXUlRSWVNrRlFUamRZV2s5V1NWSlZWazlPU2pNMlVsUlZTVUU9fDdhuFFDrEzKfQ2ZsoOJAD7Hs7stayVKMhKWusUOD5Vu",
   }
 
 
@@ -47,7 +47,8 @@ def write_to_yaml(id_list):
 def main():
   dirs = get_dirs()
   id_list = get_id(dirs)
-  write_to_yaml(id_list)
+  print(id_list)
+  #write_to_yaml(id_list)
 
 
 def add_file_url():
@@ -73,7 +74,8 @@ def add_file_url():
   with open("new_material.yaml", "a", encoding="utf-8") as f3:
     yaml.dump(material_list, f3, default_flow_style=False, sort_keys=False, allow_unicode=True, width=500)
 
-add_file_url()
+#add_file_url()
+main()
   
 
   

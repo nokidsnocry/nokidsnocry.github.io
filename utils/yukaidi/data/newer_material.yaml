@@ -1,7 +1,6 @@
 metadata:
   type: ['book', 'scale', 'law', 'textbook', 'reference_book']
-  type_chinese: [['书籍', 1019], ['量表', 28], ['法规', 18], ['教材', 40], ['教辅', 361]]
-  type_description:
+  type_chinese: [['书籍', 1019], ['量表', 28], ['法规', 18], ['教材', 40], ['教辅', 361]]                                                                                                     type_description:
     - '包含了关于某一主题的系统性知识'
     - '用于鉴定、评估以及诊断的工具'
     - '国家层面的政策性法律法规以及相关标准'
