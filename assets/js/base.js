@@ -21,11 +21,20 @@ function searchMaterial() {
         setTimeout(hideLoading, 100);
     })
 
-    eleSearchButton.addEventListener('click', () => {
+    eleSearchButton.addEventListener('pointerdown', () => {
         displayLoading();
         let keywords = eleSearchInput.value;
         setTimeout(() => displayMaterialContainer(keywords), 100);
         setTimeout(hideLoading, 100);
+    })
+
+    document.addEventListener("keyup", (e) => {
+      if (e.key === "Enter") {
+        displayLoading();
+        let keywords = eleSearchInput.value;
+        setTimeout(() => displayMaterialContainer(keywords), 100);
+        setTimeout(hideLoading, 100);
+      }
     })
 
     function displayLoading() {
