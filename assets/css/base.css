@@ -511,3 +511,6 @@ select,
 select option {
   cursor: pointer;
 }
+.underline {
+  text-decoration: underline;
+}
