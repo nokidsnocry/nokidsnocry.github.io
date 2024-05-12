@@ -1,32 +1,4 @@
-<div id='header'>
-    <div id='header-left'>
-        <div id='logo'>🍭</div>
-        <div id='title'>
-            <span class='large english'>No-Kids-No-Cry</span><span class='small'>特殊教育知识分享</span>
-        </div>
-    </div>
-    <div id='header-right'>
-        <div id='search-box'>
-            <input type='text' placeholder='搜索书名、作者、关键词...' />
-            <select id='select-type'>
-                <option value="all">全部</option>
-                {% for item in site.data.material.metadata.type_chinese %}
-                    <option value="{{ site.data.material.metadata.type[forloop.index0] }}" title="{{ site.data.material.metadata.type_description[forloop.index0] }}">{{ item[0] }}({{ item[1]}})</option>
-                {% endfor %}
-            </select>
-            <button id='search-button'>🔍</button>
-        </div>
-        <button id='about-button'>关于👀</button>
-        <div id='about-content'>
-            <p>🍍 Hello, 这是一个分享特殊教育资源的网站，其中包括关于特殊教育的书籍、量表、法规和教材，以及关于幼儿教育的教辅资料，希望这些电子化的资源能够给一些人带来帮助。</p>
-            <p>🍓 感谢这些资源的创作者，本人无意侵犯您的版权，只是希望这些电子化的资源能够更加促进特殊教育的研究和发展。</p>
-            <p>🍒 期待更多的人一起分享特殊教育资源，你可以通过附件或网盘形式将相关的电子资源发送到<a title='coyotesss@yandex.com'>我的邮箱</a>，你分享的资源也会被添加到该网站。</p>
-            <p>🍑 如果本站没有你想要的资源，你可以通过<a title='coyotesss@yandex.com'>邮箱</a>向我求助（免费），我将尽快取得资源并通过邮箱转发给你，同时将资源添加到该网站。
-            <p>🍎 这里的一些资源和其中的观点可能早已过时甚至被证伪，但考虑到循证和回溯研究，它们依然被保留，请各位注意甄别。
-            <p>🍉 如果你发现了一些错误（如下载链接失效）或者有更好的建议，也请<a title='coyotesss@yandex.com'>联系我</a>。</p>
-            <p>🍅 本站是非营利性网站，为避免下载带宽浪费，请勿进行重复或不必要的下载。</p>
-            <p>🍋 站长邮箱：<a id='email' class='english'>coyotesss@yandex.com</a>（可能被纳入垃圾邮箱，请在垃圾邮件中查找我的回复）</p>
-            <p class='english'>🥝 Contributors：Coyotesss, Flas, Mafi, Fang。</p>
-        </div>
-    </div>
+<div class='header'>
+    {% include logo.html %}
+    {% include header-right.html %}
 </div>

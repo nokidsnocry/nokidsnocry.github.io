@@ -1,0 +1,14 @@
+
+<div class="changelog" data-overlayscrollbars-initialize>
+  <h1>更新日志</h1>
+  <br />
+  {% assign logs = site.data.changelog | reverse %}
+  {% for log in logs %}
+    <fieldset>
+      <legend>{{ log.date }}</legend>
+      {% for item in log.content %}
+        <p>{{ item }}</p>
+      {% endfor %}
+    </fieldset> 
+  {% endfor %}
+</div>

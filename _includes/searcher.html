@@ -1,0 +1,10 @@
+<div class="searcher">
+  <input type='text' placeholder='搜索书名、作者、关键词...' />
+  <select>
+    <option value="all">全部</option>
+    {% for item in site.data.material.metadata.type_chinese %}
+        <option value="{{ site.data.material.metadata.type[forloop.index0] }}" title="{{ site.data.material.metadata.type_description[forloop.index0] }}">{{ item[0] }}({{ item[1]}})</option>
+    {% endfor %}
+  </select>
+  <button>🔍</button>
+</div>

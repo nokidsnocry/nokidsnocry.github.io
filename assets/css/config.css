@@ -1,12 +1,18 @@
 :root {
     --color-blue: #6AB6DB;
+    --color-red: #DD5746;
     --color-orange: #E06526;
     --color-yellow: #F5CD3B;
-    --color-green: #C8E7C1;
+    --color-green: #4BBB8B;
+    --color-purple: #8E7CC7;
+    --color-light-blue: #8CD9F3;
+    --color-dark-blue: #3B9CFF;
+    --color-light-green: #C8E7C1;
     --body-color: var(--color-blue);
     --header-color: var(--color-orange);
-    --material-color: #8CD9F3;
-    --material-width: 330px;
-    --material-height: 225px;
-    --material-image-width: calc(var(--material-height) / 1.4)
+    --material-color: var(--color-light-blue);
+    --material-width: 324px;
+    --material-height: 200px;
+    --material-image-width: calc(var(--material-height) / 1.4);
+    --header-height: 60px;
 }
