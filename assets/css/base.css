@@ -222,6 +222,7 @@ a:hover {
 }
 #no-result {
     width: max-content;
+    max-width: 600px;
     height: max-content;
     position: fixed;
     margin: auto;
@@ -357,6 +358,9 @@ fieldset {
 @media screen and (max-width: 990px) {
     .title {
         display: none;
+    }
+    #no-result {
+        max-width: 90vw;
     }
 }
 @media screen and (max-width: 520px) {
