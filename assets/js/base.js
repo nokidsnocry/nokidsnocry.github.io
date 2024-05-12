@@ -169,7 +169,7 @@ function dynamicLoadMaterial() {
                 `<div class='material-container' data-utime=${mData.utime}>
                     <div class='material ${mData.type}'>
                         <div class='material-image'>
-                            <img src="${mData.cover_url}" loading='lazy' />
+                            <img src="${mData.cover_url}" referrerpolicy="no-referrer" loading='lazy' />
                         </div>
                         <div class='material-info'>
                             <div class='type' style='display:none'>${mData.type}</div>
@@ -195,7 +195,7 @@ function dynamicLoadMaterial() {
                     <div class='material-modal'>
                         <div class='urls'>
                             <span>🔑下载:</span>
-                            <a href="${mData.file_url}" target='_blank'>yukaidi</a>
+                            <a href="${mData.file_url}" target='_blank' rel="noopener noreferrer">yukaidi</a>
                         </div>
                     </div>
                 </div>`
