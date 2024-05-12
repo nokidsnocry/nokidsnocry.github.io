@@ -141,7 +141,6 @@ function dynamicLoadMaterial() {
     }
 
     function searchMaterial(type) {
-        console.log(type);
         let eleSearchInput = document.querySelector(".searcher > input");
         let searchTerm = eleSearchInput.value;
         materialData.forEach((data) => {
@@ -231,7 +230,6 @@ function dynamicLoadMaterial() {
             let type = eleSelect.value;
             initSearch();
             searchMaterial(type);
-            console.log(filteredMaterialData);
             loadMaterial(30);
         })
     }
