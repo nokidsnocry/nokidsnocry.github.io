@@ -137,7 +137,7 @@ function dynamicLoadMaterial() {
         filteredMaterialData = [];
         loadedAmount = 0;
         hideNoResult();
-        eleMaterials.scrollIntoView();
+        //eleMaterials.scrollIntoView();
     }
 
     function searchMaterial(type) {
