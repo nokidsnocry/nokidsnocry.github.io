@@ -194,7 +194,7 @@ function dynamicLoadMaterial() {
                     <div class='material-modal'>
                         <div class='urls'>
                             <span>🔑下载:</span>
-                            <a href="${mData.file_url}" target='_blank' rel="noopener noreferrer">yukaidi</a>
+                            <a href="${mData.file_url}" target='_blank' rel="noopener noreferrer">vipupan</a>
                         </div>
                     </div>
                 </div>`

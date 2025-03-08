@@ -1,9 +1,11 @@
 <div class='modal' data-overlayscrollbars-initialize>
   <div class='modal-content'>
-    <p>🎉网站优化了搜索功能，能够快速响应资源搜索🎈🎈。</p>
-    <p>🍇新添加【更新日志】页面，以便回溯更新内容🧷🌯。</p>
-    <p>🌽新添加了培智学校六年级和七年级生活数学、生活语文、生活适应电子教材共11本，以及一年级至六年级信息技术电子教材共6本🎨。</p>
-    <p>🥦将盲校和聋校的相关教材整合至【教材】类目中，现在共有261本特殊教育学校教材🍈🌱。</p>
+    {% assign logs = site.data.changelog.last %}
+    <p style="text-decoration: underline; color: var(--header-color)">🪐{{ logs.date }}</p>
+    <br />
+    {% for log in logs.content %}
+      <p>{{ log }}</p>
+    {% endfor %}
     <button>知道啦🍬</button>
   </div>
 </div>
