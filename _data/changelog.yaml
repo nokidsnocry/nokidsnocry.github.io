@@ -18,7 +18,7 @@
     - 切换资源托管平台，提供不限速下载🛩。
 - date: 2024-05-05
   content:
-    - 新建<a href="https://nokidsnocry.github.io/textbook" class="light-blue">【/textbook】</a>子页面，提供2300+本义务教育和高中阶段的各版本电子教材✨。
+    - 新建<a href="https://nokidsnocry.github.io/textbook" class="light-blue">/textbook</a>子页面，提供2300+本义务教育和高中阶段的各版本电子教材✨。
 - date: 2024-05-12
   content:
     - 1.优化搜索功能，快速响应资源搜索✨。
@@ -31,3 +31,4 @@
     - 1.切换资源托管平台（下载速度有所下降，但非蜗牛速度）✨。
     - 2.添加书籍《重度障碍学生的教育》🥕。
     - 3.全面更新包括盲校、聋校和培智学校在内的相关教材，重点添加了培智学校八年级教材共6本，补充七年级下册生活适应教材🥦。
+    - 4.添加镜像网址：<a href="https://nokidsnocry.pages.dev/" class="light-blue">https://nokidsnocry.pages.dev/</a>，优化国内访问速度🎈。

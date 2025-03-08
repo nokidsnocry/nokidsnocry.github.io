@@ -13247,7 +13247,7 @@ export const data = {
             "name": "重度障碍学生的教育",
             "pages": 926,
             "type": "book",
-            "utime": 1680369230,
+            "utime": 1741426691,
             "year": 2017,
             "file_url": "https://www.u-p.vip/s/4mgkIo"
         },
@@ -17095,7 +17095,7 @@ export const data = {
             "format": "pdf",
             "name": "培智学校义务教育实验教科书 生活数学 八年级 上册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/vVPGTX",
             "cover_url": "https://pic1.imgdb.cn/item/67cbab77066befcec6e09230.jpg"
         },
@@ -17104,7 +17104,7 @@ export const data = {
             "format": "pdf",
             "name": "培智学校义务教育实验教科书 生活数学 八年级 下册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/MEvnHg",
             "cover_url": "https://pic1.imgdb.cn/item/67cbaca0066befcec6e0929c.jpg"
         },
@@ -17221,7 +17221,7 @@ export const data = {
             "format": "pdf",
             "name": "培智学校义务教育实验教科书 生活语文 八年级 上册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/lkP4TK",
             "cover_url": "https://pic1.imgdb.cn/item/67cbaebf066befcec6e09766.jpg"
         },
@@ -17230,7 +17230,7 @@ export const data = {
             "format": "pdf",
             "name": "培智学校义务教育实验教科书 生活语文 八年级 下册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/apdauX",
             "cover_url": "https://pic1.imgdb.cn/item/67cbafde066befcec6e09a4e.jpg"
         },
@@ -17347,7 +17347,7 @@ export const data = {
             "format": "pdf",
             "name": "培智学校义务教育实验教科书 生活适应 八年级 上册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/98L6T3",
             "cover_url": "https://pic1.imgdb.cn/item/67cbaba0066befcec6e09237.jpg"
         },
@@ -17356,7 +17356,7 @@ export const data = {
             "format": "pdf",
             "name": "培智学校义务教育实验教科书 生活适应 八年级 下册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/rgPEc1",
             "cover_url": "https://pic1.imgdb.cn/item/67cbad81066befcec6e093ac.jpg"
         },
@@ -19183,7 +19183,7 @@ export const data = {
             "format": "pdf",
             "name": "（根据2022年版课程标准修订）培智学校义务教育实验教科书 生活适应 七年级 下册",
             "type": "textbook",
-            "utime": 1741426291,
+            "utime": 1741426591,
             "file_url": "https://www.u-p.vip/s/8o94Ia",
             "cover_url": "https://pic1.imgdb.cn/item/67cbabea066befcec6e09264.jpg"
         },
